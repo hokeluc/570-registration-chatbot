@@ -1,0 +1,113 @@
+{
+  "_about": "A/B pages from mines-registration-sources-tree.md. 'wordpress' sites are fetched via /wp-json/wp/v2/pages (gives 'modified'). 'static' pages are fetched as rendered HTML. 'expand' entries pull every URL under a prefix from the catalog sitemap or an index page.",
+  "wordpress": {
+    "registrar.mines.edu": {
+      "A": ["registration-information", "registration-information/registration-errors", "registration-faqs", "holds-information", "degreeworksfaq", "smart-plan", "core-curriculum", "combined-programs", "grades", "transfer-credit", "gen-transfer-credit-info", "tcaprocess", "cccs-preapproved-transfer", "cccs-core-general", "cccs-hass-courses", "cccs-compsci-engr", "intl-transfer", "ap-credit", "ib-credit", "application-to-graduate"],
+      "B": ["", "course-schedule-availability", "500-level-course-enrollment-request", "course-substitutions", "non-degree-course-combination", "banner-upgrade-faq", "student-classification", "program-changes", "bulletin-change", "academic-calendar", "exam-schedules", "faculty-grading", "tes", "advanced-and-military-credits", "challenge", "military-credit-information", "ordering-transcripts", "transcripts-verification", "enrollment-verification", "student-personal-information", "ferpa", "tuition-classification", "residency-cof", "college-opportunity-fund", "military-and-dependents", "forms", "registrar-a-z-and-quicklinks"]
+    },
+    "casa.mines.edu": {
+      "A": ["major-advising", "advising", "advising/new-student-registration", "advising/returning-student-advisement", "advising/transfer", "advising/gpa-and-withdrawal-information", "summer-fall-2026-advisement", "faqs", "grades-and-gpa-faqs", "major-exploration", "request19"],
+      "B": ["", "casa-forms", "bounce-back", "tutoring", "copy-of-core-supplemental-instruction-csi", "academic-support", "academic-support/coaching", "academic-support/resources", "peer-support", "peer-support/peer-advisors", "contact"]
+    },
+    "graduatestudies.mines.edu": {
+      "A": ["general-registration-requirements", "reduced-registration", "registration-requirements-reduced-registration-qualify", "deadlines-and-forms", "graduation-deadlines", "faq", "glossary", "navigating-your-degree", "navigating-masters-thesis", "navigating-masters-non-thesis", "navigating-phd", "navigating-combined-degrees", "navigating-graduate-certificates", "degree-requirements-transfer-credits", "transfer-credit", "combined-programs-ug-versus-gr-courses", "degree-level-change-program-change", "academic-probation", "leave-and-withdrawal", "return-leave-absence", "degree-audit", "apply-to-graduate", "admission-to-candidacy"],
+      "B": ["advisor-committee", "thesis-defense-rules-2", "graduate-grades", "gpa", "masters-along-way", "csm501"]
+    },
+    "cornerstone.mines.edu": {
+      "B": ["cornerstone-courses", "cornerstone-courses/edns-151", "cornerstone-courses/edns-251-options", "course-exemption"]
+    },
+    "cs.mines.edu": {
+      "A": ["cs-undergraduate-program", "csmines-undergraduate-curriculum", "transfer-students"],
+      "B": ["students-resources", "graduate-program", "onlineprograms"]
+    },
+    "ams.mines.edu": {
+      "A": ["undergraduate-program", "so-you-want-to-be-a-math-major-new"],
+      "B": ["graduate-program", "student-resources", "ams-learning-center"]
+    },
+    "mechanical.mines.edu": {
+      "A": ["undergraduate-program", "current-students", "me-tracks"],
+      "B": ["curriculum", "grad-program", "grad-aerospace", "me-online-programs", "online-students"]
+    },
+    "chemeng.mines.edu": {
+      "A": ["undergraduate-program", "undergraduate-program/cbe-undergraduate-program-faq"],
+      "B": ["graduate-program"]
+    },
+    "chemistry.mines.edu": {
+      "A": ["undergraduate-program"],
+      "B": ["graduate-program"]
+    },
+    "cee.mines.edu": {
+      "A": ["bs-civil-engineering", "bs-environmental-engineering", "b-s-in-construction-engineering"],
+      "B": ["graduate-programs"]
+    },
+    "econbus.mines.edu": {
+      "A": ["undergraduate-programs", "advising-resources"],
+      "B": ["graduate-programs", "engineering-technology-management/faqs-etm-program", "mineral-energy-economics/faqs-mee-program"]
+    },
+    "electrical.mines.edu": {
+      "A": ["undergraduate-program"]
+    },
+    "eds.mines.edu": {
+      "A": ["design-engineering"],
+      "B": ["design-engineering-abet-requirements"]
+    },
+    "hass.mines.edu": {
+      "B": ["music-and-performing-arts", "nature-and-human-values", "environment-resources-and-energy-policy"]
+    },
+    "metallurgy.mines.edu": {
+      "A": ["undergraduate-program"],
+      "B": ["graduate-program"]
+    },
+    "physics.mines.edu": {
+      "A": ["undergraduate/undergraduate-program", "undergraduate/undergraduate-program-advising", "undergraduate/transferring-credits"],
+      "B": ["undergraduate/curricular-spreadsheets", "graduate-handbook", "graduate"]
+    },
+    "qbe.mines.edu": {
+      "B": ["student-resources", "undergraduate-research", "professional-school-resources", "graduate-programs", "grad-resources"]
+    },
+    "honors.mines.edu": {
+      "B": [""]
+    },
+    "firstyearhonors.mines.edu": {
+      "B": ["", "about"]
+    },
+    "rotc.mines.edu": {
+      "B": ["", "army-rotc-cadet-enrollment-paperwork"]
+    }
+  },
+  "static": [
+    {"url": "https://catalog.mines.edu/coursesaz/", "priority": "A"},
+    {"url": "https://catalog.mines.edu/undergraduate/academics/academicregulationsstandards/", "priority": "A"},
+    {"url": "https://catalog.mines.edu/undergraduate/academics/academicterms/", "priority": "A"},
+    {"url": "https://catalog.mines.edu/undergraduate/academics/corecurriculum/", "priority": "A"},
+    {"url": "https://catalog.mines.edu/undergraduate/academics/studentclassification/", "priority": "A"},
+    {"url": "https://catalog.mines.edu/undergraduate/academics/combinedundergraduategraduate/", "priority": "A"},
+    {"url": "https://catalog.mines.edu/undergraduate/academics/hass/", "priority": "A"},
+    {"url": "https://catalog.mines.edu/undergraduate/academics/uhsp/", "priority": "B"},
+    {"url": "https://catalog.mines.edu/undergraduate/academics/uhsp/airforce/", "priority": "B"},
+    {"url": "https://catalog.mines.edu/undergraduate/academics/uhsp/militaryscience/", "priority": "B"},
+    {"url": "https://catalog.mines.edu/undergraduate/academics/academicoverview/", "priority": "B"},
+    {"url": "https://catalog.mines.edu/undergraduate/academics/recognition/", "priority": "B"},
+    {"url": "https://catalog.mines.edu/undergraduate/degreerequirementsgraduationinfo/", "priority": "A"},
+    {"url": "https://catalog.mines.edu/undergraduate/generalpoliciesprocedures/", "priority": "A"},
+    {"url": "https://catalog.mines.edu/undergraduate/tutionfeesfinancialassistance/", "priority": "B"},
+    {"url": "https://catalog.mines.edu/graduate/registrationandtuitionclassification/", "priority": "A"},
+    {"url": "https://catalog.mines.edu/graduate/generalregulations/", "priority": "A"},
+    {"url": "https://catalog.mines.edu/graduate/general-requirements/", "priority": "A"},
+    {"url": "https://catalog.mines.edu/graduate/combined-undergraduategraduate-degree-programs/", "priority": "A"},
+    {"url": "https://catalog.mines.edu/graduate/tuitionfeesfinancialassistance/", "priority": "B"},
+    {"url": "https://catalog.mines.edu/graduate/admissiontothegraduateschool/", "priority": "B"},
+    {"url": "https://catalog.mines.edu/policiesandprocedures/", "priority": "B"},
+    {"url": "https://www.mines.edu/academics/departments/", "priority": "B"},
+    {"url": "https://www.mines.edu/academics/undergraduate-academics/majors/quantum-systems-engineering-major/", "priority": "B"}
+  ],
+  "expand": [
+    {"from": "index", "index_url": "https://catalog.mines.edu/coursesaz/", "prefix": "https://catalog.mines.edu/coursesaz/", "priority": "A"},
+    {"from": "sitemap", "prefix": "https://catalog.mines.edu/undergraduate/academics/degrees/", "priority": "A"},
+    {"from": "sitemap", "prefix": "https://catalog.mines.edu/undergraduate/academics/minors/", "priority": "A"},
+    {"from": "sitemap", "prefix": "https://catalog.mines.edu/graduate/programs/", "priority": "A"},
+    {"from": "sitemap", "prefix": "https://catalog.mines.edu/graduate/registrationandtuitionclassification/", "priority": "A"},
+    {"from": "sitemap", "prefix": "https://catalog.mines.edu/graduate/generalregulations/", "priority": "A"},
+    {"from": "sitemap", "prefix": "https://catalog.mines.edu/graduate/general-requirements/", "priority": "A"}
+  ]
+}

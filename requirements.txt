@@ -1,0 +1,7 @@
+playwright==1.65.1
+beautifulsoup4==4.15.0
+milvus-lite==3.2.2
+pymilvus==3.0.3
+openai==3.50.0
+python-dotenv==1.2.4
+tiktoken==0.14.0
