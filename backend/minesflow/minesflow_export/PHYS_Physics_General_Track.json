@@ -1,0 +1,1093 @@
+{
+  "name": "PHYS - Physics - General Track",
+  "semesters": [
+    {
+      "year": "Freshman",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "MATH111",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the first course in the calculus sequence. Topics include elements of plane geometry, functions, limits, continuity, derivatives and their application, definite and indefinite integrals; 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: precalculus.",
+          "prereqs": [
+            "precalculus"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH112",
+            "MATH122",
+            "MATH201",
+            "CBEN210",
+            "CHGN209",
+            "GEGN203",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "PHGN100"
+          ]
+        },
+        {
+          "code": "CHGN121",
+          "title": "PRINCIPLES OF CHEMISTRY I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Study of matter and energy based on atomic structure, correlation of properties of elements with position in periodic chart, chemical bonding, geometry of molecules, phase changes, stoichiometry, solution chemistry, gas laws, and thermochemistry. 3 hours lecture, 3 hours lab; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN122",
+            "CHGN125",
+            "CHGN209",
+            "CHGN311",
+            "CHGN423",
+            "CEEN475",
+            "GEGN330",
+            "MNGN222",
+            "MTGN202"
+          ]
+        },
+        {
+          "code": "HASS100",
+          "title": "NATURE AND HUMAN VALUES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CSM191,CSM192,HNRS105,HNRS115,HNRS198A,LAIS100,Nature and Human Values (NHV) is a writing-intensive course, workshop, and discussion seminar that focuses on ethics and inquiry and uses humanities perspectives to examine big questions about the interdependence of human life, society, and the environment. The class links personal, professional, and environmental ethics to engineering, energy, and emerging technologies. Written and oral communication are stressed as a crucial component of professional and civic dialogue, while encouraging critical reading, thinking, and conversation about students' ethical obligations as world citizens with broader moral, social, and environmental responsibilities to stakeholders. The culminating research paper asks that students consider the ethical dimensions of their arguments within science and engineering contexts while engaging different viewpoints, evaluating sources, and supporting an original position. 3 hours seminar; 3 semester hours. Prerequisites: None. Corequisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS200",
+            "HASS202",
+            "HASS220",
+            "HASS226",
+            "HASS227",
+            "HASS298",
+            "HASS299",
+            "HASS300",
+            "HASS301",
+            "HASS302",
+            "HASS305",
+            "HASS307",
+            "HASS309",
+            "HASS314",
+            "HASS315",
+            "HASS316",
+            "HASS317",
+            "HASS318",
+            "HASS319",
+            "HASS320",
+            "HASS323",
+            "HASS324",
+            "HASS326",
+            "HASS327",
+            "HASS328",
+            "HASS329",
+            "HASS330",
+            "HASS339",
+            "HASS344",
+            "HASS365",
+            "HASS366",
+            "HASS370",
+            "HASS372",
+            "HASS376",
+            "HASS398",
+            "HASS399",
+            "HASS400",
+            "HASS401",
+            "HASS404",
+            "HASS406",
+            "HASS407",
+            "HASS408",
+            "HASS410",
+            "HASS411",
+            "HASS412",
+            "HASS413",
+            "HASS415",
+            "HASS416",
+            "HASS417",
+            "HASS418",
+            "HASS419",
+            "HASS420",
+            "HASS421",
+            "HASS422",
+            "HASS423",
+            "HASS425",
+            "HASS427",
+            "HASS429",
+            "HASS430",
+            "HASS431",
+            "HASS432",
+            "HASS435",
+            "HASS437",
+            "HASS439",
+            "HASS441",
+            "HASS448",
+            "HASS460",
+            "HASS461",
+            "HASS462",
+            "HASS463",
+            "HASS464",
+            "HASS465",
+            "HASS466",
+            "HASS467",
+            "HASS468",
+            "HASS469",
+            "HASS470",
+            "HASS484",
+            "HASS485",
+            "HASS486",
+            "HASS487",
+            "HASS488",
+            "HASS490",
+            "HASS491",
+            "HASS498",
+            "PEGN430"
+          ]
+        },
+        {
+          "code": "CSCI128",
+          "title": "COMPUTER SCIENCE FOR STEM",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Introduction to programming. Intended for students with no prior experience. Teaches basic programming constructs including data types, conditionals, loops, file I/O, functions, and objects in Python 3. Also covers topics vital to STEM computing, such as data science, best practices for code development, and software ethics. Prerequisite: None Co-requisite: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CSCI200",
+            "CSCI250",
+            "CSCI303",
+            "CSCI470",
+            "CSCI478",
+            "GPGN268",
+            "GPGN470",
+            "MEGN200",
+            "MEGN391",
+            "MNGN209",
+            "PEGN438"
+          ]
+        },
+        {
+          "code": "CSM101",
+          "title": "FRESHMAN SUCCESS SEMINAR",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "S&W",
+          "title": "SUCCESS AND WELLNESS",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Freshman",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "MATH112",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS II",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Equivalent with MATH122,This is the second course in the calculus sequence. Topics include vectors, applications and techniques of integration, infinite series, and an introduction to multivariate functions and surfaces. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH111.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH213",
+            "MATH223",
+            "MATH225",
+            "MATH235",
+            "MATH300",
+            "MATH332",
+            "CBEN200",
+            "CBEN310",
+            "CHGN209",
+            "CEEN241",
+            "CSCI358",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "MNGN251",
+            "MTGN202",
+            "MTGN251",
+            "MTGN272",
+            "PEGN438"
+          ]
+        },
+        {
+          "code": "CHGN122",
+          "title": "PRINCIPLES OF CHEMISTRY II (SC1) or  125",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Continuation of CHGN121 concentrating on chemical kinetics, gas laws, thermodynamics, electrochemistry and chemical equilibrium (acid- base, solubility, complexation, and redox). Laboratory experiments emphasizing quantitative chemical measurements. 3 hours lecture; 3 hours lab, 4 semester hours. Prerequisite: Grade of C- or better in CHGN121.",
+          "prereqs": [
+            "CHGN121"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN209",
+            "CHGN221",
+            "CHGN335",
+            "CHGN336",
+            "CHGN406",
+            "CHGN411",
+            "CEEN301",
+            "CEEN302",
+            "GEGN212",
+            "GEGN330",
+            "GEOL321",
+            "MNGN222",
+            "MNGN251",
+            "MTGN251",
+            "PHGN341"
+          ]
+        },
+        {
+          "code": "PHGN100",
+          "title": "PHYSICS I - MECHANICS",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "A first course in physics covering the basic principles of mechanics using vectors and calculus. The course consists of a fundamental treatment of the concepts and applications of kinematics and dynamics of particles and systems of particles, including Newton's laws, energy and momentum, rotation, oscillations, and waves. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1. Prerequisite: MATH111. Co-requisite: MATH112 or MATH122.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [
+            "MATH112 OR MATH122"
+          ],
+          "postreqs": [
+            "PHGN200"
+          ]
+        },
+        {
+          "code": "EDNS151",
+          "title": "CORNERSTONE - DESIGN I",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with EPIC151,(I, II, S) Design I teaches students how to solve open-ended problems in a hands-on manner using critical thinking and workplace skills. Students work in multidisciplinary teams to learn through doing, with emphasis on defining and diagnosing the problem through a holistic lens of technology, people and culture. Students follow a user-centered design methodology throughout the process, seeking to understand a problem from multiple perspectives before attempting to solve it. Students learn and apply specific skills throughout the semester, including: communication (written, oral, graphical), project management, concept visualization, critical thinking, effective teamwork, as well as building and iterating solutions.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "EDNS220",
+            "EDNS251",
+            "EDNS315",
+            "MEGN200",
+            "MEGN201"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "MATH213",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS III",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the third course in the calculus sequence, focused on multivariable calculus. Topics include partial derivatives, multiple integrals, and vector calculus. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH112 or MATH122. Corequisites: CSCI128 or CSCI102.",
+          "prereqs": [
+            "MATH112 OR MATH122"
+          ],
+          "coreqs": [
+            "CSCI128 OR CSCI102"
+          ],
+          "postreqs": [
+            "MATH307",
+            "MATH310",
+            "MATH342",
+            "MATH454",
+            "MATH455",
+            "MATH459",
+            "CEEN302",
+            "CSCI406",
+            "EBGN301",
+            "EBGN302",
+            "EBGN435",
+            "GPGN229",
+            "GEGN466",
+            "GEGN466L",
+            "MEGN261",
+            "MNGN317",
+            "MNGN318",
+            "MNGN322",
+            "PEGN305",
+            "PEGN450",
+            "PHGN435"
+          ]
+        },
+        {
+          "code": "PHGN200",
+          "title": "PHYSICS II-ELECTROMAGNETISM AND OPTICS",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Continuation of PHGN100. Introduction to the fundamental laws and concepts of electricity and magnetism, electromagnetic devices, electromagnetic behavior of materials, applications to simple circuits, electromagnetic radiation, and an introduction to optical phenomena. Prerequisite: Grade of C- or higher in PHGN100. Co-requisite: MATH213 or MATH223.",
+          "prereqs": [
+            "PHGN100"
+          ],
+          "coreqs": [
+            "MATH213 OR MATH223"
+          ],
+          "postreqs": [
+            "PHGN215",
+            "PHGN300",
+            "PHGN310",
+            "PHGN324",
+            "PHGN350",
+            "PHGN361",
+            "PHGN419"
+          ]
+        },
+        {
+          "code": "HASS215",
+          "title": "FUTURES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "FUTURES invites students to envision possibilities around critical issues related to the future of science and engineering. It is central to the Mines core curriculum and encouraged during the first years at Mines. Guided by four instructors who share perspectives from a wide range of humanities, social science, and applied disciplines, students will explore future-oriented themes at the forefront of advances in science, engineering, technology and society, such as Energy Futures, Technology Futures, and Critical Resource Sustainability, among others. By the end of the course students will gain skills in integrating multiple perspectives and connecting them to their own interests and trajectory at Mines and beyond. Prerequisites: None. Co-requisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS302"
+          ]
+        },
+        {
+          "code": "EDNS251",
+          "title": "CORNERSTONE DESIGN II",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with EPIC251,Design II builds on the design process introduced in Design I, which focuses on open-ended problem solving in which students integrate teamwork and communications with the use of design techniques, business tools, and computer software to solve engineering problems. Student project teams now work with real-world clients while infusing introductory business skills including Agile project management tools, time-value of money and financial project justifications to address client needs. Computer applications emphasize data analytics. Teams build team dynamics and ensure satisfaction of client needs through team meetings and sprint reviews. The course emphasizes oral, visual, and written technical communications techniques introduced in Design I. 2 hours lecture, 3 hours lab; 3 semester hours. Prerequisite: EDNS151, EDNS155, HNRS115, or HNRS120.",
+          "prereqs": [
+            "EDNS151 OR EDNS155 OR HNRS115 OR HNRS120"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MNGN334"
+          ]
+        },
+        {
+          "code": "CSM202",
+          "title": "INTRODUCTION TO STUDENT WELL-BEING AT MINES",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "MATH225",
+          "title": "DIFFERENTIAL EQUATIONS or  235",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course is an introduction to ordinary differential equations. Topics include classical techniques for first and higher order equations and systems of equations. Laplace transforms, phase-plane and stability analysis of non-linear equations and systems, applications from physics, mechanics, electrical engineering, and environmental sciences. 3 hours lecture; 3 semester hours. Prerequisites: Grade of C- or better in MATH112 or MATH122. Co-requisites: CSC128 or CSCI102.",
+          "prereqs": [
+            "MATH112 OR MATH122"
+          ],
+          "coreqs": [
+            "CSC128 OR CSCI102"
+          ],
+          "postreqs": [
+            "MATH310",
+            "MATH454",
+            "MATH455",
+            "MATH459",
+            "CBEN307",
+            "CBEN314",
+            "CBEN357",
+            "CBEN403",
+            "CBEN416",
+            "CBEN418",
+            "CBEN420",
+            "CBEN430",
+            "CBEN440",
+            "CHGN351",
+            "CEEN405",
+            "CEEN406",
+            "EENG307",
+            "EENG310",
+            "EENG386",
+            "EENG391",
+            "GPGN404",
+            "GEGN466",
+            "GEGN466L",
+            "GEOL470",
+            "MEGN475",
+            "MNGN461",
+            "MTGN315",
+            "MTGN461",
+            "MTGN469",
+            "PEGN414",
+            "PEGN423",
+            "PEGN460",
+            "PEGN461",
+            "PEGN462",
+            "PHGN311",
+            "PHGN419"
+          ]
+        },
+        {
+          "code": "MATH332",
+          "title": "LINEAR ALGEBRA or  342",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Systems of linear equations, matrices, determinants and eigenvalues. Linear operators. Abstract vector spaces. Applications selected from linear programming, physics, graph theory, and other fields. Prerequisite: CSCI128; MATH112, MATH122, or PHGN100.",
+          "prereqs": [
+            "CSCI128",
+            "MATH112 OR MATH122 OR PHGN100"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH431",
+            "MATH432",
+            "MATH436",
+            "MATH437",
+            "MATH438",
+            "MATH457",
+            "CSCI437",
+            "CSCI441",
+            "CSCI470",
+            "EBGN455",
+            "EENG437",
+            "GPGN404",
+            "MEGN486",
+            "PHGN311",
+            "PHGN320",
+            "PHGN417"
+          ]
+        },
+        {
+          "code": "PHGN215",
+          "title": "ANALOG ELECTRONICS",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Introduction to analog devices used in modern electronics and basic topics in electrical engineering. Introduction to methods of electronics measurements, particularly the application of oscilloscopes and computer based data acquisition. Topics covered include circuit analysis, electrical power, diodes, transistors (FET and BJT), operational amplifiers, filters, transducers, and integrated circuits. Laboratory experiments in the use of basic electronics for physical measurements. Emphasis is on practical knowledge gained in the laboratory, including prototyping, troubleshooting, and laboratory notebook style. 3 hours lecture, 3 hours lab; 4 semester hours. Prerequisite: PHGN200.",
+          "prereqs": [
+            "PHGN200"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PHGN317",
+            "PHGN384"
+          ]
+        },
+        {
+          "code": "PHGN310",
+          "title": "HONORS PHYSICS III-MODERN PHYSICS or  300",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with PHGN300,The third course in introductory physics with in depth discussion on special relativity, wave-particle duality, the Schroedinger equation, electrons in solids, quantum tunneling, nuclear structure and transmutations. Registration is strongly recommended for declared physics majors and those considering majoring or minoring in physics. 3 hours lecture; 3 semester hours. Prerequisite: PHGN200; Concurrent enrollment in MATH225.",
+          "prereqs": [
+            "PHGN200"
+          ],
+          "coreqs": [
+            "MATH225"
+          ],
+          "postreqs": [
+            "PHGN311",
+            "PHGN315",
+            "PHGN320",
+            "PHGN384",
+            "PHGN422",
+            "PHGN424"
+          ]
+        },
+        {
+          "code": "ELECTIVE",
+          "title": "CULTURE AND SOCIETY (CAS) 400-Level Restricted Elective^",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Summer",
+      "courses": [
+        {
+          "code": "PHGN384",
+          "title": "FIELD SESSION TECHNIQUES IN PHYSICS",
+          "credits": "6.0",
+          "core": "MAJOR",
+          "desc": "Introduction to the design and fabrication of engineering physics apparatus. Intensive individual participation in the design of machined system components, vacuum systems, electronics, optics, and application of computer interfacing systems and computational tools. Supplementary lectures on safety, laboratory techniques and professional development. Visits to regional research facilities and industrial plants. Prerequisites: PHGN300 or PHGN310, PHGN215, CSCI250. 6 semester hours.",
+          "prereqs": [
+            "PHGN300 OR PHGN310",
+            "PHGN215",
+            "CSCI250"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PHGN471",
+            "PHGN472",
+            "PHGN481",
+            "PHGN482",
+            "PHGN491"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "PHGN311",
+          "title": "INTRODUCTION TO MATHEMATICAL PHYSICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Demonstration of the unity of diverse topics such as mechanics, quantum mechanics, optics, and electricity and magnetism via the techniques of linear algebra, complex variables, Fourier transforms, and vector calculus. 3 hours lecture; 3 semester hours. Prerequisite: PHGN300 or PHGN310, MATH225, MATH332, and CSCI250.",
+          "prereqs": [
+            "PHGN300 OR PHGN310",
+            "MATH225",
+            "MATH332",
+            "CSCI250"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PHGN341",
+            "PHGN361",
+            "PHGN450",
+            "PHGN461"
+          ]
+        },
+        {
+          "code": "PHGN315",
+          "title": "ADVANCED PHYSICS LAB I",
+          "credits": "2.0",
+          "core": "MAJOR",
+          "desc": "(WI) Introduction to laboratory measurement techniques as applied to modern physics experiments. Experiments from optics and atomic physics. A writing-intensive course with laboratory and computer design projects based on applications of modern physics. 1 hour lecture, 3 hours lab; 2 semester hours. Prerequisite: PHGN300/310, PHGN384.",
+          "prereqs": [
+            "PHGN300 OR PHGN310",
+            "PHGN384"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PHGN326"
+          ]
+        },
+        {
+          "code": "PHGN317",
+          "title": "SEMICONDUCTOR CIRCUITS- DIGITAL",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Introduction to digital devices used in modern electronics. Topics covered include logic gates, flip-flops, timers, counters, multiplexing, analog-to-digital and digital-to-analog devices. Emphasis is on practical circuit design and assembly.Prerequisite: PHGN215 and CSCI250. 2 hours lecture; 3 hours lab; 3 semester hours.",
+          "prereqs": [
+            "PHGN215",
+            "CSCI250"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "PHGN350",
+          "title": "INTERMEDIATE MECHANICS",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Begins with an intermediate treatment of Newtonian mechanics and continues through an introduction to Hamilton's principle and Hamiltonian and Lagrangian dynamics. Includes systems of particles, linear and driven oscillators, motion under a central force, two-particle collisions and scattering, motion in non-inertial reference frames and dynamics of rigid bodies. 4 hours lecture; 4 semester hours. Prerequisite: PHGN200. Co-requisite: PHGN311.",
+          "prereqs": [
+            "PHGN200"
+          ],
+          "coreqs": [
+            "PHGN311"
+          ],
+          "postreqs": [
+            "PHGN418",
+            "PHGN423"
+          ]
+        },
+        {
+          "code": "EBGN321",
+          "title": "ENGINEERING ECONOMICS (",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CHEN421,Time value of money concepts of present worth, future worth, annual worth, rate of return and break-even analysis applied to after-tax economic analysis of mineral, petroleum and general investments. Related topics on proper handling of (1) inflation and escalation, (2) leverage (borrowed money), (3) risk adjustment of analysis using expected value concepts, (4) mutually exclusive alternative analysis and service producing alternatives.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "PHGN320",
+          "title": "MODERN PHYSICS II: BASICS OF QUANTUM MECHANICS",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Introduction to the Schroedinger theory of quantum mechanics. Topics include Schroedinger's equation, quantum theory of measurement, the uncertainty principle, eigenfunctions and energy spectra, anular momentum, perturbation theory, and the treatment of identical particles. Example applications taken from atomic, molecular, solid state or nuclear systems. 4 hours lecture; 4 semester hours. Prerequisite: PHGN300, PHGN310, and MATH332, MATH342.",
+          "prereqs": [
+            "PHGN300",
+            "PHGN310",
+            "MATH332",
+            "MATH342"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PHGN440",
+            "PHGN480"
+          ]
+        },
+        {
+          "code": "PHGN326",
+          "title": "ADVANCED PHYSICS LAB II",
+          "credits": "2.0",
+          "core": "MAJOR",
+          "desc": "(WI) Continuation of PHGN315. A writing-intensive course which expands laboratory experiments to include nuclear and solid state physics. 1 hour lecture, 3 hours lab; 2 semester hours. Prerequisite: PHGN315.",
+          "prereqs": [
+            "PHGN315"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PHGN471",
+            "PHGN472",
+            "PHGN481",
+            "PHGN482",
+            "PHGN491"
+          ]
+        },
+        {
+          "code": "PHGN341",
+          "title": "THERMAL PHYSICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "An introduction to statistical physics from the quantum mechanical point of view. The microcanonical and canonical ensembles. Heat, work and the laws of thermodynamics. Thermodynamic potentials; Maxwell relations; phase transformations. Elementary kinetic theory. An introduction to quantum statistics. 3 hours lecture; 3 semester hours. Prerequisite: CHGN122 or CHGN125 and PHGN311.",
+          "prereqs": [
+            "CHGN122 OR CHGN125",
+            "PHGN311"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "PHGN361",
+          "title": "INTERMEDIATE ELECTROMAGNETISM",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Theory and application of the following: static electric and magnetic fields in free space, dielectric materials, and magnetic materials; steady currents; scalar and vector potentials; Gauss' law and Laplace's equation applied to boundary value problems; Ampere's and Faraday's laws. 3 hours lecture; 3 semester hours. Prerequisite: PHGN200 and PHGN311.",
+          "prereqs": [
+            "PHGN200",
+            "PHGN311"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PHGN462"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "PHGN471",
+          "title": "SENIOR DESIGN PRINCIPLES I",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "The first of a two semester sequence covering the principles of project design. Class sessions cover effective team organization, project planning, time management, literature research methods, record keeping, fundamentals of technical writing, professional ethics, project funding and intellectual property. 1 hour lecture in 7 class sessions; 1 semester hour. Prerequisites: PHGN384, PHGN326. Co-requisites: PHGN481 or PHGN491.",
+          "prereqs": [
+            "PHGN384",
+            "PHGN326"
+          ],
+          "coreqs": [
+            "PHGN481 OR PHGN491"
+          ],
+          "postreqs": []
+        },
+        {
+          "code": "PHGN481",
+          "title": "SENIOR DESIGN PRACTICE#",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "The first of a two semester program covering the full spectrum of project design, drawing on all of the student's previous course work. At the beginning of the first semester, the student selects a research project in consultation with the Senior Design Oversight Committee (SDOC) and the Project Mentor. The objectives of the project are given to the student in broad outline form. The student then designs the entire project, including any or all of the following elements as appropriate: literature search, specialized apparatus or algorithms, block-diagram electronics, computer data acquisition and/or analysis, sample materials, and measurement and/or analysis sequences. The course culminates in a formal interim written report. 6 hour lab; 3 semester hours. Prerequisites: PHGN384, PHGN326. Corequisite: PHGN471.",
+          "prereqs": [
+            "PHGN384",
+            "PHGN326"
+          ],
+          "coreqs": [
+            "PHGN471"
+          ],
+          "postreqs": [
+            "PHGN492"
+          ]
+        },
+        {
+          "code": "PHGN462",
+          "title": "ELECTROMAGNETIC WAVES AND OPTICAL PHYSICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Solutions to the electromagnetic wave equation, including plane waves, guided waves, refraction, interference, diffraction and polarization; applications in optics; imaging, lasers, resonators and wave guides. 3 hours lecture; 3 semester hours. Prerequisite: PHGN361.",
+          "prereqs": [
+            "PHGN361"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "ELECTIVE",
+          "title": "CULTURE AND SOCIETY (CAS) Mid-Level Restricted Elective^",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective I",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective II",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "PHGN472",
+          "title": "SENIOR DESIGN PRINCIPLES II",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "Continuation of PHGN471. 1 hour lecture in 7 class sessions; 1 semester hour. Prerequisites: PHGN384, PHGN326. Co-requisites: PHGN482 or PHGN492.",
+          "prereqs": [
+            "PHGN384",
+            "PHGN326"
+          ],
+          "coreqs": [
+            "PHGN482 OR PHGN492"
+          ],
+          "postreqs": []
+        },
+        {
+          "code": "PHGN482",
+          "title": "SENIOR DESIGN PRACTICE#",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Continuation of PHGN481. The course culminates in a formal written report and poster. Prerequisites: PHGN384 and PHGN326. Corequisite: PHGN472. 6 hour lab; 3 semester hours.",
+          "prereqs": [
+            "PHGN384",
+            "PHGN326"
+          ],
+          "coreqs": [
+            "PHGN472"
+          ],
+          "postreqs": []
+        },
+        {
+          "code": "ENG SCI",
+          "title": "Engineering Science Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "ELECTIVE",
+          "title": "CULTURE AND SOCIETY (CAS) 400-Level Restricted Elective^",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective III",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective IV",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "MATH111",
+      "to": "MATH112",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN121",
+      "to": "CHGN122",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH111",
+      "to": "PHGN100",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "PHGN100",
+      "type": "coreq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH213",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "MATH213",
+      "type": "coreq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "PHGN200",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH213",
+      "to": "PHGN200",
+      "type": "coreq"
+    },
+    {
+      "from": "EDNS151",
+      "to": "EDNS251",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH225",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "MATH332",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH332",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "MATH332",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN200",
+      "to": "PHGN215",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN200",
+      "to": "PHGN310",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH225",
+      "to": "PHGN310",
+      "type": "coreq"
+    },
+    {
+      "from": "PHGN215",
+      "to": "PHGN384",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN310",
+      "to": "PHGN384",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH225",
+      "to": "PHGN311",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH332",
+      "to": "PHGN311",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN310",
+      "to": "PHGN311",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN310",
+      "to": "PHGN315",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN384",
+      "to": "PHGN315",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN215",
+      "to": "PHGN317",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN200",
+      "to": "PHGN350",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN311",
+      "to": "PHGN350",
+      "type": "coreq"
+    },
+    {
+      "from": "MATH332",
+      "to": "PHGN320",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN310",
+      "to": "PHGN320",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN315",
+      "to": "PHGN326",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN122",
+      "to": "PHGN341",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN311",
+      "to": "PHGN341",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN200",
+      "to": "PHGN361",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN311",
+      "to": "PHGN361",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN326",
+      "to": "PHGN471",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN384",
+      "to": "PHGN471",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN481",
+      "to": "PHGN471",
+      "type": "coreq"
+    },
+    {
+      "from": "PHGN326",
+      "to": "PHGN481",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN384",
+      "to": "PHGN481",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN471",
+      "to": "PHGN481",
+      "type": "coreq"
+    },
+    {
+      "from": "PHGN361",
+      "to": "PHGN462",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN326",
+      "to": "PHGN472",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN384",
+      "to": "PHGN472",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN482",
+      "to": "PHGN472",
+      "type": "coreq"
+    },
+    {
+      "from": "PHGN326",
+      "to": "PHGN482",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN384",
+      "to": "PHGN482",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN472",
+      "to": "PHGN482",
+      "type": "coreq"
+    }
+  ]
+}

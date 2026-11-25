@@ -1,0 +1,104 @@
+{
+  "CSCI": {
+    "dept_name": "Computer Science",
+    "url_name": "cs",
+    "degree_title_style": "STRONG_BSIN_DR",
+    "major_granting": true
+  },
+  "AMS": {
+    "dept_name": "Applied Mathematics and Statistics",
+    "url_name": "ams",
+    "degree_title_style": "EMPH()",
+    "major_granting": true
+  },
+  "CHEME": {
+    "dept_name": "Chemical and Biological Engineering",
+    "url_name": "chemicalandbiologicalengineering",
+    "degree_title_style": "STRONG_BSIN_DR",
+    "major_granting": true
+  },
+  "CIVENVIRO": {
+    "dept_name": "Civil and Environmental Engineering",
+    "url_name": "civilandenvironmentaleng",
+    "degree_title_style": "STRONG_BSIN_DR",
+    "major_granting": true
+  },
+  "CHEM": {
+    "dept_name": "Chemistry",
+    "url_name": "chemistry",
+    "degree_title_style": "CHEM",
+    "major_granting": true
+  },
+  "ECON": {
+    "dept_name": "Economics and Business",
+    "url_name": "economicsandbusiness",
+    "degree_title_style": "DRIN",
+    "major_granting": true
+  },
+  "EDNS": {
+    "dept_name": "Engineering, Design, and Society",
+    "url_name": "edns",
+    "degree_title_style": "STRONG_BSIN_DR",
+    "major_granting": true
+  },
+  "EE": {
+    "dept_name": "Electrical Engineering",
+    "url_name": "ee",
+    "degree_title_style": "STRONG_BSIN_DR",
+    "major_granting": true
+  },
+  "GEO": {
+    "dept_name": "Geology and Geological Engineering",
+    "url_name": "geologyandgeologicalengineering",
+    "degree_title_style": "CONC",
+    "major_granting": true
+  },
+  "GEOPHYS": {
+    "dept_name": "Geophysics",
+    "url_name": "geophysics",
+    "degree_title_style": "STRONG_BSIN_DR",
+    "major_granting": true
+  },
+  "HASS": {
+    "dept_name": "Humanities, Arts, and Social Sciences",
+    "url_name": "HASS",
+    "major_granting": false
+  },
+  "MECHE": {
+    "dept_name": "Mechanical Engineering",
+    "url_name": "mechanicalengineering",
+    "degree_title_style": "STRONG_BSIN_DR",
+    "major_granting": true
+  },
+  "MME": {
+    "dept_name": "Metallurgical and Materials Engineering",
+    "url_name": "metallurgicalandmaterialsengineering",
+    "degree_title_style": "STRONG_BSIN_DR",
+    "major_granting": true
+  },
+  "MINE": {
+    "dept_name": "Mining Engineering",
+    "url_name": "miningengineering",
+    "degree_title_style": "STRONG_BSIN_DR",
+    "major_granting": true
+  },
+  "PETRO": {
+    "dept_name": "Petroleum Engineering",
+    "url_name": "petroleumengineering",
+    "degree_title_style": "STRONG_BSIN_DR",
+    "major_granting": true
+  },
+  "PHYS": {
+    "dept_name": "Physics",
+    "url_name": "physics",
+    "degree_title_style": "STRONG_BSIN_DR",
+    "major_granting": true
+  },
+  "QBE": {
+    "dept_name": "Quantitative Biosciences and Engineering",
+    "url_name": "quantitativebiosciencesengineering",
+    "degree_title_style": "STRONG_BSIN_DR",
+    "major_granting": true,
+    "course_issuing": false
+  }
+}

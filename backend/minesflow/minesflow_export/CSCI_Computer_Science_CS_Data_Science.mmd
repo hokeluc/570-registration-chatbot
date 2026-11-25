@@ -1,0 +1,93 @@
+flowchart LR
+  %% CSCI - Computer Science - CS + Data Science
+  subgraph S0["Freshman Fall"]
+    n0_MATH111["MATH111<br/>CALCULUS FOR SCIENTISTS AND ENGINEERS I"]
+    n1_HASS100["HASS100<br/>NATURE AND HUMAN VALUES"]
+    n2_CHGN121["CHGN121<br/>PRINCIPLES OF CHEMISTRY I"]
+    n3_CSM101["CSM101<br/>FRESHMAN SUCCESS SEMINAR"]
+    n4_CSCI128["CSCI128<br/>COMPUTER SCIENCE FOR STEM"]
+  end
+  subgraph S1["Freshman Spring"]
+    n5_MATH112["MATH112<br/>CALCULUS FOR SCIENTISTS AND ENGINEERS II"]
+    n6_PHGN100["PHGN100<br/>PHYSICS I - MECHANICS"]
+    n7_S_W["S&W<br/>SUCCESS AND WELLNESS"]
+    n8_EDNS151["EDNS151<br/>CORNERSTONE - DESIGN I"]
+    n9_CSCI200["CSCI200<br/>FOUNDATIONAL PROGRAMMING CONCEPTS & DESIGN"]
+  end
+  subgraph S2["Sophomore Fall"]
+    n10_MATH213["MATH213<br/>CALCULUS FOR SCIENTISTS AND ENGINEERS III"]
+    n11_CSM202["CSM202<br/>INTRODUCTION TO STUDENT WELL-BEING AT MINES"]
+    n12_PHGN200["PHGN200<br/>PHYSICS II-ELECTROMAGNETISM AND OPTICS"]
+    n13_CSCI358["CSCI358<br/>DISCRETE MATHEMATICS"]
+    n14_CSCI210["CSCI210<br/>SYSTEMS PROGRAMMING"]
+  end
+  subgraph S3["Sophomore Spring"]
+    n15_MATH225["MATH225<br/>DIFFERENTIAL EQUATIONS"]
+    n16_HASS200["HASS200<br/>GLOBAL STUDIES"]
+    n17_FREE["FREE<br/>Free Elective"]
+    n18_CSCI220["CSCI220<br/>DATA STRUCTURES AND ALGORITHMS"]
+    n19_Focus_Area_Course_1["Focus Area Course 1<br/>NOT_FOUND"]
+  end
+  subgraph S4["Junior Fall"]
+    n20_MATH332["MATH332<br/>LINEAR ALGEBRA"]
+    n21_MATH334["MATH334<br/>INTRODUCTION TO PROBABILITY"]
+    n22_CSCI306["CSCI306<br/>SOFTWARE ENGINEERING"]
+    n23_Focus_Area_Course_2["Focus Area Course 2<br/>NOT_FOUND"]
+    n24_Focus_Area_Course_3["Focus Area Course 3<br/>NOT_FOUND"]
+  end
+  subgraph S5["Junior Spring"]
+    n25_EBGN321["EBGN321<br/>ENGINEERING ECONOMICS"]
+    n26_CAS3["CAS3**<br/>CULTURE AND SOCIETY (CAS) Mid-Level Restricted Elective"]
+    n27_FREE["FREE<br/>Free Elective"]
+    n28_CSCI341["CSCI341<br/>COMPUTER ORGANIZATION"]
+    n29_CSCI406["CSCI406<br/>ALGORITHMS"]
+    n30_Focus_Area_Course_4["Focus Area Course 4<br/>NOT_FOUND"]
+  end
+  subgraph S6["Junior Summer"]
+    n31_CSCI370["CSCI370<br/>ADVANCED SOFTWARE ENGINEERING"]
+  end
+  subgraph S7["Senior Fall"]
+    n32_CAS3["CAS3**<br/>CULTURE AND SOCIETY (CAS) Mid-Level Restricted Elective"]
+    n33_CSCI400["CSCI400<br/>PRINCIPLES OF PROGRAMMING LANGUAGES"]
+    n34_Focus_Area_Course_5["Focus Area Course 5<br/>NOT_FOUND"]
+    n35_Focus_Area_Course_6["Focus Area Course 6<br/>NOT_FOUND"]
+    n36_Focus_Area_Course_7["Focus Area Course 7<br/>NOT_FOUND"]
+  end
+  subgraph S8["Senior Spring"]
+    n37_CAS4["CAS4**<br/>CULTURE AND SOCIETY (CAS) 400 Level Restricted Elective"]
+    n38_CSCI442["CSCI442<br/>OPERATING SYSTEMS"]
+    n39_Focus_Area_Course_8["Focus Area Course 8<br/>NOT_FOUND"]
+    n40_Focus_Area_Course_9["Focus Area Course 9<br/>NOT_FOUND"]
+    n41_Focus_Area_Course_10["Focus Area Course 10<br/>NOT_FOUND"]
+  end
+  n0_MATH111 --> n5_MATH112
+  n0_MATH111 --> n6_PHGN100
+  n5_MATH112 -.-> n6_PHGN100
+  n4_CSCI128 --> n9_CSCI200
+  n5_MATH112 --> n10_MATH213
+  n4_CSCI128 -.-> n10_MATH213
+  n6_PHGN100 --> n12_PHGN200
+  n10_MATH213 -.-> n12_PHGN200
+  n5_MATH112 --> n13_CSCI358
+  n9_CSCI200 --> n14_CSCI210
+  n5_MATH112 --> n15_MATH225
+  n1_HASS100 --> n16_HASS200
+  n9_CSCI200 --> n18_CSCI220
+  n13_CSCI358 --> n18_CSCI220
+  n21_MATH334 --> n18_CSCI220
+  n4_CSCI128 --> n20_MATH332
+  n5_MATH112 --> n20_MATH332
+  n6_PHGN100 --> n20_MATH332
+  n4_CSCI128 --> n21_MATH334
+  n10_MATH213 -.-> n21_MATH334
+  n14_CSCI210 --> n22_CSCI306
+  n18_CSCI220 --> n22_CSCI306
+  n14_CSCI210 --> n28_CSCI341
+  n18_CSCI220 --> n29_CSCI406
+  n13_CSCI358 --> n29_CSCI406
+  n10_MATH213 --> n29_CSCI406
+  n22_CSCI306 --> n31_CSCI370
+  n22_CSCI306 --> n33_CSCI400
+  n13_CSCI358 --> n33_CSCI400
+  n18_CSCI220 --> n38_CSCI442
+  n28_CSCI341 --> n38_CSCI442

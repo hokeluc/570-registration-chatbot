@@ -1,0 +1,1050 @@
+{
+  "name": "EE - Electrical Engineering - General Track",
+  "semesters": [
+    {
+      "year": "Freshman",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "CHGN121",
+          "title": "PRINCIPLES OF CHEMISTRY I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Study of matter and energy based on atomic structure, correlation of properties of elements with position in periodic chart, chemical bonding, geometry of molecules, phase changes, stoichiometry, solution chemistry, gas laws, and thermochemistry. 3 hours lecture, 3 hours lab; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN122",
+            "CHGN125",
+            "CHGN209",
+            "CHGN311",
+            "CHGN423",
+            "CEEN475",
+            "GEGN330",
+            "MNGN222",
+            "MTGN202"
+          ]
+        },
+        {
+          "code": "MATH111",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the first course in the calculus sequence. Topics include elements of plane geometry, functions, limits, continuity, derivatives and their application, definite and indefinite integrals; 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: precalculus.",
+          "prereqs": [
+            "precalculus"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH112",
+            "MATH122",
+            "MATH201",
+            "CBEN210",
+            "CHGN209",
+            "GEGN203",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "PHGN100"
+          ]
+        },
+        {
+          "code": "HASS100",
+          "title": "NATURE AND HUMAN VALUES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CSM191,CSM192,HNRS105,HNRS115,HNRS198A,LAIS100,Nature and Human Values (NHV) is a writing-intensive course, workshop, and discussion seminar that focuses on ethics and inquiry and uses humanities perspectives to examine big questions about the interdependence of human life, society, and the environment. The class links personal, professional, and environmental ethics to engineering, energy, and emerging technologies. Written and oral communication are stressed as a crucial component of professional and civic dialogue, while encouraging critical reading, thinking, and conversation about students' ethical obligations as world citizens with broader moral, social, and environmental responsibilities to stakeholders. The culminating research paper asks that students consider the ethical dimensions of their arguments within science and engineering contexts while engaging different viewpoints, evaluating sources, and supporting an original position. 3 hours seminar; 3 semester hours. Prerequisites: None. Corequisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS200",
+            "HASS202",
+            "HASS220",
+            "HASS226",
+            "HASS227",
+            "HASS298",
+            "HASS299",
+            "HASS300",
+            "HASS301",
+            "HASS302",
+            "HASS305",
+            "HASS307",
+            "HASS309",
+            "HASS314",
+            "HASS315",
+            "HASS316",
+            "HASS317",
+            "HASS318",
+            "HASS319",
+            "HASS320",
+            "HASS323",
+            "HASS324",
+            "HASS326",
+            "HASS327",
+            "HASS328",
+            "HASS329",
+            "HASS330",
+            "HASS339",
+            "HASS344",
+            "HASS365",
+            "HASS366",
+            "HASS370",
+            "HASS372",
+            "HASS376",
+            "HASS398",
+            "HASS399",
+            "HASS400",
+            "HASS401",
+            "HASS404",
+            "HASS406",
+            "HASS407",
+            "HASS408",
+            "HASS410",
+            "HASS411",
+            "HASS412",
+            "HASS413",
+            "HASS415",
+            "HASS416",
+            "HASS417",
+            "HASS418",
+            "HASS419",
+            "HASS420",
+            "HASS421",
+            "HASS422",
+            "HASS423",
+            "HASS425",
+            "HASS427",
+            "HASS429",
+            "HASS430",
+            "HASS431",
+            "HASS432",
+            "HASS435",
+            "HASS437",
+            "HASS439",
+            "HASS441",
+            "HASS448",
+            "HASS460",
+            "HASS461",
+            "HASS462",
+            "HASS463",
+            "HASS464",
+            "HASS465",
+            "HASS466",
+            "HASS467",
+            "HASS468",
+            "HASS469",
+            "HASS470",
+            "HASS484",
+            "HASS485",
+            "HASS486",
+            "HASS487",
+            "HASS488",
+            "HASS490",
+            "HASS491",
+            "HASS498",
+            "PEGN430"
+          ]
+        },
+        {
+          "code": "CSM101",
+          "title": "FRESHMAN SUCCESS SEMINAR",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "Science Elective",
+          "title": "CBEN110, GEGN101, CHGN122, or CHGN125",
+          "credits": "4.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Freshman",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "MATH112",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS II",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Equivalent with MATH122,This is the second course in the calculus sequence. Topics include vectors, applications and techniques of integration, infinite series, and an introduction to multivariate functions and surfaces. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH111.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH213",
+            "MATH223",
+            "MATH225",
+            "MATH235",
+            "MATH300",
+            "MATH332",
+            "CBEN200",
+            "CBEN310",
+            "CHGN209",
+            "CEEN241",
+            "CSCI358",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "MNGN251",
+            "MTGN202",
+            "MTGN251",
+            "MTGN272",
+            "PEGN438"
+          ]
+        },
+        {
+          "code": "EDNS151",
+          "title": "CORNERSTONE - DESIGN I",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with EPIC151,(I, II, S) Design I teaches students how to solve open-ended problems in a hands-on manner using critical thinking and workplace skills. Students work in multidisciplinary teams to learn through doing, with emphasis on defining and diagnosing the problem through a holistic lens of technology, people and culture. Students follow a user-centered design methodology throughout the process, seeking to understand a problem from multiple perspectives before attempting to solve it. Students learn and apply specific skills throughout the semester, including: communication (written, oral, graphical), project management, concept visualization, critical thinking, effective teamwork, as well as building and iterating solutions.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "EDNS220",
+            "EDNS251",
+            "EDNS315",
+            "MEGN200",
+            "MEGN201"
+          ]
+        },
+        {
+          "code": "PHGN100",
+          "title": "PHYSICS I - MECHANICS",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "A first course in physics covering the basic principles of mechanics using vectors and calculus. The course consists of a fundamental treatment of the concepts and applications of kinematics and dynamics of particles and systems of particles, including Newton's laws, energy and momentum, rotation, oscillations, and waves. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1. Prerequisite: MATH111. Co-requisite: MATH112 or MATH122.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [
+            "MATH112 OR MATH122"
+          ],
+          "postreqs": [
+            "PHGN200"
+          ]
+        },
+        {
+          "code": "CSM202",
+          "title": "INTRODUCTION TO STUDENT WELL-BEING AT MINES",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "CSCI128",
+          "title": "COMPUTER SCIENCE FOR STEM",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Introduction to programming. Intended for students with no prior experience. Teaches basic programming constructs including data types, conditionals, loops, file I/O, functions, and objects in Python 3. Also covers topics vital to STEM computing, such as data science, best practices for code development, and software ethics. Prerequisite: None Co-requisite: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CSCI200",
+            "CSCI250",
+            "CSCI303",
+            "CSCI470",
+            "CSCI478",
+            "GPGN268",
+            "GPGN470",
+            "MEGN200",
+            "MEGN391",
+            "MNGN209",
+            "PEGN438"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "HASS215",
+          "title": "FUTURES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "FUTURES invites students to envision possibilities around critical issues related to the future of science and engineering. It is central to the Mines core curriculum and encouraged during the first years at Mines. Guided by four instructors who share perspectives from a wide range of humanities, social science, and applied disciplines, students will explore future-oriented themes at the forefront of advances in science, engineering, technology and society, such as Energy Futures, Technology Futures, and Critical Resource Sustainability, among others. By the end of the course students will gain skills in integrating multiple perspectives and connecting them to their own interests and trajectory at Mines and beyond. Prerequisites: None. Co-requisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS302"
+          ]
+        },
+        {
+          "code": "MATH213",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS III",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the third course in the calculus sequence, focused on multivariable calculus. Topics include partial derivatives, multiple integrals, and vector calculus. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH112 or MATH122. Corequisites: CSCI128 or CSCI102.",
+          "prereqs": [
+            "MATH112 OR MATH122"
+          ],
+          "coreqs": [
+            "CSCI128 OR CSCI102"
+          ],
+          "postreqs": [
+            "MATH307",
+            "MATH310",
+            "MATH342",
+            "MATH454",
+            "MATH455",
+            "MATH459",
+            "CEEN302",
+            "CSCI406",
+            "EBGN301",
+            "EBGN302",
+            "EBGN435",
+            "GPGN229",
+            "GEGN466",
+            "GEGN466L",
+            "MEGN261",
+            "MNGN317",
+            "MNGN318",
+            "MNGN322",
+            "PEGN305",
+            "PEGN450",
+            "PHGN435"
+          ]
+        },
+        {
+          "code": "PHGN200",
+          "title": "PHYSICS II-ELECTROMAGNETISM AND OPTICS (Distributed Science 3)",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Continuation of PHGN100. Introduction to the fundamental laws and concepts of electricity and magnetism, electromagnetic devices, electromagnetic behavior of materials, applications to simple circuits, electromagnetic radiation, and an introduction to optical phenomena. Prerequisite: Grade of C- or higher in PHGN100. Co-requisite: MATH213 or MATH223.",
+          "prereqs": [
+            "PHGN100"
+          ],
+          "coreqs": [
+            "MATH213 OR MATH223"
+          ],
+          "postreqs": [
+            "PHGN215",
+            "PHGN300",
+            "PHGN310",
+            "PHGN324",
+            "PHGN350",
+            "PHGN361",
+            "PHGN419"
+          ]
+        },
+        {
+          "code": "CSCI200",
+          "title": "FOUNDATIONAL PROGRAMMING CONCEPTS & DESIGN",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course teaches students C++, how to manage memory properly & efficiently at run time, the principles of object-oriented programming, and how to create an algorithm using data structures & abstraction to solve a problem.  Recursive data structures & algorithms will be constructed & analyzed when solving problems.  Initial principal components of software engineering and design will be introduced and used when drafting a solution to a problem.  Programs will be developed using a command line interface. Prerequisite: CSCI101 or CSCI128.",
+          "prereqs": [
+            "CSCI101 OR CSCI128"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CSCI210",
+            "CSCI220",
+            "CSCI262",
+            "CSCI274",
+            "CSCI403",
+            "CSCI413",
+            "CSCI432",
+            "CSCI436",
+            "CSCI437",
+            "EENG284",
+            "EENG392",
+            "EENG437",
+            "MEGN441"
+          ]
+        },
+        {
+          "code": "SUCCESS AND WELLNESS",
+          "title": "NOT_FOUND",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "MATH225",
+          "title": "DIFFERENTIAL EQUATIONS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course is an introduction to ordinary differential equations. Topics include classical techniques for first and higher order equations and systems of equations. Laplace transforms, phase-plane and stability analysis of non-linear equations and systems, applications from physics, mechanics, electrical engineering, and environmental sciences. 3 hours lecture; 3 semester hours. Prerequisites: Grade of C- or better in MATH112 or MATH122. Co-requisites: CSC128 or CSCI102.",
+          "prereqs": [
+            "MATH112 OR MATH122"
+          ],
+          "coreqs": [
+            "CSC128 OR CSCI102"
+          ],
+          "postreqs": [
+            "MATH310",
+            "MATH454",
+            "MATH455",
+            "MATH459",
+            "CBEN307",
+            "CBEN314",
+            "CBEN357",
+            "CBEN403",
+            "CBEN416",
+            "CBEN418",
+            "CBEN420",
+            "CBEN430",
+            "CBEN440",
+            "CHGN351",
+            "CEEN405",
+            "CEEN406",
+            "EENG307",
+            "EENG310",
+            "EENG386",
+            "EENG391",
+            "GPGN404",
+            "GEGN466",
+            "GEGN466L",
+            "GEOL470",
+            "MEGN475",
+            "MNGN461",
+            "MTGN315",
+            "MTGN461",
+            "MTGN469",
+            "PEGN414",
+            "PEGN423",
+            "PEGN460",
+            "PEGN461",
+            "PEGN462",
+            "PHGN311",
+            "PHGN419"
+          ]
+        },
+        {
+          "code": "EENG284",
+          "title": "DIGITAL LOGIC",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "This course is an introduction to digital logic design. Students will start to learn how to design combinational logic circuit using Kmaps, manipulate these expressions using Boolean algebra and then produce basic building blocks like decoders and adders. Next students will focus on sequential logic circuits with basic memory elements, then design sequential building blocks like counters and registers and then to design finite state machines. Students will then learn how to combine basic building blocks with finite state machines to create complex functionality. Students will implement their design using a hardware description language and download these designs on FPGAs. Prerequisite: CSCI261 (C- or better) or CSCI200 (C- or better). Co-requisite: EENG282 or EENG281 or PHGN215.",
+          "prereqs": [
+            "CSCI261 OR CSCI200"
+          ],
+          "coreqs": [
+            "EENG282 OR EENG281 OR PHGN215"
+          ],
+          "postreqs": [
+            "EENG383",
+            "EENG423",
+            "EENG484"
+          ]
+        },
+        {
+          "code": "EENG282",
+          "title": "ELECTRICAL CIRCUITS",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "This course provides an engineering science analysis of electrical circuits. DC and AC (single-phase and three-phase) networks are presented. Transient analysis of RC and RL circuits is studied as is the analysis of circuits in sinusoidal steady-state using phasor concepts. The following topics are included: DC and AC circuit analysis, current and charge relationships. Ohm's Law, resistors, inductors, capacitors, equivalent resistance and impedance, Kirchhoff's Laws, Thevenin and Norton equivalent circuits, superposition and source transformation, power and energy, maximum power transfer, first order transient response, algebra of complex numbers, phasor representation, time domain and frequency domain concepts, and steady-state analysis of single-phase and three-phase ac power circuits. May not also receive credit for EENG281. 3 hours lecture; 3 hours lab; 4 semester hours. Prerequisite: PHGN200.",
+          "prereqs": [
+            "PHGN200"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "EENG307",
+            "EENG310",
+            "EENG383",
+            "EENG386",
+            "EENG389",
+            "EENG391",
+            "EENG392",
+            "EENG423",
+            "EENG470",
+            "EENG475",
+            "MEGN441",
+            "MEGN465"
+          ]
+        },
+        {
+          "code": "Free Elective",
+          "title": "NOT_FOUND",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "MATH332",
+          "title": "LINEAR ALGEBRA",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Systems of linear equations, matrices, determinants and eigenvalues. Linear operators. Abstract vector spaces. Applications selected from linear programming, physics, graph theory, and other fields. Prerequisite: CSCI128; MATH112, MATH122, or PHGN100.",
+          "prereqs": [
+            "CSCI128",
+            "MATH112 OR MATH122 OR PHGN100"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH431",
+            "MATH432",
+            "MATH436",
+            "MATH437",
+            "MATH438",
+            "MATH457",
+            "CSCI437",
+            "CSCI441",
+            "CSCI470",
+            "EBGN455",
+            "EENG437",
+            "GPGN404",
+            "MEGN486",
+            "PHGN311",
+            "PHGN320",
+            "PHGN417"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "EENG307",
+          "title": "INTRODUCTION TO FEEDBACK CONTROL SYSTEMS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "System modeling through an energy flow approach is presented, with examples from linear electrical, mechanical, fluid and/or thermal systems. Analysis of system response in both the time domain and frequency domain is discussed in detail. Feedback control design techniques, including PID, are analyzed using both analytical and computational methods. Prerequisite: EENG281 or EENG282 or PHGN215 (C- or better) and MATH225 or MATH235.",
+          "prereqs": [
+            "EENG281 OR EENG282 OR PHGN215",
+            "MATH225 OR MATH235"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "EENG350",
+            "EENG385",
+            "EENG417"
+          ]
+        },
+        {
+          "code": "EBGN321",
+          "title": "ENGINEERING ECONOMICS",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CHEN421,Time value of money concepts of present worth, future worth, annual worth, rate of return and break-even analysis applied to after-tax economic analysis of mineral, petroleum and general investments. Related topics on proper handling of (1) inflation and escalation, (2) leverage (borrowed money), (3) risk adjustment of analysis using expected value concepts, (4) mutually exclusive alternative analysis and service producing alternatives.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EENG310",
+          "title": "INFORMATION SYSTEMS SCIENCE I",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with EENG388,The interpretation, representation and analysis of time-varying phenomena as signals which convey information and noise; applications are drawn from filtering, audio and image processing, and communications. Topics include convolution, Fourier series and transforms, sampling and discrete-time processing of continuous-time signals, modulation, and z-transforms. Prerequisite: EENG281 or EENG282 or PHGN215 (C- or better), MATH225 or MATH235. Co-requisite: EENG 391.",
+          "prereqs": [
+            "EENG281 OR EENG282 OR PHGN215",
+            "MATH225 OR MATH235"
+          ],
+          "coreqs": [
+            "EENG391"
+          ],
+          "postreqs": [
+            "EENG311",
+            "EENG411",
+            "EENG427"
+          ]
+        },
+        {
+          "code": "EENG383",
+          "title": "EMBEDDED SYSTEMS",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "The design and implementation of systems consisting of analog and digital components with a microcontroller to perform a dedicated task.  Student will implement systems using a variety of microcontroller subsystems including timers, PWM, ADC, serial communication subsystems and interrupts. Students will learn embedded systems programming techniques like, fixed-point math, direct digital synthesis, lookup tables, and row scanning.  Student will program the microcontroller using a high-level programming language like C or C++. Prerequisite: EENG281 or EENG282 or PHGN215 (C-or better) and EENG284 or PHGN317 (C-or better).",
+          "prereqs": [
+            "EENG281 OR EENG282 OR PHGN215",
+            "EENG284 OR PHGN317"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "EENG393",
+            "EENG484"
+          ]
+        },
+        {
+          "code": "EENG391",
+          "title": "FE ON COMPUTATIONAL METHODS FOR ELECTRICAL ENGINEERING",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "Students will learn computational methods for common tasks in electrical engineering such as creating and plotting signals and data, analyzing and implementing digital filters, numerically computing integrals, solving differential equations, and simulating dynamical systems.   Prerequisite: EENG281 or EENG282 or PHGN215 (C- or better), MATH225 or MATH235. Co-requisite: EENG310.",
+          "prereqs": [
+            "EENG281 OR EENG282 OR PHGN215",
+            "MATH225 OR MATH235"
+          ],
+          "coreqs": [
+            "EENG310"
+          ],
+          "postreqs": []
+        },
+        {
+          "code": "EENG386",
+          "title": "FUNDAMENTALS OF ENGINEERING ELECTROMAGNETICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course introduces electromagnetic theory with a focus on its practical applications. It begins with a thorough review of vector calculus, coordinate systems, and key theorems. Following this foundation, an inductive approach is employed, commencing with the first principles of electrostatics and magnetostatics (Coulomb\u2019s and Biot-Savart laws) progressing to the derivation of Maxwell\u2019s equations by incorporating Faraday\u2019s Law and the concept of displacement currents. Key topics covered include the principles underlying electric generators, AC and DC motors. This groundwork facilitates the development of circuit theory, including the establishment of conditions for its validity. The course culminates with an introduction to transmission line theory, impedance matching, and the utilization of the Smith Chart. 3 hours lecture; 3 semester hours. Prerequisite: EENG281 (C- or better) or EENG282 (C- or better), and MATH225 or MATH235.",
+          "prereqs": [
+            "EENG281 OR EENG282",
+            "MATH225 OR MATH235"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "EENG424",
+            "EENG425",
+            "EENG428",
+            "EENG430"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "EENG385",
+          "title": "ELECTRONIC DEVICES AND CIRCUITS",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Students will study the large signal and small signal behavior of active components including opamps, diodes, bipolar junction transistors, and field effect transistors. Students will explore the frequency response analysis of standard circuit configurations. Students will engage laboratory exercises to compare how well their theoretical analysis compare to the actual circuit. 3 hours lecture; 3 hours lab; 4 semester hours. Prerequisite: EENG307.",
+          "prereqs": [
+            "EENG307"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "EENG393",
+            "EENG433"
+          ]
+        },
+        {
+          "code": "EENG311",
+          "title": "INFORMATION SYSTEMS SCIENCE II",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course covers signals and noise in electrical systems. Topics covered include information theory, signal to noise ratio, random variables, probability density functions, statistics, noise, matched filters, coding and entropy, power spectral density, and bit error rate. Applications are taken from radar, communications systems, and signal processing. Prerequisite: EENG310. 3 hours lecture; 3 semester hours.",
+          "prereqs": [
+            "EENG310"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "EENG415",
+            "EENG427",
+            "EENG437"
+          ]
+        },
+        {
+          "code": "EENG389",
+          "title": "FUNDAMENTALS OF ELECTRIC MACHINERY",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "This course provides an engineering  analysis of electrical machines. The following topics are included: review of three-phase AC circuit analysis, magnetic circuit concepts and materials, transformer analysis and operation, modelling, steady-state  analysis of rotating machines, synchronous and poly-phase induction motors, and DC machines and laboratory study of external characteristics of machines and transformers. Prerequisite: EENG281 (C- or better) or EENG282 (C- or better). 3 hours lecture, 3 hours lab; 4 semester hours.",
+          "prereqs": [
+            "EENG281 OR EENG282"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "EENG470",
+            "EENG475",
+            "EENG480"
+          ]
+        },
+        {
+          "code": "EE Elective",
+          "title": "Electrical Engineering Elective ",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EENG350",
+          "title": "SYSTEMS EXPLORATION AND ENGINEERING DESIGN LAB",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This laboratory is a semester-long design and build activity centered around a challenge problem that varies from year to year. Solving this problem requires the design and prototyping of a complex system and utilizes concepts from multiple electrical engineering courses. Students work in intra-disciplinary teams to build modular sub-systems and integrate them to a complete system. Prerequisites: EENG307, EENG383.",
+          "prereqs": [
+            "EENG307",
+            "EENG383"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "CAS Elective",
+          "title": "Culture and Society (CAS) Mid-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "CAS Elective",
+          "title": "Culture and Society (CAS) Mid-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EDNS491",
+          "title": "CAPSTONE DESIGN I",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with EGGN491,(WI) This course is the first of a two-semester capstone course sequence giving the student experience in the engineering design process. Realistic open-ended design problems are addressed for real world clients at the conceptual, engineering analysis, and the synthesis stages and include economic and ethical considerations necessary to arrive at a final design. Students are assigned to interdisciplinary teams and exposed to processes in the areas of design methodology, project management, communications, and work place issues. Strong emphasis is placed on this being a process course versus a project course. This is a writing-across-the-curriculum course where students' written and oral communication skills are strengthened. The design projects are chosen to develop student creativity, use of design methodology and application of prior course work paralleled by individual study and research. 2 hours lecture; 3 hours lab; 3 semester hours. Prerequisite: For BSME students, completion of MEGN301; for BSCE students, completion of Engineering Field Session, Civil, CEEN 331; for BSENV completion of Engineering Field Session, Environmental, CEEN 330; and for all other students completion of Field Session appropriate to the student's specialty and consent of instructor. Co-requisite: For BSME students, MEGN481; for BSCE students, any one of CEEN443, CEEN445, CEEN442, or CEEN415; for BSEE students, EENG 350 and EENG 389 plus any one of EENG 391, EENG 392, EENG 393, or EENG 394; for BSDE students, EDNS 220 and Senior Standing.",
+          "prereqs": [
+            "MEGN301",
+            "CEEN331",
+            "CEEN330"
+          ],
+          "coreqs": [
+            "MEGN481",
+            "CEEN443 OR CEEN445 OR CEEN442 OR CEEN415",
+            "EENG350",
+            "EENG389",
+            "EENG391 OR EENG392 OR EENG393 OR EENG394",
+            "EDNS220"
+          ],
+          "postreqs": [
+            "EDNS492"
+          ]
+        },
+        {
+          "code": "EE Elective",
+          "title": "Electrical Engineering Elective ",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EE Elective",
+          "title": "Electrical Engineering Elective ",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EENG392",
+          "title": "FE ON INFORMATION AND SYSTEMS SCIENCES,  393, or  394",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "The course will present hardware and software solutions for the purpose of creating customized instrumentation and control systems. Concepts presented include 1) User Interface Design: controls, indicators, dialogs, graphs, charts, tab controls, user interface best practices 2) Software Development: basic software architecture, loops, arrays, binary logic, mathematics, data management  3) Instrumentation basics: connecting sensors to hardware, acquiring data, analyzing instrumentation accuracy, examining resolution and noise characteristics of a signal 4) Control basics: create pulse-width modulated (PWM) signals for controlling motors, servos, amplifiers, and heaters. Create a PID control algorithm to control a dynamic system. 1 hour lecture; 2 hours lab; 1 semester hour. Prerequisite: EENG281 or EENG282 and CSCI261 or CSCI200. Co-requisite: EENG307.",
+          "prereqs": [
+            "EENG281 OR EENG282",
+            "CSCI261 OR CSCI200"
+          ],
+          "coreqs": [
+            "EENG307"
+          ],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "CAS Elective",
+          "title": "Culture and Society (CAS) 400-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EDNS492",
+          "title": "CAPSTONE DESIGN II",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "(WI) This course is the second of a two-semester sequence to give the student experience in the engineering design process. Design integrity and performance are to be demonstrated by building a prototype or model, or producing a complete drawing and specification package, and performing pre-planned experimental tests, wherever feasible, to verify design compliance with client requirements. 1 hour lecture; 6 hours lab; 3 semester hours. Prerequisite: EDNS491.",
+          "prereqs": [
+            "EDNS491"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EE Elective",
+          "title": "Electrical Engineering Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EE Elective",
+          "title": "Electrical Engineering Elective ",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "Free Elective",
+          "title": "NOT_FOUND",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "MATH111",
+      "to": "MATH112",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH111",
+      "to": "PHGN100",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "PHGN100",
+      "type": "coreq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH213",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "MATH213",
+      "type": "coreq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "PHGN200",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH213",
+      "to": "PHGN200",
+      "type": "coreq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "CSCI200",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH225",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI200",
+      "to": "EENG284",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG282",
+      "to": "EENG284",
+      "type": "coreq"
+    },
+    {
+      "from": "PHGN200",
+      "to": "EENG282",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "MATH332",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH332",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "MATH332",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG282",
+      "to": "EENG307",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH225",
+      "to": "EENG307",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG282",
+      "to": "EENG310",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH225",
+      "to": "EENG310",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG391",
+      "to": "EENG310",
+      "type": "coreq"
+    },
+    {
+      "from": "EENG282",
+      "to": "EENG383",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG284",
+      "to": "EENG383",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG282",
+      "to": "EENG391",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH225",
+      "to": "EENG391",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG310",
+      "to": "EENG391",
+      "type": "coreq"
+    },
+    {
+      "from": "EENG282",
+      "to": "EENG386",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH225",
+      "to": "EENG386",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG307",
+      "to": "EENG385",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG310",
+      "to": "EENG311",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG282",
+      "to": "EENG389",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG307",
+      "to": "EENG350",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG383",
+      "to": "EENG350",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG350",
+      "to": "EDNS491",
+      "type": "coreq"
+    },
+    {
+      "from": "EENG389",
+      "to": "EDNS491",
+      "type": "coreq"
+    },
+    {
+      "from": "EENG391",
+      "to": "EDNS491",
+      "type": "coreq"
+    },
+    {
+      "from": "EENG392",
+      "to": "EDNS491",
+      "type": "coreq"
+    },
+    {
+      "from": "CSCI200",
+      "to": "EENG392",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG282",
+      "to": "EENG392",
+      "type": "prereq"
+    },
+    {
+      "from": "EENG307",
+      "to": "EENG392",
+      "type": "coreq"
+    },
+    {
+      "from": "EDNS491",
+      "to": "EDNS492",
+      "type": "prereq"
+    }
+  ]
+}

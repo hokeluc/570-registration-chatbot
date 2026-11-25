@@ -1,9 +1,10 @@
 !store.db/
-
-vector_store/.claude/
-vector_store/documents/
-vector_store/reference/mines-registration-sources-tree.md
-vector_store/scrape_run.log
+.claude/
+backend/__pycache__/
+backend/vector_store/.claude/
+backend/vector_store/documents/
+backend/vector_store/reference/mines-registration-sources-tree.md
+backend/vector_store/scrape_run.log
 .env
 venv/
 .DS_Store

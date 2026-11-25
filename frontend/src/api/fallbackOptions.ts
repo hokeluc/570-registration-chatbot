@@ -32,7 +32,7 @@ export const FALLBACK_OPTIONS: OptionsResponse = {
     { id: 'mtgn', name: 'Metallurgical & Materials Engineering', tracks: [] },
     { id: 'mnge', name: 'Mining Engineering', tracks: [] },
     { id: 'pegn', name: 'Petroleum Engineering', tracks: [] },
-    { id: 'qbio', name: 'Quantitative Biosciences', tracks: [] },
+    { id: 'qbio', name: 'Quantitative Biosciences and Engineering', tracks: [] },
   ],
   minors: [
     'Computer Science',

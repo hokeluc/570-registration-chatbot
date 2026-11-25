@@ -1,0 +1,1194 @@
+{
+  "name": "MME - Ceramic Engineering - General Track",
+  "semesters": [
+    {
+      "year": "Freshman",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "CHGN121",
+          "title": "PRINCIPLES OF CHEMISTRY I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Study of matter and energy based on atomic structure, correlation of properties of elements with position in periodic chart, chemical bonding, geometry of molecules, phase changes, stoichiometry, solution chemistry, gas laws, and thermochemistry. 3 hours lecture, 3 hours lab; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN122",
+            "CHGN125",
+            "CHGN209",
+            "CHGN311",
+            "CHGN423",
+            "CEEN475",
+            "GEGN330",
+            "MNGN222",
+            "MTGN202"
+          ]
+        },
+        {
+          "code": "CSM101",
+          "title": "FRESHMAN SUCCESS SEMINAR",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "MATH111",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the first course in the calculus sequence. Topics include elements of plane geometry, functions, limits, continuity, derivatives and their application, definite and indefinite integrals; 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: precalculus.",
+          "prereqs": [
+            "precalculus"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH112",
+            "MATH122",
+            "MATH201",
+            "CBEN210",
+            "CHGN209",
+            "GEGN203",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "PHGN100"
+          ]
+        },
+        {
+          "code": "HASS100",
+          "title": "NATURE AND HUMAN VALUES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CSM191,CSM192,HNRS105,HNRS115,HNRS198A,LAIS100,Nature and Human Values (NHV) is a writing-intensive course, workshop, and discussion seminar that focuses on ethics and inquiry and uses humanities perspectives to examine big questions about the interdependence of human life, society, and the environment. The class links personal, professional, and environmental ethics to engineering, energy, and emerging technologies. Written and oral communication are stressed as a crucial component of professional and civic dialogue, while encouraging critical reading, thinking, and conversation about students' ethical obligations as world citizens with broader moral, social, and environmental responsibilities to stakeholders. The culminating research paper asks that students consider the ethical dimensions of their arguments within science and engineering contexts while engaging different viewpoints, evaluating sources, and supporting an original position. 3 hours seminar; 3 semester hours. Prerequisites: None. Corequisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS200",
+            "HASS202",
+            "HASS220",
+            "HASS226",
+            "HASS227",
+            "HASS298",
+            "HASS299",
+            "HASS300",
+            "HASS301",
+            "HASS302",
+            "HASS305",
+            "HASS307",
+            "HASS309",
+            "HASS314",
+            "HASS315",
+            "HASS316",
+            "HASS317",
+            "HASS318",
+            "HASS319",
+            "HASS320",
+            "HASS323",
+            "HASS324",
+            "HASS326",
+            "HASS327",
+            "HASS328",
+            "HASS329",
+            "HASS330",
+            "HASS339",
+            "HASS344",
+            "HASS365",
+            "HASS366",
+            "HASS370",
+            "HASS372",
+            "HASS376",
+            "HASS398",
+            "HASS399",
+            "HASS400",
+            "HASS401",
+            "HASS404",
+            "HASS406",
+            "HASS407",
+            "HASS408",
+            "HASS410",
+            "HASS411",
+            "HASS412",
+            "HASS413",
+            "HASS415",
+            "HASS416",
+            "HASS417",
+            "HASS418",
+            "HASS419",
+            "HASS420",
+            "HASS421",
+            "HASS422",
+            "HASS423",
+            "HASS425",
+            "HASS427",
+            "HASS429",
+            "HASS430",
+            "HASS431",
+            "HASS432",
+            "HASS435",
+            "HASS437",
+            "HASS439",
+            "HASS441",
+            "HASS448",
+            "HASS460",
+            "HASS461",
+            "HASS462",
+            "HASS463",
+            "HASS464",
+            "HASS465",
+            "HASS466",
+            "HASS467",
+            "HASS468",
+            "HASS469",
+            "HASS470",
+            "HASS484",
+            "HASS485",
+            "HASS486",
+            "HASS487",
+            "HASS488",
+            "HASS490",
+            "HASS491",
+            "HASS498",
+            "PEGN430"
+          ]
+        },
+        {
+          "code": "S&W",
+          "title": "Success and Wellness",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "CSCI128",
+          "title": "COMPUTER SCIENCE FOR STEM",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Introduction to programming. Intended for students with no prior experience. Teaches basic programming constructs including data types, conditionals, loops, file I/O, functions, and objects in Python 3. Also covers topics vital to STEM computing, such as data science, best practices for code development, and software ethics. Prerequisite: None Co-requisite: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CSCI200",
+            "CSCI250",
+            "CSCI303",
+            "CSCI470",
+            "CSCI478",
+            "GPGN268",
+            "GPGN470",
+            "MEGN200",
+            "MEGN391",
+            "MNGN209",
+            "PEGN438"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Freshman",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "CHGN125",
+          "title": "MOLECULAR ENGINEERING & MATERIALS CHEMISTRY or  122",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Studies of the interactions of matter and energy in chemical reactions and physical processes. Building on principles from CHGN121, the course systematically explores the relationships between processes, structures and properties, starting from the atomic and molecular level. It provides a framework to apply knowledge of chemical bonding and material properties to engineering design, with an emphasis on the Engineering Grand Challenges and the discovery of new process-structure-property relationships. There is a strong focus on the underlying principles of kinetics and equilibrium, and their general applicability, strongly rooted in the first and second law of thermodynamics. Examples of these principles come primarily from solid-state systems. Laboratory experiments emphasize conceptual understanding of structure-property relationships through both hands-on and computational analysis, reinforced by quantitative chemical measurements. Prerequisite: Grade of C- or better in CHGN121. 3 hours lecture; 3 hours lab; 4 semester hours.",
+          "prereqs": [
+            "CHGN121"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN209",
+            "CHGN221",
+            "CHGN335",
+            "CHGN336",
+            "CHGN406",
+            "CHGN411",
+            "GEGN212",
+            "GEGN330",
+            "GEOL321",
+            "MNGN251",
+            "MTGN251",
+            "PHGN341"
+          ]
+        },
+        {
+          "code": "PHGN100",
+          "title": "PHYSICS I - MECHANICS",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "A first course in physics covering the basic principles of mechanics using vectors and calculus. The course consists of a fundamental treatment of the concepts and applications of kinematics and dynamics of particles and systems of particles, including Newton's laws, energy and momentum, rotation, oscillations, and waves. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1. Prerequisite: MATH111. Co-requisite: MATH112 or MATH122.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [
+            "MATH112 OR MATH122"
+          ],
+          "postreqs": [
+            "PHGN200"
+          ]
+        },
+        {
+          "code": "CSM202",
+          "title": "INTRODUCTION TO STUDENT WELL-BEING AT MINES",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "MATH112",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS II",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Equivalent with MATH122,This is the second course in the calculus sequence. Topics include vectors, applications and techniques of integration, infinite series, and an introduction to multivariate functions and surfaces. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH111.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH213",
+            "MATH223",
+            "MATH225",
+            "MATH235",
+            "MATH300",
+            "MATH332",
+            "CBEN200",
+            "CBEN310",
+            "CHGN209",
+            "CEEN241",
+            "CSCI358",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "MNGN251",
+            "MTGN202",
+            "MTGN251",
+            "MTGN272",
+            "PEGN438"
+          ]
+        },
+        {
+          "code": "EDNS151",
+          "title": "CORNERSTONE - DESIGN I",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with EPIC151,(I, II, S) Design I teaches students how to solve open-ended problems in a hands-on manner using critical thinking and workplace skills. Students work in multidisciplinary teams to learn through doing, with emphasis on defining and diagnosing the problem through a holistic lens of technology, people and culture. Students follow a user-centered design methodology throughout the process, seeking to understand a problem from multiple perspectives before attempting to solve it. Students learn and apply specific skills throughout the semester, including: communication (written, oral, graphical), project management, concept visualization, critical thinking, effective teamwork, as well as building and iterating solutions.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "EDNS220",
+            "EDNS251",
+            "EDNS315",
+            "MEGN200",
+            "MEGN201"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Freshman",
+      "term": "Summer",
+      "courses": [
+        {
+          "code": "MTGN272",
+          "title": "MME FIELD SESSION",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Introduction to the field of Metallurgical and Materials Engineering. Overview of opportunities, expectations, and practices within the MME department and the broader materials community. Introduction to bonding, crystal and grain structure, application space, and Structure-Property-Processing relationships. Laboratory projects and plant visits. Prerequisites: MATH112, PHGN100. 9 hours lab; 3 semester hours.",
+          "prereqs": [
+            "MATH112",
+            "PHGN100"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MTGN334",
+            "MTGN352"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "MATH213",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS III",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the third course in the calculus sequence, focused on multivariable calculus. Topics include partial derivatives, multiple integrals, and vector calculus. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH112 or MATH122. Corequisites: CSCI128 or CSCI102.",
+          "prereqs": [
+            "MATH112 OR MATH122"
+          ],
+          "coreqs": [
+            "CSCI128 OR CSCI102"
+          ],
+          "postreqs": [
+            "MATH307",
+            "MATH310",
+            "MATH342",
+            "MATH454",
+            "MATH455",
+            "MATH459",
+            "CEEN302",
+            "CSCI406",
+            "EBGN301",
+            "EBGN302",
+            "EBGN435",
+            "GPGN229",
+            "GEGN466",
+            "GEGN466L",
+            "MEGN261",
+            "MNGN317",
+            "MNGN318",
+            "MNGN322",
+            "PEGN305",
+            "PEGN450",
+            "PHGN435"
+          ]
+        },
+        {
+          "code": "PHGN200",
+          "title": "PHYSICS II-ELECTROMAGNETISM AND OPTICS",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Continuation of PHGN100. Introduction to the fundamental laws and concepts of electricity and magnetism, electromagnetic devices, electromagnetic behavior of materials, applications to simple circuits, electromagnetic radiation, and an introduction to optical phenomena. Prerequisite: Grade of C- or higher in PHGN100. Co-requisite: MATH213 or MATH223.",
+          "prereqs": [
+            "PHGN100"
+          ],
+          "coreqs": [
+            "MATH213 OR MATH223"
+          ],
+          "postreqs": [
+            "PHGN215",
+            "PHGN300",
+            "PHGN310",
+            "PHGN324",
+            "PHGN350",
+            "PHGN361",
+            "PHGN419"
+          ]
+        },
+        {
+          "code": "MTGN202",
+          "title": "ENGINEERED MATERIALS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with SYGN202,Introduction to the Metallurgical and Materials Engineering paradigm: processing, structure, and properties. The course will relate technologically significant processing procedures to resultant structures. The material structure will be examined to determine its effect upon material properties. Students will study materials engineering methodologies and learn terminology. 3 hours lecture; 3 semester hours. Prerequisite: CHGN121, MATH112, and PHGN100.",
+          "prereqs": [
+            "CHGN121",
+            "MATH112",
+            "PHGN100"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MTGN211",
+            "MTGN281",
+            "MTGN310",
+            "MTGN310L",
+            "MTGN319",
+            "MTGN319L",
+            "MTGN472"
+          ]
+        },
+        {
+          "code": "MTGN251",
+          "title": "METALLURGICAL AND MATERIALS THERMODYNAMICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Applications of thermodynamics in extractive and physical metallurgy and materials science. Thermodynamics of solutions including solution models and thermodynamic properties of alloys and slags. Reaction equilibria with examples in alloy systems and slags. Phase stability analysis. Thermodynamic properties of binary alloys in the solid state, defect equilibrium, and interactions. 3 hours lecture; 3 semester hours. Prerequisite: MATH112, CHGN122 or CHGN125, and PHGN100.",
+          "prereqs": [
+            "MATH112",
+            "CHGN122 OR CHGN125",
+            "PHGN100"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MTGN281",
+            "MTGN310",
+            "MTGN310L",
+            "MTGN334",
+            "MTGN348",
+            "MTGN430",
+            "MTGN431",
+            "MTGN451",
+            "MTGN469"
+          ]
+        },
+        {
+          "code": "HASS215",
+          "title": "FUTURES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "FUTURES invites students to envision possibilities around critical issues related to the future of science and engineering. It is central to the Mines core curriculum and encouraged during the first years at Mines. Guided by four instructors who share perspectives from a wide range of humanities, social science, and applied disciplines, students will explore future-oriented themes at the forefront of advances in science, engineering, technology and society, such as Energy Futures, Technology Futures, and Critical Resource Sustainability, among others. By the end of the course students will gain skills in integrating multiple perspectives and connecting them to their own interests and trajectory at Mines and beyond. Prerequisites: None. Co-requisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS302"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "MATH225",
+          "title": "DIFFERENTIAL EQUATIONS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course is an introduction to ordinary differential equations. Topics include classical techniques for first and higher order equations and systems of equations. Laplace transforms, phase-plane and stability analysis of non-linear equations and systems, applications from physics, mechanics, electrical engineering, and environmental sciences. 3 hours lecture; 3 semester hours. Prerequisites: Grade of C- or better in MATH112 or MATH122. Co-requisites: CSC128 or CSCI102.",
+          "prereqs": [
+            "MATH112 OR MATH122"
+          ],
+          "coreqs": [
+            "CSC128 OR CSCI102"
+          ],
+          "postreqs": [
+            "MATH310",
+            "MATH454",
+            "MATH455",
+            "MATH459",
+            "CBEN307",
+            "CBEN314",
+            "CBEN357",
+            "CBEN403",
+            "CBEN416",
+            "CBEN418",
+            "CBEN420",
+            "CBEN430",
+            "CBEN440",
+            "CHGN351",
+            "CEEN405",
+            "CEEN406",
+            "EENG307",
+            "EENG310",
+            "EENG386",
+            "EENG391",
+            "GPGN404",
+            "GEGN466",
+            "GEGN466L",
+            "GEOL470",
+            "MEGN475",
+            "MNGN461",
+            "MTGN315",
+            "MTGN461",
+            "MTGN469",
+            "PEGN414",
+            "PEGN423",
+            "PEGN460",
+            "PEGN461",
+            "PEGN462",
+            "PHGN311",
+            "PHGN419"
+          ]
+        },
+        {
+          "code": "CEEN241",
+          "title": "STATICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Forces, moments, couples, equilibrium, centroids and second moments of areas, volumes and masses, hydrostatics, and friction. Applications of vector algebra to structures. 3 hours lecture; 3 semester hours. Prerequisite: PHGN100 and credit or concurrent enrollment in MATH112.",
+          "prereqs": [
+            "PHGN100",
+            "MATH112"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CEEN310",
+            "CEEN311",
+            "CEEN317",
+            "GEGN351",
+            "MEGN212",
+            "MEGN315",
+            "MEGN330",
+            "MEGN351",
+            "MNGN317",
+            "MNGN321",
+            "MNGN407",
+            "MTGN445",
+            "MTGN465",
+            "PEGN251",
+            "PEGN311"
+          ]
+        },
+        {
+          "code": "MTGN211",
+          "title": "STRUCTURE OF MATERIALS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Principles of atomic bonding, crystallography, and amorphous structures. ii) Symmetry relationships to material properties. iii) Atomic structure determination through diffraction techniques. 3 hours lecture; 3 semester hours. Prerequisite: MTGN202. Co-requisite: PHGN200.",
+          "prereqs": [
+            "MTGN202"
+          ],
+          "coreqs": [
+            "PHGN200"
+          ],
+          "postreqs": [
+            "MTGN315",
+            "MTGN348",
+            "MTGN419",
+            "MTGN440",
+            "MTGN456"
+          ]
+        },
+        {
+          "code": "MTGN281",
+          "title": "INTRODUCTION TO PHASE EQUILIBRIA IN MATERIALS SYSTEMS",
+          "credits": "2.0",
+          "core": "MAJOR",
+          "desc": "Review of the concepts of chemical equilibrium and derivation of the Gibbs phase rule. Use of thermodynamic principles for constructing and interpreting one, two and three component phase equilibrium diagrams. Application to alloy and ceramic materials systems. Emphasis on the evolution of phases and their amounts and the resulting microstructural development. Prerequisite: MTGN202, MTGN251.",
+          "prereqs": [
+            "MTGN202",
+            "MTGN251"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MTGN345",
+            "MTGN345L",
+            "MTGN464"
+          ]
+        },
+        {
+          "code": "EBGN321",
+          "title": "ENGINEERING ECONOMICS",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CHEN421,Time value of money concepts of present worth, future worth, annual worth, rate of return and break-even analysis applied to after-tax economic analysis of mineral, petroleum and general investments. Related topics on proper handling of (1) inflation and escalation, (2) leverage (borrowed money), (3) risk adjustment of analysis using expected value concepts, (4) mutually exclusive alternative analysis and service producing alternatives.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "CEEN311",
+          "title": "MECHANICS OF MATERIALS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Fundamentals of stress, strain, deformation, and material properties. Mechanics of members subjected to axial, torsional, bending, and combined loads; beam deflection; static indeterminacy; Euler buckling; stress transformation and principal stresses; thermal stress, strain, and deformation; thin-walled pressure vessels; Allowable Stress Design; and stress concentrations. May not also receive credit for MEGN212. Prerequisite: CEEN241.",
+          "prereqs": [
+            "CEEN241"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CEEN312",
+            "CEEN314",
+            "CEEN350",
+            "CEEN406",
+            "CEEN425",
+            "CEEN442",
+            "MEGN324",
+            "MEGN412",
+            "MEGN430",
+            "MNGN321",
+            "MTGN445",
+            "MTGN464",
+            "MTGN465",
+            "PEGN361",
+            "PEGN490"
+          ]
+        },
+        {
+          "code": "MTGN352",
+          "title": "METALLURGICAL AND MATERIALS KINETICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Introduction to reaction kinetics: chemical kinetics, atomic and molecular diffusion, surface thermodynamics and kinetics of interfaces and nucleation-and-growth. Applications to materials processing and performance aspects associated with gas/solid reactions, precipitation and dissolution behavior, oxidation and corrosion, purification of semiconductors, carburizing of steel, formation of p-n junctions and other important materials systems. Prerequisite: MTGN272. Co-requisite: MTGN251.",
+          "prereqs": [
+            "MTGN272"
+          ],
+          "coreqs": [
+            "MTGN251"
+          ],
+          "postreqs": [
+            "MTGN431",
+            "MTGN461",
+            "MTGN467"
+          ]
+        },
+        {
+          "code": "MTGN310",
+          "title": "POWDER PROCESSING AND FORMING",
+          "credits": "2.0",
+          "core": "MAJOR",
+          "desc": "Fabrication of components from powder-based feedstocks is central to both ceramic and metallurgical engineering, and the concepts of powder processing apply to industries as diverse as mining, food products, paints, and many more. This course covers the handling, measurement, and application of powdered feedstocks to the formation of green bodies (i.e., powder compacts) using both wet and dry methods. Particular attention is paid to the importance of powder characteristics, green density, impurities and other defects in these initial stages to the final density, microstructure and overall properties of the subsequent part, whether the parts are sintered or consolidated in another way such as laser powder bed fusion (LPBF). Prerequisite: MTGN202, MTGN251. Co-requisite: MTGN310L.",
+          "prereqs": [
+            "MTGN202",
+            "MTGN251"
+          ],
+          "coreqs": [
+            "MTGN310L"
+          ],
+          "postreqs": [
+            "MTGN345",
+            "MTGN345L",
+            "MTGN410",
+            "MTGN465"
+          ]
+        },
+        {
+          "code": "MTGN310L",
+          "title": "POWDER PROCESSING AND FORMING LABORATORY",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "Fabrication of components from powder-based feedstocks is central to both ceramic and metallurgical engineering, and the concepts of powder processing apply to industries as diverse as mining, food products, paints, and many more. This course covers the handling, measurement, and application of powdered feedstocks to the formation of green bodies (i.e., powder compacts) using both wet and dry methods. Particular attention is paid to the importance of powder characteristics, green density, impurities and other defects in these initial stages to the final density, microstructure and overall properties of the subsequent part, whether the parts are sintered or consolidated in another way such as laser powder bed fusion (LPBF).  Prerequisite: MTGN202, MTGN251. Co-requisite: MTGN310.",
+          "prereqs": [
+            "MTGN202",
+            "MTGN251"
+          ],
+          "coreqs": [
+            "MTGN310"
+          ],
+          "postreqs": []
+        },
+        {
+          "code": "MTGN350",
+          "title": "STATISTICAL PROCESS CONTROL AND DESIGN OF EXPERIMENTS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Introduction to statistical process control, process capability analysis and experimental design techniques. Statistical process control theory and techniques developed and applied to control charts for variables and attributes involved in process control and evaluation. Process capability concepts developed and applied to the evaluation of manufacturing processes. Theory of designed experiments developed and applied to full factorial experiments, fractional factorial experiments, and multilevel experiments. Analysis of designed experiments by graphical and statistical techniques. Introduction to computer software for statistical process control and for the design and analysis of experiments.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "MTGN467"
+          ]
+        },
+        {
+          "code": "ELECTIVE",
+          "title": "Culture and Society (CAS) Mid-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "MTGN319",
+          "title": "INTRODUCTION TO GLASS SCIENCE AND TECHNOLOGY",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "Introduction to the principles of glass science and engineering and non-crystalline materials. Glass formation, structure, crystallization and properties will be covered, along with a survey of commercial glass compositions, manufacturing processes and applications.  Prerequisite: MTGN202. Co-requisite: MTGN319L.",
+          "prereqs": [
+            "MTGN202"
+          ],
+          "coreqs": [
+            "MTGN319L"
+          ],
+          "postreqs": []
+        },
+        {
+          "code": "MTGN319L",
+          "title": "INTRODUCTION TO GLASS SCIENCE AND TECHNOLOGY LABORATORY",
+          "credits": "1.0",
+          "core": "TRACK",
+          "desc": "Introduction to the principles of glass science and engineering and non-crystalline materials. Glass formation, structure, crystallization and properties will be covered, along with a survey of commercial glass compositions, manufacturing processes and applications.  Prerequisite: MTGN202. Co-requisite: MTGN319.",
+          "prereqs": [
+            "MTGN202"
+          ],
+          "coreqs": [
+            "MTGN319"
+          ],
+          "postreqs": []
+        },
+        {
+          "code": "MTGN345",
+          "title": "SINTERING OF CERAMICS",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "This course covers the fundamentals and applications of sintering based processes in ceramic engineering. It includes solid-state, liquid phase, reactive and vapor phase sintering and covers densifying and non-densifying mechanisms as well as microstructure development for bulk, coatings, and additively manufactured parts.  The course covers technologies used in the processing of ceramics.  Prerequisite: MTGN310, MTGN352, MTGN281. Co-requisite: MTGN345L.",
+          "prereqs": [
+            "MTGN310",
+            "MTGN352",
+            "MTGN281"
+          ],
+          "coreqs": [
+            "MTGN345L"
+          ],
+          "postreqs": [
+            "MTGN465L",
+            "MTGN467"
+          ]
+        },
+        {
+          "code": "MTGN345L",
+          "title": "SINTERING OF CERAMICS LABORATORY",
+          "credits": "1.0",
+          "core": "TRACK",
+          "desc": "This is the laboratory course for MTGN345. This course covers the fundamentals and applications of sintering based processes in ceramic engineering. It includes solid-state, liquid phase, reactive and vapor phase sintering and covers densifying and non-densifying mechanisms as well as microstructure development for bulk, coatings, and additively manufactured parts.  The course covers technologies used in the processing of ceramics.  Prerequisite: MTGN310, MTGN352, MTGN281. Co-requisite: MTGN345.",
+          "prereqs": [
+            "MTGN310",
+            "MTGN352",
+            "MTGN281"
+          ],
+          "coreqs": [
+            "MTGN345"
+          ],
+          "postreqs": []
+        },
+        {
+          "code": "MTGN315",
+          "title": "ELECTRICAL PROPERTIES AND APPLICATIONS OF MATERIALS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Survey of aspects of modern physics needed to understand selected properties of materials including conductivity (electrical, thermal, etc.), electronic states of materials, density of states, the nature of bands and bonding and how they arise, total and cohesive energy of solids based on filling of states, the nature of metals, semiconductors, and dielectrics and how these arise from electronic states, and the application of these concepts to understand dielectrics, magnetism, and semiconductor devices. Prerequisite: PHGN200, MATH225, MTGN211.",
+          "prereqs": [
+            "PHGN200",
+            "MATH225",
+            "MTGN211"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MTGN410",
+            "MTGN440"
+          ]
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "MTGN410",
+          "title": "THERMAL PROPERTIES OF CERAMICS",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "This course covers the fundamentals and applications of ceramic materials\u2019 responses to thermal energy.  Thermal responses are fundamentally borne from atomic scale processes which will be covered in detail.  Particular attention is paid to thermal conduction, melting, thermally induced strain, thermomechanical stresses, and engineering microstructures to obtain specific thermal performances. Prerequisite: MTGN315, MTGN310.",
+          "prereqs": [
+            "MTGN315",
+            "MTGN310"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "MTGN467",
+          "title": "MATERIALS DESIGN: SYNTHESIS, CHARACTERIZATION AND SELECTION",
+          "credits": "2.0",
+          "core": "MAJOR",
+          "desc": "Application of fundamental materials engineering principles to the design of systems, processes, and/or components for extraction, synthesis, operation and/or selection of materials in open-ended projects with realistic constraints. Project topics range from processes used for metallurgical processing and extraction to design and development of emergent materials to process/component analysis and (re)design. Chemical and microstructural characterization and property measurements provide the basis for linking synthesis to application and/or process to product. Selection criteria tied to specific requirements drive design under realistic constraints that include an appropriate mix of technical, economic, safety, and other considerations. Activities are carried out in teams in collaboration with project sponsors/clients. 1 hour lecture, 3 hours lab; 2 semester hours. Prerequisite: MTGN350, MTGN352, and MTGN348 or MTGN345.",
+          "prereqs": [
+            "MTGN350",
+            "MTGN352",
+            "MTGN348 OR MTGN345"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MTGN468"
+          ]
+        },
+        {
+          "code": "MTGN",
+          "title": "MTGN Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "MTGN",
+          "title": "MTGN Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "ELECTIVE",
+          "title": "Culture and Society (CAS) Mid-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "MTGN468",
+          "title": "MATERIALS DESIGN: SYNTHESIS, CHARACTERIZATION AND SELECTION",
+          "credits": "2.0",
+          "core": "MAJOR",
+          "desc": "Application of fundamental materials engineering principles to the design of systems, processes, and/or components for extraction, synthesis, operation and/or selection of materials in open-ended projects with realistic constraints. Project topics range from processes used for metallurgical processing and extraction to design and development of emergent materials to process/component analysis and (re)design. Chemical and microstructural characterization and property measurements provide the basis for linking synthesis to application and/or process to product. Selection criteria tied to specific requirements drive design under realistic constraints that include an appropriate mix of technical, economic, safety, and other considerations. Activities are carried out in teams in collaboration with project sponsors/clients. Prerequisite: MTGN467. 1 hour lecture, 3 hours lab; 2 semester hours.",
+          "prereqs": [
+            "MTGN467"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "MTGN",
+          "title": "MTGN Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "MTGN",
+          "title": "MTGN Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "ELECTIVE",
+          "title": "Culture and Society (CAS) Mid-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "MTGN465",
+          "title": "MECHANICAL PROPERTIES OF CERAMICS",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "Mechanical properties of ceramics and ceramic-based composites; brittle fracture of solids; toughening mechanisms in composites; fatigue, high-temperature mechanical behavior, including fracture and creep deformation. Offered every year. Prerequisite: MTGN310, CEEN241, CEEN311. Co-requisite: MTGN465L.",
+          "prereqs": [
+            "MTGN310",
+            "CEEN241",
+            "CEEN311"
+          ],
+          "coreqs": [
+            "MTGN465L"
+          ],
+          "postreqs": []
+        },
+        {
+          "code": "MTGN465L",
+          "title": "MECHANICAL PROPERTIES OF CERAMICS AND COMPOSITES LABORATORY",
+          "credits": "1.0",
+          "core": "TRACK",
+          "desc": "Mechanical properties of ceramics and ceramic-based composites; brittle fracture of solids; toughening mechanisms in composites; fatigue, high temperature mechanical behavior, including fracture, creep deformation. Prerequisite: MTGN345. Co-requisite: MTGN465.",
+          "prereqs": [
+            "MTGN345"
+          ],
+          "coreqs": [
+            "MTGN465"
+          ],
+          "postreqs": []
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "CHGN121",
+      "to": "CHGN125",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH111",
+      "to": "PHGN100",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "PHGN100",
+      "type": "coreq"
+    },
+    {
+      "from": "MATH111",
+      "to": "MATH112",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MTGN272",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "MTGN272",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH213",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "MATH213",
+      "type": "coreq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "PHGN200",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH213",
+      "to": "PHGN200",
+      "type": "coreq"
+    },
+    {
+      "from": "CHGN121",
+      "to": "MTGN202",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MTGN202",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "MTGN202",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN125",
+      "to": "MTGN251",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MTGN251",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "MTGN251",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH225",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "CEEN241",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "CEEN241",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN202",
+      "to": "MTGN211",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN200",
+      "to": "MTGN211",
+      "type": "coreq"
+    },
+    {
+      "from": "MTGN202",
+      "to": "MTGN281",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN251",
+      "to": "MTGN281",
+      "type": "prereq"
+    },
+    {
+      "from": "CEEN241",
+      "to": "CEEN311",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN272",
+      "to": "MTGN352",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN251",
+      "to": "MTGN352",
+      "type": "coreq"
+    },
+    {
+      "from": "MTGN202",
+      "to": "MTGN310",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN251",
+      "to": "MTGN310",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN202",
+      "to": "MTGN310",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN251",
+      "to": "MTGN310",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN202",
+      "to": "MTGN319",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN202",
+      "to": "MTGN319",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN281",
+      "to": "MTGN345",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN310",
+      "to": "MTGN345",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN352",
+      "to": "MTGN345",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN281",
+      "to": "MTGN345",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN310",
+      "to": "MTGN345",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN352",
+      "to": "MTGN345",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH225",
+      "to": "MTGN315",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN211",
+      "to": "MTGN315",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN200",
+      "to": "MTGN315",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN310",
+      "to": "MTGN410",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN315",
+      "to": "MTGN410",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN345",
+      "to": "MTGN467",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN350",
+      "to": "MTGN467",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN352",
+      "to": "MTGN467",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN467",
+      "to": "MTGN468",
+      "type": "prereq"
+    },
+    {
+      "from": "CEEN241",
+      "to": "MTGN465",
+      "type": "prereq"
+    },
+    {
+      "from": "CEEN311",
+      "to": "MTGN465",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN310",
+      "to": "MTGN465",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN345",
+      "to": "MTGN465",
+      "type": "prereq"
+    }
+  ]
+}

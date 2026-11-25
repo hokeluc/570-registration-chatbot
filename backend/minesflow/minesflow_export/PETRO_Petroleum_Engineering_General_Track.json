@@ -1,0 +1,1226 @@
+{
+  "name": "PETRO - Petroleum Engineering - General Track",
+  "semesters": [
+    {
+      "year": "Freshman",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "CSM101",
+          "title": "FRESHMAN SUCCESS SEMINAR",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "GEGN101",
+          "title": "EARTH AND ENVIRONMENTAL SYSTEMS",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with SYGN101,(I, II, S) Fundamental concepts concerning the nature, composition and evolution of the lithosphere, hydrosphere, atmosphere and biosphere of the earth integrating the basic sciences of chemistry, physics, biology and mathematics. Understanding of anthropological interactions with the natural systems, and related discussions on cycling of energy and mass, global warming, natural hazards, land use, mitigation of environmental problems such as toxic waste disposal, exploitation and conservation of energy, mineral and agricultural resources, proper use of water resources, biodiversity and construction. 3 hours lecture, 3 hours lab; 4 semester hours.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "GEGN203",
+            "GEGN217",
+            "GEGN342",
+            "GEGN475",
+            "GEOL102",
+            "GEOL308",
+            "GEOL310",
+            "GEOL311",
+            "GEOL314",
+            "GEOL315",
+            "GEOL321",
+            "MNGN310",
+            "MNGN311"
+          ]
+        },
+        {
+          "code": "MATH111",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the first course in the calculus sequence. Topics include elements of plane geometry, functions, limits, continuity, derivatives and their application, definite and indefinite integrals; 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: precalculus.",
+          "prereqs": [
+            "precalculus"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH112",
+            "MATH122",
+            "MATH201",
+            "CBEN210",
+            "CHGN209",
+            "GEGN203",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "PHGN100"
+          ]
+        },
+        {
+          "code": "CHGN121",
+          "title": "PRINCIPLES OF CHEMISTRY I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Study of matter and energy based on atomic structure, correlation of properties of elements with position in periodic chart, chemical bonding, geometry of molecules, phase changes, stoichiometry, solution chemistry, gas laws, and thermochemistry. 3 hours lecture, 3 hours lab; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN122",
+            "CHGN125",
+            "CHGN209",
+            "CHGN311",
+            "CHGN423",
+            "CEEN475",
+            "GEGN330",
+            "MNGN222",
+            "MTGN202"
+          ]
+        },
+        {
+          "code": "HASS100",
+          "title": "NATURE AND HUMAN VALUES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CSM191,CSM192,HNRS105,HNRS115,HNRS198A,LAIS100,Nature and Human Values (NHV) is a writing-intensive course, workshop, and discussion seminar that focuses on ethics and inquiry and uses humanities perspectives to examine big questions about the interdependence of human life, society, and the environment. The class links personal, professional, and environmental ethics to engineering, energy, and emerging technologies. Written and oral communication are stressed as a crucial component of professional and civic dialogue, while encouraging critical reading, thinking, and conversation about students' ethical obligations as world citizens with broader moral, social, and environmental responsibilities to stakeholders. The culminating research paper asks that students consider the ethical dimensions of their arguments within science and engineering contexts while engaging different viewpoints, evaluating sources, and supporting an original position. 3 hours seminar; 3 semester hours. Prerequisites: None. Corequisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS200",
+            "HASS202",
+            "HASS220",
+            "HASS226",
+            "HASS227",
+            "HASS298",
+            "HASS299",
+            "HASS300",
+            "HASS301",
+            "HASS302",
+            "HASS305",
+            "HASS307",
+            "HASS309",
+            "HASS314",
+            "HASS315",
+            "HASS316",
+            "HASS317",
+            "HASS318",
+            "HASS319",
+            "HASS320",
+            "HASS323",
+            "HASS324",
+            "HASS326",
+            "HASS327",
+            "HASS328",
+            "HASS329",
+            "HASS330",
+            "HASS339",
+            "HASS344",
+            "HASS365",
+            "HASS366",
+            "HASS370",
+            "HASS372",
+            "HASS376",
+            "HASS398",
+            "HASS399",
+            "HASS400",
+            "HASS401",
+            "HASS404",
+            "HASS406",
+            "HASS407",
+            "HASS408",
+            "HASS410",
+            "HASS411",
+            "HASS412",
+            "HASS413",
+            "HASS415",
+            "HASS416",
+            "HASS417",
+            "HASS418",
+            "HASS419",
+            "HASS420",
+            "HASS421",
+            "HASS422",
+            "HASS423",
+            "HASS425",
+            "HASS427",
+            "HASS429",
+            "HASS430",
+            "HASS431",
+            "HASS432",
+            "HASS435",
+            "HASS437",
+            "HASS439",
+            "HASS441",
+            "HASS448",
+            "HASS460",
+            "HASS461",
+            "HASS462",
+            "HASS463",
+            "HASS464",
+            "HASS465",
+            "HASS466",
+            "HASS467",
+            "HASS468",
+            "HASS469",
+            "HASS470",
+            "HASS484",
+            "HASS485",
+            "HASS486",
+            "HASS487",
+            "HASS488",
+            "HASS490",
+            "HASS491",
+            "HASS498",
+            "PEGN430"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Freshman",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "PHGN100",
+          "title": "PHYSICS I - MECHANICS",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "A first course in physics covering the basic principles of mechanics using vectors and calculus. The course consists of a fundamental treatment of the concepts and applications of kinematics and dynamics of particles and systems of particles, including Newton's laws, energy and momentum, rotation, oscillations, and waves. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1. Prerequisite: MATH111. Co-requisite: MATH112 or MATH122.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [
+            "MATH112 OR MATH122"
+          ],
+          "postreqs": [
+            "PHGN200"
+          ]
+        },
+        {
+          "code": "MATH112",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS II",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Equivalent with MATH122,This is the second course in the calculus sequence. Topics include vectors, applications and techniques of integration, infinite series, and an introduction to multivariate functions and surfaces. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH111.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH213",
+            "MATH223",
+            "MATH225",
+            "MATH235",
+            "MATH300",
+            "MATH332",
+            "CBEN200",
+            "CBEN310",
+            "CHGN209",
+            "CEEN241",
+            "CSCI358",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "MNGN251",
+            "MTGN202",
+            "MTGN251",
+            "MTGN272",
+            "PEGN438"
+          ]
+        },
+        {
+          "code": "CHGN122",
+          "title": "PRINCIPLES OF CHEMISTRY II (SC1) or  125",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Continuation of CHGN121 concentrating on chemical kinetics, gas laws, thermodynamics, electrochemistry and chemical equilibrium (acid- base, solubility, complexation, and redox). Laboratory experiments emphasizing quantitative chemical measurements. 3 hours lecture; 3 hours lab, 4 semester hours. Prerequisite: Grade of C- or better in CHGN121.",
+          "prereqs": [
+            "CHGN121"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN209",
+            "CHGN221",
+            "CHGN335",
+            "CHGN336",
+            "CHGN406",
+            "CHGN411",
+            "CEEN301",
+            "CEEN302",
+            "GEGN212",
+            "GEGN330",
+            "GEOL321",
+            "MNGN222",
+            "MNGN251",
+            "MTGN251",
+            "PHGN341"
+          ]
+        },
+        {
+          "code": "CSCI128",
+          "title": "COMPUTER SCIENCE FOR STEM",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Introduction to programming. Intended for students with no prior experience. Teaches basic programming constructs including data types, conditionals, loops, file I/O, functions, and objects in Python 3. Also covers topics vital to STEM computing, such as data science, best practices for code development, and software ethics. Prerequisite: None Co-requisite: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CSCI200",
+            "CSCI250",
+            "CSCI303",
+            "CSCI470",
+            "CSCI478",
+            "GPGN268",
+            "GPGN470",
+            "MEGN200",
+            "MEGN391",
+            "MNGN209",
+            "PEGN438"
+          ]
+        },
+        {
+          "code": "CSM202",
+          "title": "INTRODUCTION TO STUDENT WELL-BEING AT MINES",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "CEEN241",
+          "title": "STATICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Forces, moments, couples, equilibrium, centroids and second moments of areas, volumes and masses, hydrostatics, and friction. Applications of vector algebra to structures. 3 hours lecture; 3 semester hours. Prerequisite: PHGN100 and credit or concurrent enrollment in MATH112.",
+          "prereqs": [
+            "PHGN100",
+            "MATH112"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CEEN310",
+            "CEEN311",
+            "CEEN317",
+            "GEGN351",
+            "MEGN212",
+            "MEGN315",
+            "MEGN330",
+            "MEGN351",
+            "MNGN317",
+            "MNGN321",
+            "MNGN407",
+            "MTGN445",
+            "MTGN465",
+            "PEGN251",
+            "PEGN311"
+          ]
+        },
+        {
+          "code": "MATH213",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS III",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the third course in the calculus sequence, focused on multivariable calculus. Topics include partial derivatives, multiple integrals, and vector calculus. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH112 or MATH122. Corequisites: CSCI128 or CSCI102.",
+          "prereqs": [
+            "MATH112 OR MATH122"
+          ],
+          "coreqs": [
+            "CSCI128 OR CSCI102"
+          ],
+          "postreqs": [
+            "MATH307",
+            "MATH310",
+            "MATH342",
+            "MATH454",
+            "MATH455",
+            "MATH459",
+            "CEEN302",
+            "CSCI406",
+            "EBGN301",
+            "EBGN302",
+            "EBGN435",
+            "GPGN229",
+            "GEGN466",
+            "GEGN466L",
+            "MEGN261",
+            "MNGN317",
+            "MNGN318",
+            "MNGN322",
+            "PEGN305",
+            "PEGN450",
+            "PHGN435"
+          ]
+        },
+        {
+          "code": "PHGN200",
+          "title": "PHYSICS II-ELECTROMAGNETISM AND OPTICS",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Continuation of PHGN100. Introduction to the fundamental laws and concepts of electricity and magnetism, electromagnetic devices, electromagnetic behavior of materials, applications to simple circuits, electromagnetic radiation, and an introduction to optical phenomena. Prerequisite: Grade of C- or higher in PHGN100. Co-requisite: MATH213 or MATH223.",
+          "prereqs": [
+            "PHGN100"
+          ],
+          "coreqs": [
+            "MATH213 OR MATH223"
+          ],
+          "postreqs": [
+            "PHGN215",
+            "PHGN300",
+            "PHGN310",
+            "PHGN324",
+            "PHGN350",
+            "PHGN361",
+            "PHGN419"
+          ]
+        },
+        {
+          "code": "PEGN201",
+          "title": "PETROLEUM ENGINEERING FUNDAMENTALS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course provides an introduction to the oil and gas industry and the various areas associated with petroleum engineering. Topics covered include exploration, development, drilling, production, stimulation, reservoir management, processing, transportation, engineering ethics and professionalism. This course is required for petroleum engineering majors and is open to those interested in petroleum engineering as a minor, and for any other interested students.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EDNS151",
+          "title": "CORNERSTONE - DESIGN I",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with EPIC151,(I, II, S) Design I teaches students how to solve open-ended problems in a hands-on manner using critical thinking and workplace skills. Students work in multidisciplinary teams to learn through doing, with emphasis on defining and diagnosing the problem through a holistic lens of technology, people and culture. Students follow a user-centered design methodology throughout the process, seeking to understand a problem from multiple perspectives before attempting to solve it. Students learn and apply specific skills throughout the semester, including: communication (written, oral, graphical), project management, concept visualization, critical thinking, effective teamwork, as well as building and iterating solutions.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "EDNS220",
+            "EDNS251",
+            "EDNS315",
+            "MEGN200",
+            "MEGN201"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "PEGN251",
+          "title": "FLUID MECHANICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Introductory and fundamental course in engineering fluid flow. Properties of fluids and fluid flow, fluid statics, mass and momentum balance, differential equations, dimensional analysis, laminar and turbulent flow in pipes, and two-phase flow. Lecture format with demonstrations and practical problem-solving. May not also receive credit for MEGN351 or CEEN310. Prerequisite: CEEN241.",
+          "prereqs": [
+            "CEEN241"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PEGN311",
+            "PEGN411",
+            "PEGN460",
+            "PEGN461",
+            "PEGN462"
+          ]
+        },
+        {
+          "code": "PEGN308",
+          "title": "RESERVOIR ROCK PROPERTIES",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Introduction to basic reservoir rock properties and their measurements. Topics covered include: porosity, saturations, volumetric equations, land descriptions, trapping mechanism, pressure and temperature gradient, abnormally pressured reservoirs. Darcy's law for linear horizontal and tilted flow, radial flow for single-phase liquids and gases, multiphase flow (relative permeability). Capillary pressure and formation compressibility are also discussed. Co-requisites: CEEN241, PEGN251, PEGN201. 2 hours lecture; 3 hours lab; 3 semester hours.",
+          "prereqs": [],
+          "coreqs": [
+            "CEEN241",
+            "PEGN251",
+            "PEGN201"
+          ],
+          "postreqs": [
+            "PEGN312",
+            "PEGN315",
+            "PEGN411"
+          ]
+        },
+        {
+          "code": "PEGN282",
+          "title": "PROFESSIONAL SKILLS 1",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "This course is the first in a three-course series designed for petroleum engineering students to develop skills in oral and written communication, professionalism, diversity, and ethics. The course is designed as a discussion-based seminar course and will focus on critical thinking and problem-solving. Assignments will be based on technical and non-technical material relating to earth, energy, and the environment. Students will work individually and in multicultural teams on assignments throughout the semester.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "PEGN382"
+          ]
+        },
+        {
+          "code": "CHGN209",
+          "title": "INTRODUCTION TO CHEMICAL THERMODYNAMICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Introduction to the fundamental principles of classical thermodynamics, with particular emphasis on chemical and phase equilibria. Volume-temperature-pressure relationships for solids, liquids, and gases; ideal and non-ideal gases. Introduction to kineticmolecular theory of ideal gases and the Maxwell-Boltzmann distributions. Work, heat, and application of the First Law to closed systems, including chemical reactions. Entropy and the Second and Third Laws; Gibbs Free Energy. Chemical equilibrium and the equilibrium constant; introduction to activities & fugacities. One- and two-component phase diagrams; Gibbs Phase Rule. May not also receive credit for CBEN210 or GEGN330. Prerequisites: CHGN121, CHGN122 or CHGN125, MATH111, MATH112, PHGN100. 3 hours lecture; 3 semester hours.",
+          "prereqs": [
+            "CHGN121 OR CHGN122 OR CHGN125",
+            "MATH111",
+            "MATH112",
+            "PHGN100"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN341",
+            "CHGN351",
+            "CHGN403",
+            "CHGN410",
+            "CHGN435",
+            "MNGN424",
+            "MTGN469",
+            "PEGN312",
+            "PEGN460",
+            "PEGN461",
+            "PEGN462"
+          ]
+        },
+        {
+          "code": "HASS215",
+          "title": "FUTURES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "FUTURES invites students to envision possibilities around critical issues related to the future of science and engineering. It is central to the Mines core curriculum and encouraged during the first years at Mines. Guided by four instructors who share perspectives from a wide range of humanities, social science, and applied disciplines, students will explore future-oriented themes at the forefront of advances in science, engineering, technology and society, such as Energy Futures, Technology Futures, and Critical Resource Sustainability, among others. By the end of the course students will gain skills in integrating multiple perspectives and connecting them to their own interests and trajectory at Mines and beyond. Prerequisites: None. Co-requisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS302"
+          ]
+        },
+        {
+          "code": "EBGN321",
+          "title": "ENGINEERING ECONOMICS",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CHEN421,Time value of money concepts of present worth, future worth, annual worth, rate of return and break-even analysis applied to after-tax economic analysis of mineral, petroleum and general investments. Related topics on proper handling of (1) inflation and escalation, (2) leverage (borrowed money), (3) risk adjustment of analysis using expected value concepts, (4) mutually exclusive alternative analysis and service producing alternatives.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Summer",
+      "courses": [
+        {
+          "code": "PEGN315",
+          "title": "SUMMER FIELD SESSION I",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "This 8 day course taken after the completion of the sophomore year is designed to introduce the student to oil and gas field and other engineering operations. Engineering design problems are integrated throughout the 8 day session. On-site visits to various oil field operations in the past included the Rocky Mountain region, the U.S. Gulf Coast, California, Alaska, Canada and Europe. Topics covered include drilling, completions, stimulations, surface facilities, production, artificial lift, reservoir, geology and geophysics. Also included are environmental and safety issues as related to the petroleum industry. 3 hours lab; 1 semester hour. Prerequisite: PEGN308 (grade C or better).",
+          "prereqs": [
+            "PEGN308"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PEGN316"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "PEGN311",
+          "title": "DRILLING ENGINEERING",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Study of drilling operations, rig equipment and procedures, wellbore construction processes and planning, drilling fluid design, hydraulics, well control, bit selection and drill string design, directional drilling, and completion equipment. Prerequisite: PEGN251 with a grade of C or higher, PEGN315, CEEN241. Co-requisite: PEGN305.",
+          "prereqs": [
+            "PEGN251",
+            "PEGN315",
+            "CEEN241"
+          ],
+          "coreqs": [
+            "PEGN305"
+          ],
+          "postreqs": [
+            "PEGN361",
+            "PEGN411",
+            "PEGN428"
+          ]
+        },
+        {
+          "code": "PEGN312",
+          "title": "PROPERTIES OF PETROLEUM ENGINEERING FLUIDS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "(WI) Properties of fluids encountered in petroleum engineering including reservoir, drilling, and completion fluids, and oilfield waters. Phase behavior, density, viscosity, interfacial tension, and composition of oil, gas, and brine systems. Interpreting lab data for engineering applications. Flash calculations with k-values and equation of state. Introduction to fluid properties software. Laboratory experimentation of fluid properties. Prerequisites: PEGN308 (C or better), CHGN209 (C or better). 2 hours lecture; 3 hours lab; 3 semester hours.",
+          "prereqs": [
+            "PEGN308",
+            "CHGN209"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PEGN411"
+          ]
+        },
+        {
+          "code": "PEGN382",
+          "title": "PROFESSIONAL SKILLS 2",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "This course is the second in a three-course series designed for petroleum engineering students to develop skills in oral and written communication, professionalism, diversity and ethics. The course is designed as a discussion based seminar course and will focus on oral and written communication skills. Assignments will be based on technical and non-technical material relating to earth, energy, and the environment. Students will work individually and in multicultural teams on assignments throughout the semester. Prerequisite: PEGN282.",
+          "prereqs": [
+            "PEGN282"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PEGN482"
+          ]
+        },
+        {
+          "code": "GEOL315",
+          "title": "SEDIMENTOLOGY AND STRATIGRAPHY",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Integrated lecture, laboratory and field exercises on the genesis of sedimentary rocks as related to subsurface porosity and permeability development and distribution for non-geology majors. Emphasis is placed on siliciclastic systems of varying degrees of heterogeneity. Topics include diagenesis, facies analysis, correlation techniques, and sequence and seismic stratigraphy. Application to hydrocarbon exploitation stressed throughout the course. Required of all PEGN students. Prerequisite: GEGN101, PEGN308. 2 hours lecture, 3 hours lab; 3 semester hours.",
+          "prereqs": [
+            "GEGN101",
+            "PEGN308"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PEGN316",
+            "PEGN419"
+          ]
+        },
+        {
+          "code": "CEEN311",
+          "title": "MECHANICS OF MATERIALS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Fundamentals of stress, strain, deformation, and material properties. Mechanics of members subjected to axial, torsional, bending, and combined loads; beam deflection; static indeterminacy; Euler buckling; stress transformation and principal stresses; thermal stress, strain, and deformation; thin-walled pressure vessels; Allowable Stress Design; and stress concentrations. May not also receive credit for MEGN212. Prerequisite: CEEN241.",
+          "prereqs": [
+            "CEEN241"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CEEN312",
+            "CEEN314",
+            "CEEN350",
+            "CEEN406",
+            "CEEN425",
+            "CEEN442",
+            "MEGN324",
+            "MEGN412",
+            "MEGN430",
+            "MNGN321",
+            "MTGN445",
+            "MTGN464",
+            "MTGN465",
+            "PEGN361",
+            "PEGN490"
+          ]
+        },
+        {
+          "code": "MATH225",
+          "title": "DIFFERENTIAL EQUATIONS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course is an introduction to ordinary differential equations. Topics include classical techniques for first and higher order equations and systems of equations. Laplace transforms, phase-plane and stability analysis of non-linear equations and systems, applications from physics, mechanics, electrical engineering, and environmental sciences. 3 hours lecture; 3 semester hours. Prerequisites: Grade of C- or better in MATH112 or MATH122. Co-requisites: CSC128 or CSCI102.",
+          "prereqs": [
+            "MATH112 OR MATH122"
+          ],
+          "coreqs": [
+            "CSC128 OR CSCI102"
+          ],
+          "postreqs": [
+            "MATH310",
+            "MATH454",
+            "MATH455",
+            "MATH459",
+            "CBEN307",
+            "CBEN314",
+            "CBEN357",
+            "CBEN403",
+            "CBEN416",
+            "CBEN418",
+            "CBEN420",
+            "CBEN430",
+            "CBEN440",
+            "CHGN351",
+            "CEEN405",
+            "CEEN406",
+            "EENG307",
+            "EENG310",
+            "EENG386",
+            "EENG391",
+            "GPGN404",
+            "GEGN466",
+            "GEGN466L",
+            "GEOL470",
+            "MEGN475",
+            "MNGN461",
+            "MTGN315",
+            "MTGN461",
+            "MTGN469",
+            "PEGN414",
+            "PEGN423",
+            "PEGN460",
+            "PEGN461",
+            "PEGN462",
+            "PHGN311",
+            "PHGN419"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "PEGN361",
+          "title": "COMPLETION ENGINEERING",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "(WI) This class is a continuation from drilling in PEGN311 into completion operations. Topics include casing design, cement planning, completion techniques and equipment, tubing design, wellhead selection, and sand control, and perforation procedures. 3 hours lecture; 3 semester hours. Prerequisite: PEGN311 and CEEN311.",
+          "prereqs": [
+            "PEGN311",
+            "CEEN311"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PEGN426",
+            "PEGN428"
+          ]
+        },
+        {
+          "code": "PEGN411",
+          "title": "MECHANICS OF PETROLEUM PRODUCTION",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Nodal analysis for pipe and formation deliverability including single and multiphase flow. Natural flow and design of artificial lift methods including gas lift, sucker rod pumps, electrical submersible pumps, and hydraulic pumps.  3 hours lecture; 3 semester hours. Prerequisite:  PEGN251, PEGN308 (grade of C or better), PEGN311, and PEGN312.",
+          "prereqs": [
+            "PEGN251",
+            "PEGN308",
+            "PEGN311",
+            "PEGN312"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PEGN426"
+          ]
+        },
+        {
+          "code": "PEGN419",
+          "title": "WELL LOG ANALYSIS AND FORMATION EVALUATION",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with GPGN419,(II) An introduction to well logging methods, including the relationship between measured properties and reservoir properties. Analysis of log suites for reservoir size and content. Graphical and analytical methods will be developed to allow the student to better visualize the reservoir, its contents, and its potential for production. Use of the computer as a tool to handle data, create graphs and log traces, and make computations of reservoir parameters is required. Prerequisites: GEOL315, PHGN 200 (grade of C or better). 3 hours lecture; 3 semester hours.",
+          "prereqs": [
+            "GEOL315",
+            "PHGN200"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PEGN423"
+          ]
+        },
+        {
+          "code": "PEGN438",
+          "title": "PETROLEUM DATA ANALYTICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Introduction to elementary probability theory and its applications in engineering and sciences; discrete and continuous probability distributions; parameter estimation; hypothesis testing; linear regression; spatial correlations and geostatistics with emphasis on applications in earth sciences and engineering. 2 hours lecture; 3 hours lab; 3 semester hours. Prerequisite: MATH112 and CSCI128.",
+          "prereqs": [
+            "MATH112",
+            "CSCI128"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PEGN440"
+          ]
+        },
+        {
+          "code": "PEGN482",
+          "title": "PROFESSIONAL SKILLS 3",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "This course is the third in a three-course series designed for petroleum engineering students to develop skills in oral and written communication, professionalism, diversity and ethics. The course is designed as a discussion based seminar course and will focus on oral and written communication skills, professionalism, diversity and ethics.  Assignments will be based on technical and non-technical material relating to earth, energy, and the environment. Students will work individually and in multicultural teams on assignments throughout the semester. Prerequisite: PEGN382.",
+          "prereqs": [
+            "PEGN382"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "GEOL308",
+          "title": "INTRODUCTORY APPLIED STRUCTURAL GEOLOGY",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Nature and origin of structural features of Earth's crust emphasizing structural controls on oil and gas entrapment. Structural patterns and associations are discussed in context of plate tectonic theories, using examples from across the globe. In class exercises and field projects in structural geometry, mapping and cross section construction and seismic reflection data interpretation. Course required of all PEGN students.  Prerequisite: GEGN101.",
+          "prereqs": [
+            "GEGN101"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PEGN316",
+            "PEGN439"
+          ]
+        },
+        {
+          "code": "S&W",
+          "title": "SUCCESS AND WELLNESS",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Summer",
+      "courses": [
+        {
+          "code": "PEGN316",
+          "title": "SUMMER FIELD SESSION II",
+          "credits": "2.0",
+          "core": "MAJOR",
+          "desc": "This two week course is taken after the completion of the junior year. Emphasis is placed on the multidisciplinary nature of reservoir management. Field trips in the area provide the opportunity to study eolian, fluvial, lacustrine, near shore, and marine depositional systems. These field trips provide the setting for understanding the complexity of each system in the context of reservoir development and management. Petroleum systems including the source, maturity, and trapping of hydrocarbons are studied in the context of petroleum exploration and development. Geologic methods incorporating both surface and subsurface data are used extensively. 6 hours lab; 2 semester hours. Prerequisite: PEGN315, PEGN419, GEOL308, and GEOL315.",
+          "prereqs": [
+            "PEGN315",
+            "PEGN419",
+            "GEOL308",
+            "GEOL315"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PEGN423",
+            "PEGN439"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "PEGN423",
+          "title": "PETROLEUM RESERVOIR ENGINEERING I",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Data requirements for reservoir engineering studies. Material balance calculations for normal gas, retrograde gas condensate, solution-gas and gas-cap reservoirs with or without water drive. Primary reservoir performance. Forecasting future recoveries by incremental material balance. 3 hours lecture; 3 semester hours. Prerequisite: PEGN419, PEGN316 and MATH 225 or MATH235.",
+          "prereqs": [
+            "PEGN419",
+            "PEGN316",
+            "MATH225 OR MATH235"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "PEGN424"
+          ]
+        },
+        {
+          "code": "PEGN422",
+          "title": "ECONOMICS AND EVALUATION OF OIL AND GAS PROJECTS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Project economics for oil and gas projects under conditions of certainty and uncertainty. Topics include time value of money concepts, discount rate assumptions, measures of project profitability, costs, taxes, expected value concept, decision trees, gambler\u2019s ruin, and Monte Carlo simulation techniques. 3 hours lecture; 3 semester hours.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "CAS3**",
+          "title": "CULTURE AND SOCIETY (CAS) Mid-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective",
+          "credits": "6.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "PEGN424",
+          "title": "PETROLEUM RESERVOIR ENGINEERING II",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Reservoir engineering aspects of supplemental recovery processes. Introduction to liquid-liquid displacement processes, gas-liquid displacement processes, and thermal recovery processes. Introduction to numerical reservoir simula tion, history matching and forecasting. Prerequisite: PEGN423 and PEGN438. 3 hours lecture; 3 semester hours.",
+          "prereqs": [
+            "PEGN423",
+            "PEGN438"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "PEGN426",
+          "title": "FORMATION DAMAGE AND STIMULATION",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Skin damage associated with formation damage, well deviation, and perforating. Formation damage mechanisms and causes. Stimulation techniques, including acidizing and fracturing. Calculation of matrix and fracturing rates and pressures. Design of matrix acidizing treatments.  Selection/determination of hydraulic fracturing components including rock mechanical properties, in-situ stresses, proppants, fluid types, and diversion.  Reservoir considerations in fracture propagation and design. Stimulation diagnostics and their application. Prerequisite: PEGN361 and PEGN411.",
+          "prereqs": [
+            "PEGN361",
+            "PEGN411"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "PEGN439",
+          "title": "MULTIDISCIPLINARY PETROLEUM DESIGN",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with GEGN439,GPGN439,(WI) This is a multi-disciplinary design course that integrates fundamentals and design concepts in geology, geophysics, and petroleum engineering. Students work in integrated teams consisting of students from each of the disciplines. Multiple open-ended design problems in oil and gas exploration and field development, including the development of a prospect in an exploration play and a detailed engineering field study are assigned. Several detailed written and oral presentations are made throughout the semester. Project economics including risk analysis are an integral part of the course. Prerequisites: GEOL308, PEGN316. Co-requisites: PEGN426. 2 hours lecture, 3 hours lab; 3 semester hours.",
+          "prereqs": [
+            "GEOL308",
+            "PEGN316"
+          ],
+          "coreqs": [
+            "PEGN426"
+          ],
+          "postreqs": []
+        },
+        {
+          "code": "CAS4**",
+          "title": "CULTURE AND SOCIETY (CAS) 400-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "CAS3**",
+          "title": "CULTURE AND SOCIETY (CAS) Mid-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "MATH111",
+      "to": "PHGN100",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "PHGN100",
+      "type": "coreq"
+    },
+    {
+      "from": "MATH111",
+      "to": "MATH112",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN121",
+      "to": "CHGN122",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "CEEN241",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "CEEN241",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH213",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "MATH213",
+      "type": "coreq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "PHGN200",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH213",
+      "to": "PHGN200",
+      "type": "coreq"
+    },
+    {
+      "from": "CEEN241",
+      "to": "PEGN251",
+      "type": "prereq"
+    },
+    {
+      "from": "CEEN241",
+      "to": "PEGN308",
+      "type": "coreq"
+    },
+    {
+      "from": "PEGN201",
+      "to": "PEGN308",
+      "type": "coreq"
+    },
+    {
+      "from": "PEGN251",
+      "to": "PEGN308",
+      "type": "coreq"
+    },
+    {
+      "from": "CHGN121",
+      "to": "CHGN209",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN122",
+      "to": "CHGN209",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH111",
+      "to": "CHGN209",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "CHGN209",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "CHGN209",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN308",
+      "to": "PEGN315",
+      "type": "prereq"
+    },
+    {
+      "from": "CEEN241",
+      "to": "PEGN311",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN251",
+      "to": "PEGN311",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN315",
+      "to": "PEGN311",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN209",
+      "to": "PEGN312",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN308",
+      "to": "PEGN312",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN282",
+      "to": "PEGN382",
+      "type": "prereq"
+    },
+    {
+      "from": "GEGN101",
+      "to": "GEOL315",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN308",
+      "to": "GEOL315",
+      "type": "prereq"
+    },
+    {
+      "from": "CEEN241",
+      "to": "CEEN311",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH225",
+      "type": "prereq"
+    },
+    {
+      "from": "CEEN311",
+      "to": "PEGN361",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN311",
+      "to": "PEGN361",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN251",
+      "to": "PEGN411",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN308",
+      "to": "PEGN411",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN311",
+      "to": "PEGN411",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN312",
+      "to": "PEGN411",
+      "type": "prereq"
+    },
+    {
+      "from": "GEOL315",
+      "to": "PEGN419",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN200",
+      "to": "PEGN419",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "PEGN438",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "PEGN438",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN382",
+      "to": "PEGN482",
+      "type": "prereq"
+    },
+    {
+      "from": "GEGN101",
+      "to": "GEOL308",
+      "type": "prereq"
+    },
+    {
+      "from": "GEOL308",
+      "to": "PEGN316",
+      "type": "prereq"
+    },
+    {
+      "from": "GEOL315",
+      "to": "PEGN316",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN315",
+      "to": "PEGN316",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN419",
+      "to": "PEGN316",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH225",
+      "to": "PEGN423",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN316",
+      "to": "PEGN423",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN419",
+      "to": "PEGN423",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN423",
+      "to": "PEGN424",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN438",
+      "to": "PEGN424",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN361",
+      "to": "PEGN426",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN411",
+      "to": "PEGN426",
+      "type": "prereq"
+    },
+    {
+      "from": "GEOL308",
+      "to": "PEGN439",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN316",
+      "to": "PEGN439",
+      "type": "prereq"
+    },
+    {
+      "from": "PEGN426",
+      "to": "PEGN439",
+      "type": "coreq"
+    }
+  ]
+}

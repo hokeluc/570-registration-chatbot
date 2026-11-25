@@ -71,7 +71,14 @@ Missing `citations`, `profile_updates` or `warnings` count as empty. On a non-2x
 
 ## `GET /api/options` (Person 3)
 
-Fills the onboarding dropdowns from the Minesflow data. Until it exists, the UI uses the placeholder list in `frontend/src/api/fallbackOptions.ts`.
+Fills the onboarding dropdowns. Implemented in `backend/options.py` (Flask blueprint `options.bp`; `backend/app.py` is a dev runner).
+
+- `majors` and `tracks` come from `backend/minesflow/minesflow_export/index.json`, filtered by `catalog_metadata.json` (`major_granting`). Track names drop the `Track` suffix and the `CS + ` prefix, and the base CSCI track is `General`. Majors are named to match the 21 Mines undergraduate majors (for example Minesflow's "Engineering Design And Society" is served as "Design Engineering"). Minesflow's one Civil Engineering major is split into Civil, Construction and Environmental Engineering, each with a single `General` track. Quantum Systems Engineering has no Minesflow data, so it is served with `tracks: []`.
+- `minors` and `catalog_years` are static lists in `backend/options_fallback.json`. Minesflow has neither. Keep them equal to `frontend/src/api/fallbackOptions.ts` (a test checks this).
+- Minesflow holds one current snapshot, so `catalog_year` does not change which curriculum is loaded.
+- Run the dev runner with `PORT=5001 python backend/app.py` if macOS AirPlay Receiver already holds port 5000.
+
+If the endpoint is unreachable, the UI uses the placeholder list in `frontend/src/api/fallbackOptions.ts`.
 
 ```json
 {
