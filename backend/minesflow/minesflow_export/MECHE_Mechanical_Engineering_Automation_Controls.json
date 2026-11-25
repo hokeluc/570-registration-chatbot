@@ -1,0 +1,1151 @@
+{
+  "name": "MECHE - Mechanical Engineering - Automation & Controls",
+  "semesters": [
+    {
+      "year": "Freshman",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "CHGN121",
+          "title": "PRINCIPLES OF CHEMISTRY I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Study of matter and energy based on atomic structure, correlation of properties of elements with position in periodic chart, chemical bonding, geometry of molecules, phase changes, stoichiometry, solution chemistry, gas laws, and thermochemistry. 3 hours lecture, 3 hours lab; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN122",
+            "CHGN125",
+            "CHGN209",
+            "CHGN311",
+            "CHGN423",
+            "CEEN475",
+            "GEGN330",
+            "MNGN222",
+            "MTGN202"
+          ]
+        },
+        {
+          "code": "CSM101",
+          "title": "FRESHMAN SUCCESS SEMINAR",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EDNS151",
+          "title": "CORNERSTONE - DESIGN I",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with EPIC151,(I, II, S) Design I teaches students how to solve open-ended problems in a hands-on manner using critical thinking and workplace skills. Students work in multidisciplinary teams to learn through doing, with emphasis on defining and diagnosing the problem through a holistic lens of technology, people and culture. Students follow a user-centered design methodology throughout the process, seeking to understand a problem from multiple perspectives before attempting to solve it. Students learn and apply specific skills throughout the semester, including: communication (written, oral, graphical), project management, concept visualization, critical thinking, effective teamwork, as well as building and iterating solutions.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "EDNS220",
+            "EDNS251",
+            "EDNS315",
+            "MEGN200",
+            "MEGN201"
+          ]
+        },
+        {
+          "code": "HASS100",
+          "title": "NATURE AND HUMAN VALUES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CSM191,CSM192,HNRS105,HNRS115,HNRS198A,LAIS100,Nature and Human Values (NHV) is a writing-intensive course, workshop, and discussion seminar that focuses on ethics and inquiry and uses humanities perspectives to examine big questions about the interdependence of human life, society, and the environment. The class links personal, professional, and environmental ethics to engineering, energy, and emerging technologies. Written and oral communication are stressed as a crucial component of professional and civic dialogue, while encouraging critical reading, thinking, and conversation about students' ethical obligations as world citizens with broader moral, social, and environmental responsibilities to stakeholders. The culminating research paper asks that students consider the ethical dimensions of their arguments within science and engineering contexts while engaging different viewpoints, evaluating sources, and supporting an original position. 3 hours seminar; 3 semester hours. Prerequisites: None. Corequisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS200",
+            "HASS202",
+            "HASS220",
+            "HASS226",
+            "HASS227",
+            "HASS298",
+            "HASS299",
+            "HASS300",
+            "HASS301",
+            "HASS302",
+            "HASS305",
+            "HASS307",
+            "HASS309",
+            "HASS314",
+            "HASS315",
+            "HASS316",
+            "HASS317",
+            "HASS318",
+            "HASS319",
+            "HASS320",
+            "HASS323",
+            "HASS324",
+            "HASS326",
+            "HASS327",
+            "HASS328",
+            "HASS329",
+            "HASS330",
+            "HASS339",
+            "HASS344",
+            "HASS365",
+            "HASS366",
+            "HASS370",
+            "HASS372",
+            "HASS376",
+            "HASS398",
+            "HASS399",
+            "HASS400",
+            "HASS401",
+            "HASS404",
+            "HASS406",
+            "HASS407",
+            "HASS408",
+            "HASS410",
+            "HASS411",
+            "HASS412",
+            "HASS413",
+            "HASS415",
+            "HASS416",
+            "HASS417",
+            "HASS418",
+            "HASS419",
+            "HASS420",
+            "HASS421",
+            "HASS422",
+            "HASS423",
+            "HASS425",
+            "HASS427",
+            "HASS429",
+            "HASS430",
+            "HASS431",
+            "HASS432",
+            "HASS435",
+            "HASS437",
+            "HASS439",
+            "HASS441",
+            "HASS448",
+            "HASS460",
+            "HASS461",
+            "HASS462",
+            "HASS463",
+            "HASS464",
+            "HASS465",
+            "HASS466",
+            "HASS467",
+            "HASS468",
+            "HASS469",
+            "HASS470",
+            "HASS484",
+            "HASS485",
+            "HASS486",
+            "HASS487",
+            "HASS488",
+            "HASS490",
+            "HASS491",
+            "HASS498",
+            "PEGN430"
+          ]
+        },
+        {
+          "code": "MATH111",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the first course in the calculus sequence. Topics include elements of plane geometry, functions, limits, continuity, derivatives and their application, definite and indefinite integrals; 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: precalculus.",
+          "prereqs": [
+            "precalculus"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH112",
+            "MATH122",
+            "MATH201",
+            "CBEN210",
+            "CHGN209",
+            "GEGN203",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "PHGN100"
+          ]
+        },
+        {
+          "code": "S&W",
+          "title": "SUCCESS AND WELLNESS",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Freshman",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "HASS215",
+          "title": "FUTURES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "FUTURES invites students to envision possibilities around critical issues related to the future of science and engineering. It is central to the Mines core curriculum and encouraged during the first years at Mines. Guided by four instructors who share perspectives from a wide range of humanities, social science, and applied disciplines, students will explore future-oriented themes at the forefront of advances in science, engineering, technology and society, such as Energy Futures, Technology Futures, and Critical Resource Sustainability, among others. By the end of the course students will gain skills in integrating multiple perspectives and connecting them to their own interests and trajectory at Mines and beyond. Prerequisites: None. Co-requisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS302"
+          ]
+        },
+        {
+          "code": "CSCI128",
+          "title": "COMPUTER SCIENCE FOR STEM",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Introduction to programming. Intended for students with no prior experience. Teaches basic programming constructs including data types, conditionals, loops, file I/O, functions, and objects in Python 3. Also covers topics vital to STEM computing, such as data science, best practices for code development, and software ethics. Prerequisite: None Co-requisite: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CSCI200",
+            "CSCI250",
+            "CSCI303",
+            "CSCI470",
+            "CSCI478",
+            "GPGN268",
+            "GPGN470",
+            "MEGN200",
+            "MEGN391",
+            "MNGN209",
+            "PEGN438"
+          ]
+        },
+        {
+          "code": "MATH112",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS II",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Equivalent with MATH122,This is the second course in the calculus sequence. Topics include vectors, applications and techniques of integration, infinite series, and an introduction to multivariate functions and surfaces. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH111.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH213",
+            "MATH223",
+            "MATH225",
+            "MATH235",
+            "MATH300",
+            "MATH332",
+            "CBEN200",
+            "CBEN310",
+            "CHGN209",
+            "CEEN241",
+            "CSCI358",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "MNGN251",
+            "MTGN202",
+            "MTGN251",
+            "MTGN272",
+            "PEGN438"
+          ]
+        },
+        {
+          "code": "PHGN100",
+          "title": "PHYSICS I - MECHANICS",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "A first course in physics covering the basic principles of mechanics using vectors and calculus. The course consists of a fundamental treatment of the concepts and applications of kinematics and dynamics of particles and systems of particles, including Newton's laws, energy and momentum, rotation, oscillations, and waves. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1. Prerequisite: MATH111. Co-requisite: MATH112 or MATH122.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [
+            "MATH112 OR MATH122"
+          ],
+          "postreqs": [
+            "PHGN200"
+          ]
+        },
+        {
+          "code": "CSM202",
+          "title": "INTRODUCTION TO STUDENT WELL-BEING AT MINES",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "CEEN241",
+          "title": "STATICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Forces, moments, couples, equilibrium, centroids and second moments of areas, volumes and masses, hydrostatics, and friction. Applications of vector algebra to structures. 3 hours lecture; 3 semester hours. Prerequisite: PHGN100 and credit or concurrent enrollment in MATH112.",
+          "prereqs": [
+            "PHGN100",
+            "MATH112"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CEEN310",
+            "CEEN311",
+            "CEEN317",
+            "GEGN351",
+            "MEGN212",
+            "MEGN315",
+            "MEGN330",
+            "MEGN351",
+            "MNGN317",
+            "MNGN321",
+            "MNGN407",
+            "MTGN445",
+            "MTGN465",
+            "PEGN251",
+            "PEGN311"
+          ]
+        },
+        {
+          "code": "MTGN202",
+          "title": "ENGINEERED MATERIALS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with SYGN202,Introduction to the Metallurgical and Materials Engineering paradigm: processing, structure, and properties. The course will relate technologically significant processing procedures to resultant structures. The material structure will be examined to determine its effect upon material properties. Students will study materials engineering methodologies and learn terminology. 3 hours lecture; 3 semester hours. Prerequisite: CHGN121, MATH112, and PHGN100.",
+          "prereqs": [
+            "CHGN121",
+            "MATH112",
+            "PHGN100"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MTGN211",
+            "MTGN281",
+            "MTGN310",
+            "MTGN310L",
+            "MTGN319",
+            "MTGN319L",
+            "MTGN472"
+          ]
+        },
+        {
+          "code": "MATH213",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS III",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the third course in the calculus sequence, focused on multivariable calculus. Topics include partial derivatives, multiple integrals, and vector calculus. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH112 or MATH122. Corequisites: CSCI128 or CSCI102.",
+          "prereqs": [
+            "MATH112 OR MATH122"
+          ],
+          "coreqs": [
+            "CSCI128 OR CSCI102"
+          ],
+          "postreqs": [
+            "MATH307",
+            "MATH310",
+            "MATH342",
+            "MATH454",
+            "MATH455",
+            "MATH459",
+            "CEEN302",
+            "CSCI406",
+            "EBGN301",
+            "EBGN302",
+            "EBGN435",
+            "GPGN229",
+            "GEGN466",
+            "GEGN466L",
+            "MEGN261",
+            "MNGN317",
+            "MNGN318",
+            "MNGN322",
+            "PEGN305",
+            "PEGN450",
+            "PHGN435"
+          ]
+        },
+        {
+          "code": "MEGN200",
+          "title": "INTRODUCTION TO MECHANICAL ENGINEERING: PROGRAMMING AND HARDWARE INTERFACE or  201",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course introduces programming skills using Matlab as a means to collect and analyze data and utilizes Arduinos as a platform for prototyping circuits and designs. This course reinforces the engineering design process through problem definition and identifying constraints and criteria, encouraging multiple solutions, and introducing analysis in design through prototyping. Prerequisites: EDNS151 or EDNS155 or HNRS105 or HNRS115 or HNRS198; (CSCI101 & CSCI102) or CSCI128. Corequisites: PHGN200.",
+          "prereqs": [
+            "EDNS151 OR EDNS155 OR HNRS105 OR HNRS115 OR HNRS198",
+            "(CSCI101 AND CSCI102) OR CSCI128"
+          ],
+          "coreqs": [
+            "PHGN200"
+          ],
+          "postreqs": [
+            "MEGN300",
+            "MEGN301",
+            "MEGN441"
+          ]
+        },
+        {
+          "code": "PHGN200",
+          "title": "PHYSICS II-ELECTROMAGNETISM AND OPTICS",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Continuation of PHGN100. Introduction to the fundamental laws and concepts of electricity and magnetism, electromagnetic devices, electromagnetic behavior of materials, applications to simple circuits, electromagnetic radiation, and an introduction to optical phenomena. Prerequisite: Grade of C- or higher in PHGN100. Co-requisite: MATH213 or MATH223.",
+          "prereqs": [
+            "PHGN100"
+          ],
+          "coreqs": [
+            "MATH213 OR MATH223"
+          ],
+          "postreqs": [
+            "PHGN215",
+            "PHGN300",
+            "PHGN310",
+            "PHGN324",
+            "PHGN350",
+            "PHGN361",
+            "PHGN419"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "EENG281",
+          "title": "INTRODUCTION TO ELECTRICAL CIRCUITS, ELECTRONICS AND POWER",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course provides an engineering science analysis of electrical circuits. DC and single-phase AC networks are presented. Transient analysis of RC, RL, and RLC circuits is studied as is the analysis of circuits in sinusoidal steady-state using phasor concepts. The following topics are included: DC and single-phase AC circuit analysis, current and charge relationships. Ohm's Law, resistors, inductors, capacitors, equivalent resistance and impedance, Kirchhoff's Laws, Thevenin and Norton equivalent circuits, superposition and source transformation, power and energy, maximum power transfer, first order transient response, algebra of complex numbers, phasor representation, time domain and frequency domain concepts, and ideal transformers. The course features PSPICE, a commercial circuit analysis software package. May not also receive credit for EENG282. Prerequisite: PHGN200.",
+          "prereqs": [
+            "PHGN200"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "EENG307",
+            "EENG310",
+            "EENG383",
+            "EENG386",
+            "EENG389",
+            "EENG391",
+            "EENG392",
+            "EENG423",
+            "MEGN441"
+          ]
+        },
+        {
+          "code": "MATH225",
+          "title": "DIFFERENTIAL EQUATIONS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course is an introduction to ordinary differential equations. Topics include classical techniques for first and higher order equations and systems of equations. Laplace transforms, phase-plane and stability analysis of non-linear equations and systems, applications from physics, mechanics, electrical engineering, and environmental sciences. 3 hours lecture; 3 semester hours. Prerequisites: Grade of C- or better in MATH112 or MATH122. Co-requisites: CSC128 or CSCI102.",
+          "prereqs": [
+            "MATH112 OR MATH122"
+          ],
+          "coreqs": [
+            "CSC128 OR CSCI102"
+          ],
+          "postreqs": [
+            "MATH310",
+            "MATH454",
+            "MATH455",
+            "MATH459",
+            "CBEN307",
+            "CBEN314",
+            "CBEN357",
+            "CBEN403",
+            "CBEN416",
+            "CBEN418",
+            "CBEN420",
+            "CBEN430",
+            "CBEN440",
+            "CHGN351",
+            "CEEN405",
+            "CEEN406",
+            "EENG307",
+            "EENG310",
+            "EENG386",
+            "EENG391",
+            "GPGN404",
+            "GEGN466",
+            "GEGN466L",
+            "GEOL470",
+            "MEGN475",
+            "MNGN461",
+            "MTGN315",
+            "MTGN461",
+            "MTGN469",
+            "PEGN414",
+            "PEGN423",
+            "PEGN460",
+            "PEGN461",
+            "PEGN462",
+            "PHGN311",
+            "PHGN419"
+          ]
+        },
+        {
+          "code": "MEGN212",
+          "title": "INTRODUCTION TO SOLID MECHANICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with MEGN312,This course introduces students to the principles of Solid Mechanics. Upon completion, students will be able to apply Solid Mechanics theories to analyze and design machine elements and structures using isotropic materials. The skills and knowledge learned in this course form the required foundation for Intro to Finite Element Analysis, Advanced Mechanics of Material, Machine Design and other advanced topics in engineering curricula. Practically, it enables students to solve real-world mechanical behavior problems that involve structural materials. This courses places an early focus on ensuring students have mastered the creation of free body diagrams given a mechanical system, then moves on to introduce and reinforce learning of stress and strain transformations, and failure theories. In practicing this knowledge, students will be able to analyze and design machine elements and structures of homogenous and heterogeneous geometries under axial, torsional, bending, transverse shear, internal pressure loads, and non-uniform loads. Students will be able to quantitatively communicate the outcomes. May not also receive credit for CEEN311. Prerequisite: CEEN241 (C- or better).",
+          "prereqs": [
+            "CEEN241"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MEGN324",
+            "MEGN381",
+            "MEGN412",
+            "MEGN414",
+            "MEGN430",
+            "MEGN453"
+          ]
+        },
+        {
+          "code": "MEGN261",
+          "title": "THERMODYNAMICS I",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course is a comprehensive treatment of thermodynamics from a mechanical engineering point of view. Topics include: Thermodynamic properties of substances inclusive of phase diagrams, equations of state, internal energy, enthalpy, entropy, and ideal gases; principles of conservation of mass and energy for steady-state and transient analyses; First and Second Law of thermodynamics, heat engines, and thermodynamic efficiencies; Application of fundamental principles with an emphasis on refrigeration and power cycles. May not also receive credit for CBEN210. Prerequisite: MATH213 (C- or better).",
+          "prereqs": [
+            "MATH213"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MEGN461",
+            "MEGN466",
+            "MEGN467",
+            "MEGN469",
+            "MEGN471",
+            "MNGN424",
+            "MTGN469"
+          ]
+        },
+        {
+          "code": "MEGN201",
+          "title": "INTRODUCTION TO MECHANICAL ENGINEERING: DESIGN & FABRICATION",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course reinforces basic drawing skills from Cornerstone Design, introduces SolidWorks tools to advance modeling skills, introduces machine shop skills (including safety and use of mill, lathe and CNC) and introduces GDnT practices important in fabrication and manufacturing, and prob-stats relevant to manufacturing. 3 hours lecture; 3 semester hours.  Prerequisite: EDNS151 or EDNS155; HNRS105 or HNRS198A.",
+          "prereqs": [
+            "EDNS151 OR EDNS155",
+            "HNRS105 OR HNRS198A"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MEGN301",
+            "MEGN381",
+            "MEGN385"
+          ]
+        },
+        {
+          "code": "EBGN321",
+          "title": "ENGINEERING ECONOMICS",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CHEN421,Time value of money concepts of present worth, future worth, annual worth, rate of return and break-even analysis applied to after-tax economic analysis of mineral, petroleum and general investments. Related topics on proper handling of (1) inflation and escalation, (2) leverage (borrowed money), (3) risk adjustment of analysis using expected value concepts, (4) mutually exclusive alternative analysis and service producing alternatives.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "MATH307",
+          "title": "INTRODUCTION TO SCIENTIFIC COMPUTING",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with CSCI407,MATH407,This course is designed to introduce scientific computing to scientists and engineers. Students in this course will be taught various numerical methods and programming techniques to solve basic scientific problems. Emphasis will be made on implementation of various numerical and approximation methods to efficiently simulate several applied mathematical models. 3 hours lecture; 3 semester hours. Prerequisite: MATH213 or MATH223; CSCI102 or CSCI128 or CSCI200. Co-requisite: MATH225 or MATH235.",
+          "prereqs": [
+            "MATH213 OR MATH223",
+            "CSCI102 OR CSCI128 OR CSCI200"
+          ],
+          "coreqs": [
+            "MATH225 OR MATH235"
+          ],
+          "postreqs": [
+            "MATH408",
+            "MATH431",
+            "MATH440",
+            "CEEN405",
+            "MEGN471"
+          ]
+        },
+        {
+          "code": "MEGN300",
+          "title": "INSTRUMENTATION & AUTOMATION",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course will explore instrumentation and automation of electro-mechanical systems. Students will utilize LabView and electro-mechanical instrumentation to solve advanced engineering problems. Class activities and projects will highlight the utility of LabView for real-time instrumentation and control. Prerequisite: MEGN200 (C- or better). Corequisite: MEGN201.",
+          "prereqs": [
+            "MEGN200"
+          ],
+          "coreqs": [
+            "MEGN201"
+          ],
+          "postreqs": [
+            "MEGN301",
+            "MEGN465"
+          ]
+        },
+        {
+          "code": "MEGN315",
+          "title": "DYNAMICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course will cover particle kinematics (including 2-D motion in x-y coordinates, normal-tangential coordinates, & polar coordinates), rigid body kinematics (Including relative velocities and accelerations), rigid body kinetics (including the equation of motion, work and energy, linear impulse-momentum, & angular momentum), and introduction to vibrations. Prerequisite: CEEN241 (C- or better). Co-requisites: MATH225.",
+          "prereqs": [
+            "CEEN241"
+          ],
+          "coreqs": [
+            "MATH225"
+          ],
+          "postreqs": [
+            "MEGN416",
+            "MEGN430",
+            "MEGN435",
+            "MEGN454",
+            "MEGN481"
+          ]
+        },
+        {
+          "code": "MEGN324",
+          "title": "INTRODUCTION TO FINITE ELEMENT ANALYSIS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with MEGN424,This course aims to teach basic proficiency with Finite Element Analysis (FEA), which is the most widely used computer aided engineering tool in industry, academia, and government. Fundamentals of FEA theory are introduced, but the majority of the course is spent learning practical skills with commercial FEA software. Students will work interactively with the instructor and with their peers to complete hands-on FEA examples based primarily on problems in structural mechanics. Applications of FEA for heat conduction, natural frequency analysis, and design optimization are covered briefly. The course will conclude with a mini project on which students use FEA skills for engineering analysis and design. The importance of verification and validation (V&V) for critical evaluation of FEA predictions is emphasized, and students will make frequent use of statics and solid mechanics principles to corroborate their FEA results. Prerequisite: MEGN212 (C- or better) or CEEN311 (C- or better).",
+          "prereqs": [
+            "MEGN212 OR CEEN311"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MEGN481"
+          ]
+        },
+        {
+          "code": "CAS",
+          "title": "MID-LEVEL CAS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "MEGN301",
+          "title": "MECHANICAL INTEGRATION & DESIGN",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Students will utilize the engineering design process and knowledge in systems level design to produce a mechanical product/process. Students will reverse engineer a product/process to emphasize the steps in the design process. Students will select a longer course project, which is intended to reinforce engineering skills from other courses. The project topics would parallel one of the four research disciplines in ME, and students would be able to choose a topic pathway that emphasizes opportunities for mechanical engineering graduates. Prerequisite: MEGN200 (C- or better), MEGN201 (C- or better), MEGN300 (C- or better). Corequisite: MEGN 381.",
+          "prereqs": [
+            "MEGN200",
+            "MEGN201",
+            "MEGN300"
+          ],
+          "coreqs": [
+            "MEGN381"
+          ],
+          "postreqs": []
+        },
+        {
+          "code": "MEGN351",
+          "title": "FLUID MECHANICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course will cover principles of fluid properties, fluid statics, control-volume analysis, Bernoulli equation, differential analysis and Navier-Stokes equations, dimensional analysis, internal flow, external flow, open-channel flow, and turbomachinery. May not also receive credit for CEEN310 or PEGN251. Prerequisite: CEEN241 with a grade of C- or better or MNGN317 with a grade of C- or better.",
+          "prereqs": [
+            "CEEN241 OR MNGN317"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MEGN423",
+            "MEGN451",
+            "MEGN461",
+            "MEGN466",
+            "MEGN467",
+            "MEGN471",
+            "MNGN424",
+            "MNGN425"
+          ]
+        },
+        {
+          "code": "MEGN381",
+          "title": "MANUFACTURING PROCESSES",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with MEGN380,Manufacturing Processes is a survey course, that introduces a wide variety of traditional and advanced manufacturing processes with emphasis on process selection and hands-on experiences. Students are expected to have basic knowledge in material science, basic machining and GD&T before entering the class. Throughout the course students analyze the relationships between material properties, process variables and product functionality. Students design and evaluate processes for identifying value while eliminating waste using learned skill-sets including lean methodologies, six-sigma and statistical process control. Quality, cost, standards and ethics related to manufacturing are discussed throughout the semester. Prerequisite: MEGN201 (C- or better), MEGN212 (C- or better), and MTGN202.",
+          "prereqs": [
+            "MEGN201",
+            "MEGN212",
+            "MTGN202"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "MEGN481",
+          "title": "MACHINE DESIGN",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "In this course, students develop their knowledge of machine components and materials for the purpose of effective and efficient mechanical design. Emphasis is placed on developing analytical methods and tools that aid the decision making process. The course focuses on determination of stress, strain, and deflection for static, static multiaxial, impact, dynamic, and dynamic multiaxial loading. Students will learn about fatigue failure in mechanical design and calculate how long mechanical components are expected to last. Specific machine components covered include shafts, springs, gears, fasteners, and bearings. 3 hours lecture; 3 semester hours. Prerequisite: MEGN315 (C- or better) or PHGN350 (C- or better), and MEGN324 (C- or better).",
+          "prereqs": [
+            "MEGN315 OR PHGN350",
+            "MEGN324"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "MECH ELECT",
+          "title": "Mechanical Engineering Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "EDNS491",
+          "title": "CAPSTONE DESIGN I",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with EGGN491,(WI) This course is the first of a two-semester capstone course sequence giving the student experience in the engineering design process. Realistic open-ended design problems are addressed for real world clients at the conceptual, engineering analysis, and the synthesis stages and include economic and ethical considerations necessary to arrive at a final design. Students are assigned to interdisciplinary teams and exposed to processes in the areas of design methodology, project management, communications, and work place issues. Strong emphasis is placed on this being a process course versus a project course. This is a writing-across-the-curriculum course where students' written and oral communication skills are strengthened. The design projects are chosen to develop student creativity, use of design methodology and application of prior course work paralleled by individual study and research. 2 hours lecture; 3 hours lab; 3 semester hours. Prerequisite: For BSME students, completion of MEGN301; for BSCE students, completion of Engineering Field Session, Civil, CEEN 331; for BSENV completion of Engineering Field Session, Environmental, CEEN 330; and for all other students completion of Field Session appropriate to the student's specialty and consent of instructor. Co-requisite: For BSME students, MEGN481; for BSCE students, any one of CEEN443, CEEN445, CEEN442, or CEEN415; for BSEE students, EENG 350 and EENG 389 plus any one of EENG 391, EENG 392, EENG 393, or EENG 394; for BSDE students, EDNS 220 and Senior Standing.",
+          "prereqs": [
+            "MEGN301",
+            "CEEN331",
+            "CEEN330"
+          ],
+          "coreqs": [
+            "MEGN481",
+            "CEEN443 OR CEEN445 OR CEEN442 OR CEEN415",
+            "EENG350",
+            "EENG389",
+            "EENG391 OR EENG392 OR EENG393 OR EENG394",
+            "EDNS220"
+          ],
+          "postreqs": [
+            "EDNS492"
+          ]
+        },
+        {
+          "code": "MEGN471",
+          "title": "HEAT TRANSFER",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Engineering approach to conduction, convection, and radiation, including steadystate conduction, nonsteady-state conduction, internal heat generation conduction in one, two, and three dimensions, and combined conduction and convection. Free and forced convection including laminar and turbulent flow, internal and external flow. Radiation of black and grey surfaces, shape factors and electrical equivalence. 3 hours lecture; 3 semester hours. Prerequisite: MEGN351 (C- or better), MEGN261 (C- or better), and MATH307.",
+          "prereqs": [
+            "MEGN351",
+            "MEGN261",
+            "MATH307"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "MECH ELECT",
+          "title": "Advanced Engineering Sciences Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "MECH ELECT",
+          "title": "Mechanical Engineering Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "CAS3**",
+          "title": "CULTURE AND SOCIETY (CAS) Mid-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "EDNS492",
+          "title": "CAPSTONE DESIGN II",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "(WI) This course is the second of a two-semester sequence to give the student experience in the engineering design process. Design integrity and performance are to be demonstrated by building a prototype or model, or producing a complete drawing and specification package, and performing pre-planned experimental tests, wherever feasible, to verify design compliance with client requirements. 1 hour lecture; 6 hours lab; 3 semester hours. Prerequisite: EDNS491.",
+          "prereqs": [
+            "EDNS491"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "MECH ELECT",
+          "title": "Mechanical Engineering Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "CAS4**",
+          "title": "CULTURE AND SOCIETY (CAS) 400-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "MATH111",
+      "to": "MATH112",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH111",
+      "to": "PHGN100",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "PHGN100",
+      "type": "coreq"
+    },
+    {
+      "from": "MATH112",
+      "to": "CEEN241",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "CEEN241",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN121",
+      "to": "MTGN202",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MTGN202",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "MTGN202",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH213",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "MATH213",
+      "type": "coreq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "MEGN200",
+      "type": "prereq"
+    },
+    {
+      "from": "EDNS151",
+      "to": "MEGN200",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN200",
+      "to": "MEGN200",
+      "type": "coreq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "PHGN200",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH213",
+      "to": "PHGN200",
+      "type": "coreq"
+    },
+    {
+      "from": "PHGN200",
+      "to": "EENG281",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH225",
+      "type": "prereq"
+    },
+    {
+      "from": "CEEN241",
+      "to": "MEGN212",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH213",
+      "to": "MEGN261",
+      "type": "prereq"
+    },
+    {
+      "from": "EDNS151",
+      "to": "MEGN201",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "MATH307",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH213",
+      "to": "MATH307",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH225",
+      "to": "MATH307",
+      "type": "coreq"
+    },
+    {
+      "from": "MEGN200",
+      "to": "MEGN300",
+      "type": "prereq"
+    },
+    {
+      "from": "MEGN201",
+      "to": "MEGN300",
+      "type": "coreq"
+    },
+    {
+      "from": "CEEN241",
+      "to": "MEGN315",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH225",
+      "to": "MEGN315",
+      "type": "coreq"
+    },
+    {
+      "from": "MEGN212",
+      "to": "MEGN324",
+      "type": "prereq"
+    },
+    {
+      "from": "MEGN200",
+      "to": "MEGN301",
+      "type": "prereq"
+    },
+    {
+      "from": "MEGN201",
+      "to": "MEGN301",
+      "type": "prereq"
+    },
+    {
+      "from": "MEGN300",
+      "to": "MEGN301",
+      "type": "prereq"
+    },
+    {
+      "from": "MEGN381",
+      "to": "MEGN301",
+      "type": "coreq"
+    },
+    {
+      "from": "CEEN241",
+      "to": "MEGN351",
+      "type": "prereq"
+    },
+    {
+      "from": "MEGN201",
+      "to": "MEGN381",
+      "type": "prereq"
+    },
+    {
+      "from": "MEGN212",
+      "to": "MEGN381",
+      "type": "prereq"
+    },
+    {
+      "from": "MTGN202",
+      "to": "MEGN381",
+      "type": "prereq"
+    },
+    {
+      "from": "MEGN315",
+      "to": "MEGN481",
+      "type": "prereq"
+    },
+    {
+      "from": "MEGN324",
+      "to": "MEGN481",
+      "type": "prereq"
+    },
+    {
+      "from": "MEGN301",
+      "to": "EDNS491",
+      "type": "prereq"
+    },
+    {
+      "from": "MEGN481",
+      "to": "EDNS491",
+      "type": "coreq"
+    },
+    {
+      "from": "MATH307",
+      "to": "MEGN471",
+      "type": "prereq"
+    },
+    {
+      "from": "MEGN261",
+      "to": "MEGN471",
+      "type": "prereq"
+    },
+    {
+      "from": "MEGN351",
+      "to": "MEGN471",
+      "type": "prereq"
+    },
+    {
+      "from": "EDNS491",
+      "to": "EDNS492",
+      "type": "prereq"
+    }
+  ],
+  "track_requirements": {
+    "Advanced Engineering Science Elective": {
+      "need_all": true,
+      "courses": [
+        {
+          "code": "MEGN416",
+          "title": "ENGINEERING VIBRATION",
+          "credits": "3.0"
+        }
+      ]
+    },
+    "ME Elective (select 3 courses)": {
+      "need_all": true,
+      "courses": [
+        {
+          "code": "EENG307",
+          "title": "INTRODUCTION TO FEEDBACK CONTROL SYSTEMS",
+          "credits": "3.0"
+        },
+        {
+          "code": "EENG383",
+          "title": "EMBEDDED SYSTEMS",
+          "credits": "4.0"
+        },
+        {
+          "code": "EENG389",
+          "title": "FUNDAMENTALS OF ELECTRIC MACHINERY",
+          "credits": "4.0"
+        },
+        {
+          "code": "EENG411",
+          "title": "DIGITAL SIGNAL PROCESSING",
+          "credits": "3.0"
+        },
+        {
+          "code": "EENG417",
+          "title": "MODERN CONTROL DESIGN",
+          "credits": "3.0"
+        },
+        {
+          "code": "MEGN441",
+          "title": "INTRODUCTION TO ROBOTICS",
+          "credits": "3.0"
+        },
+        {
+          "code": "MEGN452",
+          "title": "INTRO TO SPACE EXPLORATION AND RESOURCES",
+          "credits": "3.0"
+        },
+        {
+          "code": "MEGN485",
+          "title": "MANUFACTURING OPTIMIZATION WITH NETWORK MODELS",
+          "credits": "3.0"
+        },
+        {
+          "code": "MEGN540",
+          "title": "MECHATRONICS",
+          "credits": "3.0"
+        }
+      ]
+    }
+  }
+}

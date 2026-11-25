@@ -1,0 +1,802 @@
+{
+  "name": "ECON - Economics And Business - General Track",
+  "semesters": [
+    {
+      "year": "Freshman",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "CSCI128",
+          "title": "COMPUTER SCIENCE FOR STEM",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Introduction to programming. Intended for students with no prior experience. Teaches basic programming constructs including data types, conditionals, loops, file I/O, functions, and objects in Python 3. Also covers topics vital to STEM computing, such as data science, best practices for code development, and software ethics. Prerequisite: None Co-requisite: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CSCI200",
+            "CSCI250",
+            "CSCI303",
+            "CSCI470",
+            "CSCI478",
+            "GPGN268",
+            "GPGN470",
+            "MEGN200",
+            "MEGN391",
+            "MNGN209",
+            "PEGN438"
+          ]
+        },
+        {
+          "code": "MATH111",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the first course in the calculus sequence. Topics include elements of plane geometry, functions, limits, continuity, derivatives and their application, definite and indefinite integrals; 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: precalculus.",
+          "prereqs": [
+            "precalculus"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH112",
+            "MATH122",
+            "MATH201",
+            "CBEN210",
+            "CHGN209",
+            "GEGN203",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "PHGN100"
+          ]
+        },
+        {
+          "code": "CHGN121",
+          "title": "PRINCIPLES OF CHEMISTRY I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Study of matter and energy based on atomic structure, correlation of properties of elements with position in periodic chart, chemical bonding, geometry of molecules, phase changes, stoichiometry, solution chemistry, gas laws, and thermochemistry. 3 hours lecture, 3 hours lab; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN122",
+            "CHGN125",
+            "CHGN209",
+            "CHGN311",
+            "CHGN423",
+            "CEEN475",
+            "GEGN330",
+            "MNGN222",
+            "MTGN202"
+          ]
+        },
+        {
+          "code": "HASS100",
+          "title": "NATURE AND HUMAN VALUES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CSM191,CSM192,HNRS105,HNRS115,HNRS198A,LAIS100,Nature and Human Values (NHV) is a writing-intensive course, workshop, and discussion seminar that focuses on ethics and inquiry and uses humanities perspectives to examine big questions about the interdependence of human life, society, and the environment. The class links personal, professional, and environmental ethics to engineering, energy, and emerging technologies. Written and oral communication are stressed as a crucial component of professional and civic dialogue, while encouraging critical reading, thinking, and conversation about students' ethical obligations as world citizens with broader moral, social, and environmental responsibilities to stakeholders. The culminating research paper asks that students consider the ethical dimensions of their arguments within science and engineering contexts while engaging different viewpoints, evaluating sources, and supporting an original position. 3 hours seminar; 3 semester hours. Prerequisites: None. Corequisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS200",
+            "HASS202",
+            "HASS220",
+            "HASS226",
+            "HASS227",
+            "HASS298",
+            "HASS299",
+            "HASS300",
+            "HASS301",
+            "HASS302",
+            "HASS305",
+            "HASS307",
+            "HASS309",
+            "HASS314",
+            "HASS315",
+            "HASS316",
+            "HASS317",
+            "HASS318",
+            "HASS319",
+            "HASS320",
+            "HASS323",
+            "HASS324",
+            "HASS326",
+            "HASS327",
+            "HASS328",
+            "HASS329",
+            "HASS330",
+            "HASS339",
+            "HASS344",
+            "HASS365",
+            "HASS366",
+            "HASS370",
+            "HASS372",
+            "HASS376",
+            "HASS398",
+            "HASS399",
+            "HASS400",
+            "HASS401",
+            "HASS404",
+            "HASS406",
+            "HASS407",
+            "HASS408",
+            "HASS410",
+            "HASS411",
+            "HASS412",
+            "HASS413",
+            "HASS415",
+            "HASS416",
+            "HASS417",
+            "HASS418",
+            "HASS419",
+            "HASS420",
+            "HASS421",
+            "HASS422",
+            "HASS423",
+            "HASS425",
+            "HASS427",
+            "HASS429",
+            "HASS430",
+            "HASS431",
+            "HASS432",
+            "HASS435",
+            "HASS437",
+            "HASS439",
+            "HASS441",
+            "HASS448",
+            "HASS460",
+            "HASS461",
+            "HASS462",
+            "HASS463",
+            "HASS464",
+            "HASS465",
+            "HASS466",
+            "HASS467",
+            "HASS468",
+            "HASS469",
+            "HASS470",
+            "HASS484",
+            "HASS485",
+            "HASS486",
+            "HASS487",
+            "HASS488",
+            "HASS490",
+            "HASS491",
+            "HASS498",
+            "PEGN430"
+          ]
+        },
+        {
+          "code": "CSM101",
+          "title": "FRESHMAN SUCCESS SEMINAR",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Freshman",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "PHGN100",
+          "title": "PHYSICS I - MECHANICS",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "A first course in physics covering the basic principles of mechanics using vectors and calculus. The course consists of a fundamental treatment of the concepts and applications of kinematics and dynamics of particles and systems of particles, including Newton's laws, energy and momentum, rotation, oscillations, and waves. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1. Prerequisite: MATH111. Co-requisite: MATH112 or MATH122.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [
+            "MATH112 OR MATH122"
+          ],
+          "postreqs": [
+            "PHGN200"
+          ]
+        },
+        {
+          "code": "MATH112",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS II",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Equivalent with MATH122,This is the second course in the calculus sequence. Topics include vectors, applications and techniques of integration, infinite series, and an introduction to multivariate functions and surfaces. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH111.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH213",
+            "MATH223",
+            "MATH225",
+            "MATH235",
+            "MATH300",
+            "MATH332",
+            "CBEN200",
+            "CBEN310",
+            "CHGN209",
+            "CEEN241",
+            "CSCI358",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "MNGN251",
+            "MTGN202",
+            "MTGN251",
+            "MTGN272",
+            "PEGN438"
+          ]
+        },
+        {
+          "code": "EDNS151",
+          "title": "CORNERSTONE - DESIGN I",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with EPIC151,(I, II, S) Design I teaches students how to solve open-ended problems in a hands-on manner using critical thinking and workplace skills. Students work in multidisciplinary teams to learn through doing, with emphasis on defining and diagnosing the problem through a holistic lens of technology, people and culture. Students follow a user-centered design methodology throughout the process, seeking to understand a problem from multiple perspectives before attempting to solve it. Students learn and apply specific skills throughout the semester, including: communication (written, oral, graphical), project management, concept visualization, critical thinking, effective teamwork, as well as building and iterating solutions.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "EDNS220",
+            "EDNS251",
+            "EDNS315",
+            "MEGN200",
+            "MEGN201"
+          ]
+        },
+        {
+          "code": "EBGN201",
+          "title": "PRINCIPLES OF ECONOMICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "(I,II,S) Introduction to microeconomics and macroeconomics. This course focuses on applying the economic way of thinking and basic tools of economic analysis. Economic effects of public policies. Analysis of markets for goods, services and resources. Tools of cost-benefit analysis. Measures of overall economic activity. Determinants of economic growth. Monetary and fiscal policy. Prerequisites: None. 3 hours lecture; 3 semester hours.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "EBGN301",
+            "EBGN302",
+            "EBGN303",
+            "EBGN315",
+            "EBGN340",
+            "EBGN434",
+            "EBGN437",
+            "EBGN443",
+            "EBGN447"
+          ]
+        },
+        {
+          "code": "CSM202",
+          "title": "INTRODUCTION TO STUDENT WELL-BEING AT MINES",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "MATH213",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS III",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the third course in the calculus sequence, focused on multivariable calculus. Topics include partial derivatives, multiple integrals, and vector calculus. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH112 or MATH122. Corequisites: CSCI128 or CSCI102.",
+          "prereqs": [
+            "MATH112 OR MATH122"
+          ],
+          "coreqs": [
+            "CSCI128 OR CSCI102"
+          ],
+          "postreqs": [
+            "MATH307",
+            "MATH310",
+            "MATH342",
+            "MATH454",
+            "MATH455",
+            "MATH459",
+            "CEEN302",
+            "CSCI406",
+            "EBGN301",
+            "EBGN302",
+            "EBGN435",
+            "GPGN229",
+            "GEGN466",
+            "GEGN466L",
+            "MEGN261",
+            "MNGN317",
+            "MNGN318",
+            "MNGN322",
+            "PEGN305",
+            "PEGN450",
+            "PHGN435"
+          ]
+        },
+        {
+          "code": "MATH201",
+          "title": "INTRODUCTION TO STATISTICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with MATH323,This course is an introduction to probability and statistics, including fundamentals of experimental design and data collection, the summary and display of data, propagation of error, interval estimation, hypothesis testing, and linear regression with emphasis on applications to science and engineering. Prerequisite: MATH111.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH310",
+            "MATH324",
+            "CSCI404",
+            "CSCI413",
+            "CSCI423",
+            "CSCI432",
+            "CSCI436",
+            "CSCI437",
+            "CSCI470",
+            "CSCI473",
+            "CSCI474",
+            "EBGN280",
+            "EBGN303",
+            "EBGN447",
+            "EENG427",
+            "EENG437"
+          ]
+        },
+        {
+          "code": "HASS215",
+          "title": "FUTURES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "FUTURES invites students to envision possibilities around critical issues related to the future of science and engineering. It is central to the Mines core curriculum and encouraged during the first years at Mines. Guided by four instructors who share perspectives from a wide range of humanities, social science, and applied disciplines, students will explore future-oriented themes at the forefront of advances in science, engineering, technology and society, such as Energy Futures, Technology Futures, and Critical Resource Sustainability, among others. By the end of the course students will gain skills in integrating multiple perspectives and connecting them to their own interests and trajectory at Mines and beyond. Prerequisites: None. Co-requisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS302"
+          ]
+        },
+        {
+          "code": "EBGN305",
+          "title": "SURVEY OF ACCOUNTING",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "An introduction to financial and managerial accounting topics of importance to managers and users of financial information. Topics include the origin, connection and purpose of financial statements, financial ratio computation and analysis, cash flow analysis for planning and decision making, inventory methods and cost accounting, fixed asset accounting, and fair value accounting. The course will focus on the use of accounting information for managerial decision making as well as the implications of business decisions on financial outcomes.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "EBGN345",
+            "EBGN346"
+          ]
+        },
+        {
+          "code": "EBGN307",
+          "title": "BUSINESS COMMUNICATIONS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Communication is one of the most vital skills in today's professional world, and effectiveness in communicating ideas, feelings, instructions, and thoughts are vital to both personal and professional success. Business Communications is designed to introduce you to skills and practices that will enable you to be an effective communicator for yourself, your business, and your clients and stakeholders. The course focuses on approaches for planning, creating, and transmitting business information within a variety of business situations found in the global marketplace. The course will focus on written, oral, and digital communication.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "ELECTIVE",
+          "title": "CAS Mid-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "CSCI303",
+          "title": "INTRODUCTION TO DATA SCIENCE",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course will teach students the core skills needed for gathering, cleaning, organizing, analyzing, interpreting, and visualizing data.  Students will learn basic SQL for working with databases, basic Python programming for data manipulation, and the use and application of statistical and machine learning toolkits for data analysis.  The course will be primarily focused on applications, with an emphasis on working with real (non-synthetic) datasets. Prerequisite: CSCI101 or CSCI102 or CSCI128.",
+          "prereqs": [
+            "CSCI101 OR CSCI102 OR CSCI128"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EBGN280",
+          "title": "INTRODUCTION TO BUSINESS ANALYTICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Business analytics implements a data-driven approach to the business world, leveraging statistics and data modeling to generate new business insights. In this introductory course, students will learn how to manage, visualize, and analyze data for business decision making. Students will use a variety of statistical methods, visualization tools, and data cleaning techniques to generate business insights from large data sets.   Prerequisite: MATH201. Co-requisite: CSCI303.",
+          "prereqs": [
+            "MATH201"
+          ],
+          "coreqs": [
+            "CSCI303"
+          ],
+          "postreqs": [
+            "EBGN382",
+            "EBGN458"
+          ]
+        },
+        {
+          "code": "EBGN345",
+          "title": "PRINCIPLES OF CORPORATE FINANCE",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Introduction to corporate finance, financial management, and financial markets. Time value of money and discounted cash flow valuation, risk and returns, interest rates, bond and stock valuation, capital budgeting and financing decisions. Introduction to financial engineering and financial risk management, derivatives, and hedging with derivatives. 3 hours lecture; 3 semester hours. Prerequisite: EBGN305.",
+          "prereqs": [
+            "EBGN305"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "EBGN485"
+          ]
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "S&W",
+          "title": "SUCCESS AND WELLNESS",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "EBGN308",
+          "title": "PRINCIPLES OF MARKETING",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Principles of Marketing will introduce students to the concepts, analyses, and activities that comprise marketing management and to provide practice in assessing and solving marketing problems. Marketing involves identifying customer needs, satisfying those needs through the right products and services, assuring availability to customers through the best distribution channels, using promotional activities in ways that motivate purchases as effectively as possible, and choosing a suitable price to boost firm profitability while maintaining customer satisfaction. These decisions of product, distribution, promotion, and price, together with a rigorous analysis of the customers, competitors, and the overall business environment serve as the foundations for sound marketing management.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "EBGN485"
+          ]
+        },
+        {
+          "code": "EBGN309",
+          "title": "FUNDAMENTALS OF MANAGEMENT",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course provides a survey of fundamental principles of management and their application to the operations of a complex, modern organization. Topics covered include managerial functions (planning, organizing, leading, and controlling) as well as organizational behavior, human resources, and operations management.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EBGN321",
+          "title": "ENGINEERING ECONOMICS",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CHEN421,Time value of money concepts of present worth, future worth, annual worth, rate of return and break-even analysis applied to after-tax economic analysis of mineral, petroleum and general investments. Related topics on proper handling of (1) inflation and escalation, (2) leverage (borrowed money), (3) risk adjustment of analysis using expected value concepts, (4) mutually exclusive alternative analysis and service producing alternatives.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EBGN381",
+          "title": "PREDICTIVE BUSINESS ANALYTICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Predictive analytics employs mathematical modeling techniques, utilizing known data to generate predictions about unknown events. This course offers an introduction to predictive analytics. In this course, students will learn the core concepts of supervised and unsupervised learning approaches. The course also addresses performance metrics for evaluating the prediction models and introduces ensemble modeling to enhance the precision and robustness of predictive models.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "EBGN490"
+          ]
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "EBGN303",
+          "title": "ECONOMETRICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Equivalent with EBGN390,Introduction to econometrics, including ordinary least-squares and single- equation models; two-stage least-squares and multiple-equation models; specification error, serial correlation, heteroskedasticity, and other problems; distributive-lag models and other extensions, hypothesis testing and forecasting applications. Prerequisite: EBGN201 and MATH201.",
+          "prereqs": [
+            "EBGN201",
+            "MATH201"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "EBGN403",
+            "EBGN495"
+          ]
+        },
+        {
+          "code": "EBGN382",
+          "title": "PRESCRIPTIVE BUSINESS ANALYTICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Prescriptive analytics strives to identify the best operational, tactical, and strategic decisions for organizations. In this course, students will learn the art of model building and will use linear, integer, and mixed-integer programming for a variety of business applications. Additionally, the course will provide an overview of specially structured models and model enhancement techniques. Prerequisite: EBGN280.",
+          "prereqs": [
+            "EBGN280"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "EBGN490"
+          ]
+        },
+        {
+          "code": "EBGN453",
+          "title": "PROJECT MANAGEMENT",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Project management has evolved into a business process broadly used in organizations to accomplish goals and objectives through teams. This course covers the essential principles of traditional project management consistent with professional certification requirements (the Project Management Institute's PMP certification) as well as an introduction to current agile project management methodologies. The traditional project management phases of project initiation, planning, execution, monitoring and control, and project closure are covered including related scheduling, estimating, risk assessment and other analytical tools. Students will gain experience using Microsoft Project. Organizational structure and culture issues are analyzed to understand how they can impact project management success, and the concepts of project portfolios and project programs are applied from the organizational perspective. Agile project management methodologies are introduced, including adaptive and iterative processes, scrum, lean and other Agile tools and techniques. By the end of the course, students will understand how traditional and agile project differ.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "TRACK 1 TECHNICAL ELECTIVE #1",
+          "title": "NOT_FOUND",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "TRACK 2 TECHNICAL ELECTIVE #1",
+          "title": "NOT_FOUND",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "EBGN490",
+          "title": "BUSINESS ANALYTICS CAPSTONE",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "The business analytics capstone course provides an opportunity for students to integrate and apply the skills and tools learned in previous business analytics courses to define, formulate, analyze, and recommend a solution for a significant, real-world business problem. Students will work as a team, and will draw on the breadth and depth of the curriculum to address an industry supplied problem. Prerequisites: EBGN381, EBGN382.",
+          "prereqs": [
+            "EBGN381",
+            "EBGN382"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "TRACK1 TECHNICAL ELECTIVE #2",
+          "title": "NOT_FOUND",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "TRACK 2 TECHNICAL ELECTIVE #2",
+          "title": "NOT_FOUND",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "ELECTIVE",
+          "title": "CAS Mid-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "EBGN485",
+          "title": "BUSINESS STRATEGY",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Business strategy is focused on formulating and implementing the major goals of the firm in relation to changing competitive environmental conditions, firm resources, and individuals' motives and values. This course is about the issues and challenges of running a firm in a competitive environment from the perspective of a senior manager. The challenge for senior managers goes well beyond applying an appropriate formula to a problem because to date there are not any universal formulas for successful companies. Rather, senior managers must be able to identify that a problem exists and then to bring resolution, despite partial information. This course requires identifying, analyzing, and solving firm problems with original thinking and execution. A key instructional objective of this course is to help you develop a rigorous approach for addressing complex business problems. Prerequisites: EBGN308 or EBGN345.",
+          "prereqs": [
+            "EBGN308 OR EBGN345"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "TRACK 1 TECHNICAL ELECTIVE #3",
+          "title": "NOT_FOUND",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "TRACK 2 TECHNICAL ELECTIVE #3",
+          "title": "NOT_FOUND",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "ELECTIVE",
+          "title": "CAS 400-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "MATH111",
+      "to": "PHGN100",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "PHGN100",
+      "type": "coreq"
+    },
+    {
+      "from": "MATH111",
+      "to": "MATH112",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH213",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "MATH213",
+      "type": "coreq"
+    },
+    {
+      "from": "MATH111",
+      "to": "MATH201",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "CSCI303",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH201",
+      "to": "EBGN280",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI303",
+      "to": "EBGN280",
+      "type": "coreq"
+    },
+    {
+      "from": "EBGN305",
+      "to": "EBGN345",
+      "type": "prereq"
+    },
+    {
+      "from": "EBGN201",
+      "to": "EBGN303",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH201",
+      "to": "EBGN303",
+      "type": "prereq"
+    },
+    {
+      "from": "EBGN280",
+      "to": "EBGN382",
+      "type": "prereq"
+    },
+    {
+      "from": "EBGN381",
+      "to": "EBGN490",
+      "type": "prereq"
+    },
+    {
+      "from": "EBGN382",
+      "to": "EBGN490",
+      "type": "prereq"
+    },
+    {
+      "from": "EBGN308",
+      "to": "EBGN485",
+      "type": "prereq"
+    },
+    {
+      "from": "EBGN345",
+      "to": "EBGN485",
+      "type": "prereq"
+    }
+  ]
+}

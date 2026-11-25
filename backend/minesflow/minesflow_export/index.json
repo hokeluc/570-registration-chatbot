@@ -1,0 +1,260 @@
+[
+  {
+    "name": "AMS - Applied Mathematics And Statistics - Computational Track",
+    "file": "AMS_Applied_Mathematics_And_Statistics_Computational_Track.json",
+    "courses": 40,
+    "edges": 34
+  },
+  {
+    "name": "AMS - Applied Mathematics And Statistics - Data Science Track",
+    "file": "AMS_Applied_Mathematics_And_Statistics_Data_Science_Track.json",
+    "courses": 40,
+    "edges": 32
+  },
+  {
+    "name": "AMS - Applied Mathematics And Statistics - Statistics Track",
+    "file": "AMS_Applied_Mathematics_And_Statistics_Statistics_Track.json",
+    "courses": 40,
+    "edges": 33
+  },
+  {
+    "name": "CHEM - Biochemistry - General Track",
+    "file": "CHEM_Biochemistry_General_Track.json",
+    "courses": 45,
+    "edges": 38
+  },
+  {
+    "name": "CHEM - Chemistry - Biochemistry Track",
+    "file": "CHEM_Chemistry_Biochemistry_Track.json",
+    "courses": 45,
+    "edges": 39
+  },
+  {
+    "name": "CHEM - Chemistry - Environmental Track",
+    "file": "CHEM_Chemistry_Environmental_Track.json",
+    "courses": 46,
+    "edges": 38
+  },
+  {
+    "name": "CHEM - Chemistry - General Track",
+    "file": "CHEM_Chemistry_General_Track.json",
+    "courses": 45,
+    "edges": 37
+  },
+  {
+    "name": "CHEME - Chemical Engineering - Biological Track",
+    "file": "CHEME_Chemical_Engineering_Biological_Track.json",
+    "courses": 45,
+    "edges": 73
+  },
+  {
+    "name": "CHEME - Chemical Engineering - General Track",
+    "file": "CHEME_Chemical_Engineering_General_Track.json",
+    "courses": 45,
+    "edges": 69
+  },
+  {
+    "name": "CHEME - Chemical Engineering - Honors Research Track",
+    "file": "CHEME_Chemical_Engineering_Honors_Research_Track.json",
+    "courses": 46,
+    "edges": 74
+  },
+  {
+    "name": "CHEME - Chemical Engineering - Process Track",
+    "file": "CHEME_Chemical_Engineering_Process_Track.json",
+    "courses": 45,
+    "edges": 72
+  },
+  {
+    "name": "CIVENVIRO - Civil Engineering - Construction Track",
+    "file": "CIVENVIRO_Civil_Engineering_Construction_Track.json",
+    "courses": 44,
+    "edges": 20
+  },
+  {
+    "name": "CIVENVIRO - Civil Engineering - Environmental Track",
+    "file": "CIVENVIRO_Civil_Engineering_Environmental_Track.json",
+    "courses": 42,
+    "edges": 33
+  },
+  {
+    "name": "CIVENVIRO - Civil Engineering - General Track",
+    "file": "CIVENVIRO_Civil_Engineering_General_Track.json",
+    "courses": 44,
+    "edges": 27
+  },
+  {
+    "name": "CSCI - Computer Science - CS + Business",
+    "file": "CSCI_Computer_Science_CS_Business.json",
+    "courses": 42,
+    "edges": 31
+  },
+  {
+    "name": "CSCI - Computer Science - CS + Computer Engineering",
+    "file": "CSCI_Computer_Science_CS_Computer_Engineering.json",
+    "courses": 42,
+    "edges": 31
+  },
+  {
+    "name": "CSCI - Computer Science - CS + Data Science",
+    "file": "CSCI_Computer_Science_CS_Data_Science.json",
+    "courses": 42,
+    "edges": 31
+  },
+  {
+    "name": "CSCI - Computer Science - CS + Entrepreneurship & Innovation",
+    "file": "CSCI_Computer_Science_CS_Entrepreneurship_Innovation.json",
+    "courses": 42,
+    "edges": 31
+  },
+  {
+    "name": "CSCI - Computer Science - CS + Robotics & Intelligent Systems",
+    "file": "CSCI_Computer_Science_CS_Robotics_Intelligent_Systems.json",
+    "courses": 42,
+    "edges": 31
+  },
+  {
+    "name": "CSCI - Computer Science - CS + Space",
+    "file": "CSCI_Computer_Science_CS_Space.json",
+    "courses": 42,
+    "edges": 31
+  },
+  {
+    "name": "CSCI - Computer Science - Computer Science",
+    "file": "CSCI_Computer_Science_Computer_Science.json",
+    "courses": 42,
+    "edges": 31
+  },
+  {
+    "name": "ECON - Economics And Business - General Track",
+    "file": "ECON_Economics_And_Business_General_Track.json",
+    "courses": 41,
+    "edges": 17
+  },
+  {
+    "name": "EDNS - Engineering Design And Society - General Track",
+    "file": "EDNS_Engineering_Design_And_Society_General_Track.json",
+    "courses": 42,
+    "edges": 28
+  },
+  {
+    "name": "EE - Electrical Engineering - General Track",
+    "file": "EE_Electrical_Engineering_General_Track.json",
+    "courses": 42,
+    "edges": 40
+  },
+  {
+    "name": "GEO - Geological Engineering - Engineering Geology And Geotechnics Track",
+    "file": "GEO_Geological_Engineering_Engineering_Geology_And_Geotechnics_Track.json",
+    "courses": 43,
+    "edges": 43
+  },
+  {
+    "name": "GEO - Geological Engineering - Environmental Geosciences Track",
+    "file": "GEO_Geological_Engineering_Environmental_Geosciences_Track.json",
+    "courses": 44,
+    "edges": 40
+  },
+  {
+    "name": "GEO - Geological Engineering - Mineral And Energy Resources Track",
+    "file": "GEO_Geological_Engineering_Mineral_And_Energy_Resources_Track.json",
+    "courses": 41,
+    "edges": 45
+  },
+  {
+    "name": "GEOPHYS - Geophysics - General Track",
+    "file": "GEOPHYS_Geophysics_General_Track.json",
+    "courses": 43,
+    "edges": 40
+  },
+  {
+    "name": "MECHE - Mechanical Engineering - Aerospace",
+    "file": "MECHE_Mechanical_Engineering_Aerospace.json",
+    "courses": 42,
+    "edges": 44
+  },
+  {
+    "name": "MECHE - Mechanical Engineering - Automation & Controls",
+    "file": "MECHE_Mechanical_Engineering_Automation_Controls.json",
+    "courses": 42,
+    "edges": 44
+  },
+  {
+    "name": "MECHE - Mechanical Engineering - Automotive",
+    "file": "MECHE_Mechanical_Engineering_Automotive.json",
+    "courses": 42,
+    "edges": 44
+  },
+  {
+    "name": "MECHE - Mechanical Engineering - Biomechanics",
+    "file": "MECHE_Mechanical_Engineering_Biomechanics.json",
+    "courses": 42,
+    "edges": 44
+  },
+  {
+    "name": "MECHE - Mechanical Engineering - Energy",
+    "file": "MECHE_Mechanical_Engineering_Energy.json",
+    "courses": 42,
+    "edges": 44
+  },
+  {
+    "name": "MECHE - Mechanical Engineering - Manufacturing",
+    "file": "MECHE_Mechanical_Engineering_Manufacturing.json",
+    "courses": 42,
+    "edges": 44
+  },
+  {
+    "name": "MECHE - Mechanical Engineering - Materials",
+    "file": "MECHE_Mechanical_Engineering_Materials.json",
+    "courses": 42,
+    "edges": 44
+  },
+  {
+    "name": "MECHE - Mechanical Engineering - Nuclear Energy",
+    "file": "MECHE_Mechanical_Engineering_Nuclear_Energy.json",
+    "courses": 42,
+    "edges": 44
+  },
+  {
+    "name": "MINE - Mining Engineering - General Track",
+    "file": "MINE_Mining_Engineering_General_Track.json",
+    "courses": 47,
+    "edges": 56
+  },
+  {
+    "name": "MME - Ceramic Engineering - General Track",
+    "file": "MME_Ceramic_Engineering_General_Track.json",
+    "courses": 46,
+    "edges": 51
+  },
+  {
+    "name": "MME - Metallurgical And Materials Engineering - General Track",
+    "file": "MME_Metallurgical_And_Materials_Engineering_General_Track.json",
+    "courses": 46,
+    "edges": 48
+  },
+  {
+    "name": "PETRO - Petroleum Engineering - General Track",
+    "file": "PETRO_Petroleum_Engineering_General_Track.json",
+    "courses": 45,
+    "edges": 56
+  },
+  {
+    "name": "PHYS - Physics - General Track",
+    "file": "PHYS_Physics_General_Track.json",
+    "courses": 42,
+    "edges": 46
+  },
+  {
+    "name": "QBE - Quantitative Biosciences And Engineering - General Track",
+    "file": "QBE_Quantitative_Biosciences_And_Engineering_General_Track.json",
+    "courses": 43,
+    "edges": 22
+  },
+  {
+    "name": "QBE - Quantitative Biosciences And Engineering - Honors Track",
+    "file": "QBE_Quantitative_Biosciences_And_Engineering_Honors_Track.json",
+    "courses": 45,
+    "edges": 22
+  }
+]

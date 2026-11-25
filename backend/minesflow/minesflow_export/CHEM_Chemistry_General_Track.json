@@ -1,0 +1,1043 @@
+{
+  "name": "CHEM - Chemistry - General Track",
+  "semesters": [
+    {
+      "year": "Freshman",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "CHGN121",
+          "title": "PRINCIPLES OF CHEMISTRY I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Study of matter and energy based on atomic structure, correlation of properties of elements with position in periodic chart, chemical bonding, geometry of molecules, phase changes, stoichiometry, solution chemistry, gas laws, and thermochemistry. 3 hours lecture, 3 hours lab; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN122",
+            "CHGN125",
+            "CHGN209",
+            "CHGN311",
+            "CHGN423",
+            "CEEN475",
+            "GEGN330",
+            "MNGN222",
+            "MTGN202"
+          ]
+        },
+        {
+          "code": "CSM101",
+          "title": "FRESHMAN SUCCESS SEMINAR",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EDNS151",
+          "title": "CORNERSTONE - DESIGN I",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with EPIC151,(I, II, S) Design I teaches students how to solve open-ended problems in a hands-on manner using critical thinking and workplace skills. Students work in multidisciplinary teams to learn through doing, with emphasis on defining and diagnosing the problem through a holistic lens of technology, people and culture. Students follow a user-centered design methodology throughout the process, seeking to understand a problem from multiple perspectives before attempting to solve it. Students learn and apply specific skills throughout the semester, including: communication (written, oral, graphical), project management, concept visualization, critical thinking, effective teamwork, as well as building and iterating solutions.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "EDNS220",
+            "EDNS251",
+            "EDNS315",
+            "MEGN200",
+            "MEGN201"
+          ]
+        },
+        {
+          "code": "CSCI128",
+          "title": "COMPUTER SCIENCE FOR STEM",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Introduction to programming. Intended for students with no prior experience. Teaches basic programming constructs including data types, conditionals, loops, file I/O, functions, and objects in Python 3. Also covers topics vital to STEM computing, such as data science, best practices for code development, and software ethics. Prerequisite: None Co-requisite: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CSCI200",
+            "CSCI250",
+            "CSCI303",
+            "CSCI470",
+            "CSCI478",
+            "GPGN268",
+            "GPGN470",
+            "MEGN200",
+            "MEGN391",
+            "MNGN209",
+            "PEGN438"
+          ]
+        },
+        {
+          "code": "MATH111",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS I",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the first course in the calculus sequence. Topics include elements of plane geometry, functions, limits, continuity, derivatives and their application, definite and indefinite integrals; 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: precalculus.",
+          "prereqs": [
+            "precalculus"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH112",
+            "MATH122",
+            "MATH201",
+            "CBEN210",
+            "CHGN209",
+            "GEGN203",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "PHGN100"
+          ]
+        },
+        {
+          "code": "S&W",
+          "title": "SUCCESS AND WELLNESS",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Freshman",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "CHGN122",
+          "title": "PRINCIPLES OF CHEMISTRY II (SC1)",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Continuation of CHGN121 concentrating on chemical kinetics, gas laws, thermodynamics, electrochemistry and chemical equilibrium (acid- base, solubility, complexation, and redox). Laboratory experiments emphasizing quantitative chemical measurements. 3 hours lecture; 3 hours lab, 4 semester hours. Prerequisite: Grade of C- or better in CHGN121.",
+          "prereqs": [
+            "CHGN121"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN209",
+            "CHGN221",
+            "CHGN335",
+            "CHGN336",
+            "CHGN406",
+            "CHGN411",
+            "CEEN301",
+            "CEEN302",
+            "GEGN212",
+            "GEGN330",
+            "GEOL321",
+            "MNGN222",
+            "MNGN251",
+            "MTGN251",
+            "PHGN341"
+          ]
+        },
+        {
+          "code": "MATH112",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS II",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "Equivalent with MATH122,This is the second course in the calculus sequence. Topics include vectors, applications and techniques of integration, infinite series, and an introduction to multivariate functions and surfaces. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH111.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "MATH213",
+            "MATH223",
+            "MATH225",
+            "MATH235",
+            "MATH300",
+            "MATH332",
+            "CBEN200",
+            "CBEN310",
+            "CHGN209",
+            "CEEN241",
+            "CSCI358",
+            "GEGN330",
+            "MEGN485",
+            "MEGN487",
+            "MEGN488",
+            "MNGN222",
+            "MNGN251",
+            "MTGN202",
+            "MTGN251",
+            "MTGN272",
+            "PEGN438"
+          ]
+        },
+        {
+          "code": "HASS100",
+          "title": "NATURE AND HUMAN VALUES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CSM191,CSM192,HNRS105,HNRS115,HNRS198A,LAIS100,Nature and Human Values (NHV) is a writing-intensive course, workshop, and discussion seminar that focuses on ethics and inquiry and uses humanities perspectives to examine big questions about the interdependence of human life, society, and the environment. The class links personal, professional, and environmental ethics to engineering, energy, and emerging technologies. Written and oral communication are stressed as a crucial component of professional and civic dialogue, while encouraging critical reading, thinking, and conversation about students' ethical obligations as world citizens with broader moral, social, and environmental responsibilities to stakeholders. The culminating research paper asks that students consider the ethical dimensions of their arguments within science and engineering contexts while engaging different viewpoints, evaluating sources, and supporting an original position. 3 hours seminar; 3 semester hours. Prerequisites: None. Corequisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS200",
+            "HASS202",
+            "HASS220",
+            "HASS226",
+            "HASS227",
+            "HASS298",
+            "HASS299",
+            "HASS300",
+            "HASS301",
+            "HASS302",
+            "HASS305",
+            "HASS307",
+            "HASS309",
+            "HASS314",
+            "HASS315",
+            "HASS316",
+            "HASS317",
+            "HASS318",
+            "HASS319",
+            "HASS320",
+            "HASS323",
+            "HASS324",
+            "HASS326",
+            "HASS327",
+            "HASS328",
+            "HASS329",
+            "HASS330",
+            "HASS339",
+            "HASS344",
+            "HASS365",
+            "HASS366",
+            "HASS370",
+            "HASS372",
+            "HASS376",
+            "HASS398",
+            "HASS399",
+            "HASS400",
+            "HASS401",
+            "HASS404",
+            "HASS406",
+            "HASS407",
+            "HASS408",
+            "HASS410",
+            "HASS411",
+            "HASS412",
+            "HASS413",
+            "HASS415",
+            "HASS416",
+            "HASS417",
+            "HASS418",
+            "HASS419",
+            "HASS420",
+            "HASS421",
+            "HASS422",
+            "HASS423",
+            "HASS425",
+            "HASS427",
+            "HASS429",
+            "HASS430",
+            "HASS431",
+            "HASS432",
+            "HASS435",
+            "HASS437",
+            "HASS439",
+            "HASS441",
+            "HASS448",
+            "HASS460",
+            "HASS461",
+            "HASS462",
+            "HASS463",
+            "HASS464",
+            "HASS465",
+            "HASS466",
+            "HASS467",
+            "HASS468",
+            "HASS469",
+            "HASS470",
+            "HASS484",
+            "HASS485",
+            "HASS486",
+            "HASS487",
+            "HASS488",
+            "HASS490",
+            "HASS491",
+            "HASS498",
+            "PEGN430"
+          ]
+        },
+        {
+          "code": "PHGN100",
+          "title": "PHYSICS I - MECHANICS",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "A first course in physics covering the basic principles of mechanics using vectors and calculus. The course consists of a fundamental treatment of the concepts and applications of kinematics and dynamics of particles and systems of particles, including Newton's laws, energy and momentum, rotation, oscillations, and waves. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-SC1. Prerequisite: MATH111. Co-requisite: MATH112 or MATH122.",
+          "prereqs": [
+            "MATH111"
+          ],
+          "coreqs": [
+            "MATH112 OR MATH122"
+          ],
+          "postreqs": [
+            "PHGN200"
+          ]
+        },
+        {
+          "code": "CSM202",
+          "title": "INTRODUCTION TO STUDENT WELL-BEING AT MINES",
+          "credits": "1.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "MATH213",
+          "title": "CALCULUS FOR SCIENTISTS AND ENGINEERS III",
+          "credits": "4.0",
+          "core": "MINES",
+          "desc": "This is the third course in the calculus sequence, focused on multivariable calculus. Topics include partial derivatives, multiple integrals, and vector calculus. 4 hours lecture; 4 semester hours. Approved for Colorado Guaranteed General Education transfer. Equivalency for GT-MA1. Prerequisites: Grade of C- or better in MATH112 or MATH122. Corequisites: CSCI128 or CSCI102.",
+          "prereqs": [
+            "MATH112 OR MATH122"
+          ],
+          "coreqs": [
+            "CSCI128 OR CSCI102"
+          ],
+          "postreqs": [
+            "MATH307",
+            "MATH310",
+            "MATH342",
+            "MATH454",
+            "MATH455",
+            "MATH459",
+            "CEEN302",
+            "CSCI406",
+            "EBGN301",
+            "EBGN302",
+            "EBGN435",
+            "GPGN229",
+            "GEGN466",
+            "GEGN466L",
+            "MEGN261",
+            "MNGN317",
+            "MNGN318",
+            "MNGN322",
+            "PEGN305",
+            "PEGN450",
+            "PHGN435"
+          ]
+        },
+        {
+          "code": "PHGN200",
+          "title": "PHYSICS II-ELECTROMAGNETISM AND OPTICS",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "Continuation of PHGN100. Introduction to the fundamental laws and concepts of electricity and magnetism, electromagnetic devices, electromagnetic behavior of materials, applications to simple circuits, electromagnetic radiation, and an introduction to optical phenomena. Prerequisite: Grade of C- or higher in PHGN100. Co-requisite: MATH213 or MATH223.",
+          "prereqs": [
+            "PHGN100"
+          ],
+          "coreqs": [
+            "MATH213 OR MATH223"
+          ],
+          "postreqs": [
+            "PHGN215",
+            "PHGN300",
+            "PHGN310",
+            "PHGN324",
+            "PHGN350",
+            "PHGN361",
+            "PHGN419"
+          ]
+        },
+        {
+          "code": "CHGN209",
+          "title": "INTRODUCTION TO CHEMICAL THERMODYNAMICS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Introduction to the fundamental principles of classical thermodynamics, with particular emphasis on chemical and phase equilibria. Volume-temperature-pressure relationships for solids, liquids, and gases; ideal and non-ideal gases. Introduction to kineticmolecular theory of ideal gases and the Maxwell-Boltzmann distributions. Work, heat, and application of the First Law to closed systems, including chemical reactions. Entropy and the Second and Third Laws; Gibbs Free Energy. Chemical equilibrium and the equilibrium constant; introduction to activities & fugacities. One- and two-component phase diagrams; Gibbs Phase Rule. May not also receive credit for CBEN210 or GEGN330. Prerequisites: CHGN121, CHGN122 or CHGN125, MATH111, MATH112, PHGN100. 3 hours lecture; 3 semester hours.",
+          "prereqs": [
+            "CHGN121 OR CHGN122 OR CHGN125",
+            "MATH111",
+            "MATH112",
+            "PHGN100"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN341",
+            "CHGN351",
+            "CHGN403",
+            "CHGN410",
+            "CHGN435",
+            "MNGN424",
+            "MTGN469",
+            "PEGN312",
+            "PEGN460",
+            "PEGN461",
+            "PEGN462"
+          ]
+        },
+        {
+          "code": "CHGN221",
+          "title": "ORGANIC CHEMISTRY I",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Structure, properties, and reactions of the important classes of organic compounds, introduction to reaction mechanisms. Prerequisites: Grade of C- or better in CHGN122 or CHGN125. 3 hours lecture; 3 semester hours.",
+          "prereqs": [
+            "CHGN122 OR CHGN125"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN222",
+            "CHGN223",
+            "CHGN336",
+            "CHGN337",
+            "CHGN422"
+          ]
+        },
+        {
+          "code": "CHGN223",
+          "title": "ORGANIC CHEMISTRY I LABORATORY",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "Laboratory exercises including purification techniques, synthesis, and characterization. Experiments are designed to support concepts presented in the CHGN221. Students are introduced to Green Chemistry principles and methods of synthesis and the use of computational software. 3 hours laboratory, 1 semester hour. Prerequisite: CHGN221 or concurrent enrollment.",
+          "prereqs": [
+            "CHGN221"
+          ],
+          "coreqs": [
+            "CHGN221"
+          ],
+          "postreqs": [
+            "CHGN337",
+            "CHGN422"
+          ]
+        }
+      ]
+    },
+    {
+      "year": "Sophomore",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "HASS215",
+          "title": "FUTURES",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "FUTURES invites students to envision possibilities around critical issues related to the future of science and engineering. It is central to the Mines core curriculum and encouraged during the first years at Mines. Guided by four instructors who share perspectives from a wide range of humanities, social science, and applied disciplines, students will explore future-oriented themes at the forefront of advances in science, engineering, technology and society, such as Energy Futures, Technology Futures, and Critical Resource Sustainability, among others. By the end of the course students will gain skills in integrating multiple perspectives and connecting them to their own interests and trajectory at Mines and beyond. Prerequisites: None. Co-requisites: None.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "HASS302"
+          ]
+        },
+        {
+          "code": "CHGN222",
+          "title": "ORGANIC CHEMISTRY II",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Continuation of CHGN221. 3 hours lecture; 3 semester hours. Prerequisite: Grade of C- or better in CHGN221.",
+          "prereqs": [
+            "CHGN221"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN323",
+            "CHGN341",
+            "CHGN430",
+            "CHGN441",
+            "CHGN445"
+          ]
+        },
+        {
+          "code": "CHGN224",
+          "title": "ORGANIC CHEMISTRY II LABORATORY",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "Laboratory exercises using more advanced synthesis techniques. Experiments are designed to support concepts presented in CHGN222.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN323"
+          ]
+        },
+        {
+          "code": "MATH225",
+          "title": "DIFFERENTIAL EQUATIONS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "This course is an introduction to ordinary differential equations. Topics include classical techniques for first and higher order equations and systems of equations. Laplace transforms, phase-plane and stability analysis of non-linear equations and systems, applications from physics, mechanics, electrical engineering, and environmental sciences. 3 hours lecture; 3 semester hours. Prerequisites: Grade of C- or better in MATH112 or MATH122. Co-requisites: CSC128 or CSCI102.",
+          "prereqs": [
+            "MATH112 OR MATH122"
+          ],
+          "coreqs": [
+            "CSC128 OR CSCI102"
+          ],
+          "postreqs": [
+            "MATH310",
+            "MATH454",
+            "MATH455",
+            "MATH459",
+            "CBEN307",
+            "CBEN314",
+            "CBEN357",
+            "CBEN403",
+            "CBEN416",
+            "CBEN418",
+            "CBEN420",
+            "CBEN430",
+            "CBEN440",
+            "CHGN351",
+            "CEEN405",
+            "CEEN406",
+            "EENG307",
+            "EENG310",
+            "EENG386",
+            "EENG391",
+            "GPGN404",
+            "GEGN466",
+            "GEGN466L",
+            "GEOL470",
+            "MEGN475",
+            "MNGN461",
+            "MTGN315",
+            "MTGN461",
+            "MTGN469",
+            "PEGN414",
+            "PEGN423",
+            "PEGN460",
+            "PEGN461",
+            "PEGN462",
+            "PHGN311",
+            "PHGN419"
+          ]
+        },
+        {
+          "code": "CHGN335",
+          "title": "INSTRUMENTAL ANALYSIS",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Principles of AAS, AES, Visible-UV, IR, NMR, XRF, XRD, XPS, electron, and mass spectroscopy; gas and liquid chromatography; data interpretation. Prerequisite: CHGN122 with a grade of C- or better or CHGN125 with a grade of C- or better.",
+          "prereqs": [
+            "CHGN122 OR CHGN125"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "TECH ELECT",
+          "title": "Technical Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "CHGN336",
+          "title": "ANALYTICAL CHEMISTRY",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Theory and techniques of gravimetry, titrimetry (acid-base, complexometric, redox, precipitation), electrochemical analysis, chemical separations; statistical evaluation of data. Prerequisite: CHGN221, CHGN122 with a grade of C- or better or CHGN125 with a grade of C- or better.",
+          "prereqs": [
+            "CHGN221",
+            "CHGN122 OR CHGN125"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "CHGN337",
+          "title": "ANALYTICAL CHEMISTRY LABORATORY",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "Laboratory exercises emphasizing sample preparation and instrumental methods of analysis. Prerequisite: CHGN221 (C- or better), CHGN 223.  Co-requisite: CHGN336.",
+          "prereqs": [
+            "CHGN221",
+            "CHGN223"
+          ],
+          "coreqs": [
+            "CHGN336"
+          ],
+          "postreqs": []
+        },
+        {
+          "code": "CHGN341",
+          "title": "INORGANIC CHEMISTRY I",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "The chemistry of the elements and periodic trends in reactivity is discussed. Particular concepts covered include group theory, symmetry, bonding in ionic and metallic crystal, acid-base theories, coordination chemistry, ligand field theory and radioactivity. 3 hours lecture; 3 semester hours. Prerequisite: CHGN222 and CHGN209 or CBEN210.",
+          "prereqs": [
+            "CHGN222",
+            "CHGN209 OR CBEN210"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN401",
+            "CHGN490"
+          ]
+        },
+        {
+          "code": "CHGN351",
+          "title": "PHYSICAL CHEMISTRY: A MOLECULAR PERSPECTIVE I",
+          "credits": "4.0",
+          "core": "MAJOR",
+          "desc": "A study of chemical systems from a molecular physical chemistry perspective. Includes an introduction to quantum mechanics, atoms and molecules, spectroscopy, bonding and symmetry, and an introduction to modern computational chemistry. Prereqs: MATH225, PHGN200, CHGN209 with a grade of C- or better or CBEN210.",
+          "prereqs": [
+            "MATH225",
+            "PHGN200",
+            "CHGN209 OR CBEN210"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN353",
+            "CHGN475",
+            "CHGN490"
+          ]
+        },
+        {
+          "code": "CHGN395",
+          "title": "INTRODUCTION TO UNDERGRADUATE RESEARCH",
+          "credits": "1.0",
+          "core": "MAJOR",
+          "desc": "(I) (WI) Introduction to Undergraduate Research is designed to introduce students to the research endeavor.  Topics include ethics, hypothesis testing, critical evaluation of the scientific literature, scientific writing, bibliographic software, and proposal preparation.  Prerequisites: Completion of the chemistry curriculum through the Spring semester of the sophomore year. Credit: 1 semester hour.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "CAS3**",
+          "title": "CULTURE AND SOCIETY (CAS) Mid-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "CHGN353",
+          "title": "PHYSICAL CHEMISTRY: A MOLECULAR PERSPECTIVE II",
+          "credits": "4.0",
+          "core": "TRACK",
+          "desc": "A continuation of CHGN351. Includes statistical thermodynamics, chemical kinetics, chemical reaction mechanisms, electrochemistry, and selected additional topics. 3 hours lecture; 3 hours laboratory; 4 semester hours. Prerequisite: CHGN351.",
+          "prereqs": [
+            "CHGN351"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "CHGN323",
+          "title": "QUALITATIVE ORGANIC ANALYSIS AND APPLIED SPECTROSCOPY",
+          "credits": "2.0",
+          "core": "MAJOR",
+          "desc": "Identification, separation and purification of organic compounds including use of modern physical and instrumental methods. 1 hour lecture; 3 hours lab; 2 semester hours. Prerequisite: Grade of C- or better in CHGN222, CHGN224.",
+          "prereqs": [
+            "CHGN222",
+            "CHGN224"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN490"
+          ]
+        },
+        {
+          "code": "CHGN428",
+          "title": "BIOCHEMISTRY",
+          "credits": "3.0",
+          "core": "MAJOR",
+          "desc": "Introductory study of the major molecules of biochemistry: amino acids, proteins, enzymes, nucleic acids, lipids, and saccharides- their structure, chemistry, biological function, and biosynthesis. Stresses bioenergetics and the cell as a biological unit of organization. Discussion of classical genetics, molecular genetics, and protein synthesis. Co-requisite: CHGN222.",
+          "prereqs": [],
+          "coreqs": [
+            "CHGN222"
+          ],
+          "postreqs": [
+            "CHGN429",
+            "CHGN435",
+            "CHGN441",
+            "CHGN445"
+          ]
+        },
+        {
+          "code": "TECH ELECT",
+          "title": "Technical Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "EBGN321",
+          "title": "ENGINEERING ECONOMICS",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "Equivalent with CHEN421,Time value of money concepts of present worth, future worth, annual worth, rate of return and break-even analysis applied to after-tax economic analysis of mineral, petroleum and general investments. Related topics on proper handling of (1) inflation and escalation, (2) leverage (borrowed money), (3) risk adjustment of analysis using expected value concepts, (4) mutually exclusive alternative analysis and service producing alternatives.",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Junior",
+      "term": "Summer",
+      "courses": [
+        {
+          "code": "CHGN490",
+          "title": "CHEMISTRY FIELD SESSION",
+          "credits": "6.0",
+          "core": "MAJOR",
+          "desc": "(WI) Professional-level chemistry experience featuring modules including organic/polymer synthesis and characterization, inorganic nanomaterial investigations, computational chemistry, environmental chemical analysis , biochemistry and technical report writing. 6-week summer session; 6 semester hours. Prerequisite: CHGN323, CHGN341, and CHGN351.",
+          "prereqs": [
+            "CHGN323",
+            "CHGN341",
+            "CHGN351"
+          ],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Fall",
+      "courses": [
+        {
+          "code": "CAS3**",
+          "title": "CULTURE AND SOCIETY (CAS) Mid-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "CHGN ELECT",
+          "title": "Chemistry Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "TECH ELECT",
+          "title": "Technical Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "TECH ELECT",
+          "title": "Technical Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    },
+    {
+      "year": "Senior",
+      "term": "Spring",
+      "courses": [
+        {
+          "code": "CAS4**",
+          "title": "CULTURE AND SOCIETY (CAS) 400-Level Restricted Elective",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "CHGN401",
+          "title": "INORGANIC CHEMISTRY II",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "The chemistry of the elements and several applications are related to inorganic chemistry are considered in this course. Particular concepts covered include experimental techniques, chemistry specific to groups of elements, catalysis and industrial processes, inorganic materials and nanotechnology, and other applications of inorganic chemistry. Prerequisite: CHGN341. 3 hours lecture; 3 semester hours.",
+          "prereqs": [
+            "CHGN341"
+          ],
+          "coreqs": [],
+          "postreqs": [
+            "CHGN475"
+          ]
+        },
+        {
+          "code": "CHGN ELECT",
+          "title": "Chemistry Elective",
+          "credits": "2.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "TECH ELECT",
+          "title": "Technical Elective",
+          "credits": "3.0",
+          "core": "TRACK",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        },
+        {
+          "code": "FREE",
+          "title": "Free Elective",
+          "credits": "3.0",
+          "core": "MINES",
+          "desc": "",
+          "prereqs": [],
+          "coreqs": [],
+          "postreqs": []
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "from": "CHGN121",
+      "to": "CHGN122",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH111",
+      "to": "MATH112",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH111",
+      "to": "PHGN100",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "PHGN100",
+      "type": "coreq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH213",
+      "type": "prereq"
+    },
+    {
+      "from": "CSCI128",
+      "to": "MATH213",
+      "type": "coreq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "PHGN200",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH213",
+      "to": "PHGN200",
+      "type": "coreq"
+    },
+    {
+      "from": "CHGN121",
+      "to": "CHGN209",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN122",
+      "to": "CHGN209",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH111",
+      "to": "CHGN209",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "CHGN209",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN100",
+      "to": "CHGN209",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN122",
+      "to": "CHGN221",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN221",
+      "to": "CHGN223",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN221",
+      "to": "CHGN223",
+      "type": "coreq"
+    },
+    {
+      "from": "CHGN221",
+      "to": "CHGN222",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH112",
+      "to": "MATH225",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN122",
+      "to": "CHGN335",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN122",
+      "to": "CHGN336",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN221",
+      "to": "CHGN336",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN221",
+      "to": "CHGN337",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN223",
+      "to": "CHGN337",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN336",
+      "to": "CHGN337",
+      "type": "coreq"
+    },
+    {
+      "from": "CHGN209",
+      "to": "CHGN341",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN222",
+      "to": "CHGN341",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN209",
+      "to": "CHGN351",
+      "type": "prereq"
+    },
+    {
+      "from": "MATH225",
+      "to": "CHGN351",
+      "type": "prereq"
+    },
+    {
+      "from": "PHGN200",
+      "to": "CHGN351",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN351",
+      "to": "CHGN353",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN222",
+      "to": "CHGN323",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN224",
+      "to": "CHGN323",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN222",
+      "to": "CHGN428",
+      "type": "coreq"
+    },
+    {
+      "from": "CHGN323",
+      "to": "CHGN490",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN341",
+      "to": "CHGN490",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN351",
+      "to": "CHGN490",
+      "type": "prereq"
+    },
+    {
+      "from": "CHGN341",
+      "to": "CHGN401",
+      "type": "prereq"
+    }
+  ]
+}
