@@ -12,4 +12,4 @@ def create_app():
 
 
 if __name__ == "__main__":
-    create_app().run(port=int(os.environ.get("PORT", 5000)), debug=True)
+    create_app().run(port=int(os.environ.get("PORT", 5001)), debug=True)
