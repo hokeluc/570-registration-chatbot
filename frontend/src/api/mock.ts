@@ -11,7 +11,7 @@ export async function mockChat(req: ChatRequest): Promise<ChatResponse> {
   const last = req.messages[req.messages.length - 1]?.content.toLowerCase() ?? ''
   const { profile } = req
 
-  if (last.includes('fail')) throw new Error('Mock error: backend unavailable')
+  if (last.includes('simulate error')) throw new Error('Mock error: backend unavailable')
 
   if (last.includes('prereq')) {
     return {

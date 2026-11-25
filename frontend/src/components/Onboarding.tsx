@@ -70,6 +70,15 @@ export default function Onboarding({ initial, onDone, onCancel }: Props) {
     if (step === 0 && gradYear < entryYear) return 'Graduation year can’t be before your entry year.'
     if (step === 1 && !major) return 'Pick your major to continue.'
     if (step === 1 && secondMajor && secondMajor === major) return 'Your second major must differ from your first.'
+    if (step === 2) {
+      // Course codes only: this also blocks grades ("CSCI101 B") and IDs from being saved.
+      const bad = courses
+        .split(/[,\n]/)
+        .map((c) => c.replace(/\s+/g, '').toUpperCase())
+        .filter((c) => c && !/^[A-Z]{4}\d{3}[A-Z]?$/.test(c))
+      if (bad.length)
+        return `Please list course codes only, like CSCI101 (no grades or IDs). Check: ${bad.slice(0, 3).join(', ')}`
+    }
     if (step === 3 && !ack) return 'Please confirm you’ve read the privacy note.'
     return ''
   }

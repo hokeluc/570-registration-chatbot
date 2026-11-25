@@ -63,6 +63,8 @@ The frontend sends the whole session profile and the last 10 chat turns with eve
 | `profile_updates` | Changes the agent *proposes*. The student clicks Accept or No thanks, and only accepted changes reach the profile sent with the next request. `field` is one of `completed_courses`, `majors`, `minors`, `track`, `catalog_year`, `grad_year`, `entry_term`. `op` is `add`/`remove` for the list fields and `set` for single values. |
 | `warnings` | Optional. Each one shows as a red-accent callout above the reply. Use it for conflicting sources (test case 7) and for guesses about course offerings (test case 9). |
 
+**Privacy:** the frontend holds back messages that look like they contain a CWID, grade, name or contact info (`frontend/src/lib/privacy.ts`), and messages it redacted arrive with placeholders such as `[grade removed]`. Students can still choose "send anyway" for possible grades or names, and someone could call the API directly, so the backend should **not** log message text. The system prompt should tell the model never to ask for names, IDs or grades.
+
 Missing `citations`, `profile_updates` or `warnings` count as empty. On a non-2xx status the UI shows a "Try again" button.
 
 ---

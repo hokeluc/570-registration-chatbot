@@ -12,7 +12,7 @@ npm install        # first time only, or after package.json changes
 npm run dev        # prints a link such as http://localhost:5173
 ```
 Open the link it prints. If port 5173 is busy, Vite picks the next free port (5174, ...). Press Ctrl+C to stop.
-By default the app uses a **mock backend** (`src/api/mock.ts`), and a "Demo data" badge appears in the header. Words that trigger the different mock responses: `prereq`, `email`, `offered`, `CASA`, `I've taken MATH111`, and `fail` (shows the error state).
+By default the app uses a **mock backend** (`src/api/mock.ts`), and a "Demo data" badge appears in the header. Words that trigger the different mock responses: `prereq`, `email`, `offered`, `CASA`, `I've taken MATH111`, and `simulate error` (shows the error state).
 
 ## Connect to Flask
 1. Start the backend on port 5000 with `POST /api/chat` (and `GET /api/options`), following [`../docs/api-contract.md`](../docs/api-contract.md).
@@ -39,5 +39,8 @@ By default the app uses a **mock backend** (`src/api/mock.ts`), and a "Demo data
 
 ## Privacy
 - The UI never asks for a name, CWID or grades, and it reminds students not to enter them.
+- **Privacy check** (`src/lib/privacy.ts` + `src/components/PrivacyGuard.tsx`): before a message is sent, the app looks for CWIDs (8-digit numbers or "CWID: …"), grades and GPAs ("I got a B+", "my GPA is 3.2", "CSCI101: B", "I failed …"), names ("my name is …", email sign-offs) and email addresses or phone numbers. If it finds any, the message is held and the student can choose **Remove it and send** (replaces the text with `[grade removed]`, for example) or **Edit my message**. For grades and names there is also "send anyway", in case the match is wrong. CWIDs and contact info can never be sent as is. Requirement questions such as "do I need a C- or better?" are not flagged.
+- The completed-courses box in onboarding only accepts course codes like `CSCI101`, so grades can't get into the profile.
+- The check only runs in the browser, so the backend should still filter what it receives (see `docs/api-contract.md`).
 - The profile is kept in `sessionStorage` only. Chat history is kept in memory only and is lost on refresh.
 - This is an unofficial tool, so it doesn't use the Mines logo or wordmark.
