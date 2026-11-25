@@ -636,6 +636,49 @@ label.check input {
   }
 }
 
+.guard-wrap {
+  max-width: 860px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+.privacy-guard {
+  padding: 14px 16px;
+  border-radius: var(--radius);
+  background: var(--surface);
+  border: 1px solid var(--mines-colorado-red);
+  border-left-width: 5px;
+  box-shadow: var(--shadow);
+  font-size: 0.92rem;
+}
+.pg-title {
+  font-family: var(--font-head);
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+.privacy-guard p {
+  margin: 0 0 12px;
+}
+.privacy-guard mark {
+  background: #fbf1ee;
+  color: var(--mines-colorado-red);
+  font-weight: 600;
+  padding: 0 4px;
+  border-radius: 3px;
+}
+.pg-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+}
+.btn.link.pg-override {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
 .composer {
   display: flex;
   gap: 10px;

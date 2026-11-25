@@ -2,7 +2,9 @@ import { useEffect, useRef, useState, type Dispatch, type FormEvent, type Keyboa
 import { sendChat } from '../api/client'
 import type { ChatTurn } from '../api/types'
 import { useProfile } from '../context/ProfileContext'
+import { detectPii, redactPii, type PiiFinding } from '../lib/privacy'
 import MessageBubble, { type UIMessage } from './MessageBubble'
+import PrivacyGuard from './PrivacyGuard'
 import SuggestedPrompts from './SuggestedPrompts'
 
 const HISTORY_LIMIT = 10 // "last k messages" sent as user context (proposal, Fig. 2)
@@ -18,6 +20,7 @@ export default function Chat({ messages, setMessages }: Props) {
   const { profile, applyUpdate } = useProfile()
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
+  const [findings, setFindings] = useState<PiiFinding[]>([])
   const endRef = useRef<HTMLDivElement>(null)
   const inputRef = useRef<HTMLTextAreaElement>(null)
 
@@ -61,9 +64,17 @@ export default function Chat({ messages, setMessages }: Props) {
     }
   }
 
-  function send(text: string) {
+  function send(text: string, { skipCheck = false } = {}) {
     const trimmed = text.trim()
     if (!trimmed || loading) return
+    if (!skipCheck) {
+      const found = detectPii(trimmed)
+      if (found.length) {
+        setFindings(found) // hold the message until the student decides
+        return
+      }
+    }
+    setFindings([])
     const userMsg: UIMessage = { id: newId(), role: 'user', content: trimmed }
     const history = [...messages, userMsg]
     setMessages(history)
@@ -139,6 +150,20 @@ export default function Chat({ messages, setMessages }: Props) {
         <div ref={endRef} />
       </div>
 
+      {findings.length > 0 && (
+        <div className="guard-wrap">
+          <PrivacyGuard
+            findings={findings}
+            onRedact={() => send(redactPii(input), { skipCheck: true })}
+            onEdit={() => {
+              setFindings([])
+              inputRef.current?.focus()
+            }}
+            onSendAnyway={() => send(input, { skipCheck: true })}
+          />
+        </div>
+      )}
+
       <form className="composer" onSubmit={onSubmit}>
         <label htmlFor="chat-input" className="sr-only">
           Ask a question
@@ -148,7 +173,10 @@ export default function Chat({ messages, setMessages }: Props) {
           ref={inputRef}
           rows={1}
           value={input}
-          onChange={(e) => setInput(e.target.value)}
+          onChange={(e) => {
+            setInput(e.target.value)
+            if (findings.length) setFindings([])
+          }}
           onKeyDown={onKeyDown}
           placeholder="Ask about courses, requirements, or advising…"
           autoFocus
